@@ -1,0 +1,2251 @@
+,Address,Area,Baths,Beds,Price
+0,"4201 Cathedral Ave Nw Apt 116e, Washington, DC 20016",902 sqft,1,1,$300k
+1,"1419 Varnum St Nw, Washington, DC 20011","1,640 sqft",2,3,$625k
+2,"2035 2nd Street N Gl #02, Washington, DC 20001","1,123 sqft",2,2,$549k
+3,"1514 21st St Nw Apt 8, Washington, DC 20036","1,915 sqft",3,2,$1.33m
+4,"26 Sheridan St Ne, Washington, DC 20011",0.05 acres,2,3,$410k
+5,"3019 Nash Pl Se, Washington, DC 20020","2,415 sqft",3,4,$519k
+6,"2708 Olive St Nw, Washington, DC 20007","2,000 sqft",5,3,$1.65m
+7,"1458 Columbia Rd Nw Apt 303, Washington, DC 20009",550 sqft,1,1,$300k
+8,"1441 Rhode Island Ave Nw Apt 105, Washington, DC 20005",700 sqft,1,1,$490k
+9,"532 Oklahoma Ave Ne, Washington, DC 20002",0.04 acres,3,4,$750k
+10,"3706 Jenifer St Nw, Washington, DC 20015","2,861 sqft",4,4,$975k
+11,"2926 Porter St Nw Apt 304, Washington, DC 20008",700 sqft,1,1,$499k
+12,"2500 Virginia Ave Nw #705-s, Washington, DC 20037","1,880 sqft",3,2,$1.30m
+13,"777 7th St Nw Apt 426, Washington, DC 20001",994 sqft,2,2,$610k
+14,"1300 N St Nw Apt 112, Washington, DC 20005",524 sqft,1,N/A,$339k
+15,"618 Southern Ave Se, Washington, DC 20032",0.04 acres,2,2,$360k
+16,"1419 10th St Nw, Washington, DC 20001",0.04 acres,3,3,$1.33m
+17,"225 12th St Ne, Washington, DC 20002","2,666 sqft",4,4,$1.60m
+18,"1822 15th St Nw Apt 201, Washington, DC 20009",277 sqft,1,N/A,$265k
+19,"1022 17th St Ne, Washington, DC 20002",0.1 acres,N/A,N/A,$1m
+20,"714 Decatur St Nw, Washington, DC 20011",0.04 acres,4,4,$850k
+21,"1 Derby Ln Se, Washington, DC 20003","1,472 sqft",3,2,$795k
+22,"1901 Wyoming Ave Nw Apt 60, Washington, DC 20009",N/A,1,1,$500k
+23,"1115 12th St Nw Apt T3, Washington, DC 20005","1,086 sqft",2,2,$625k
+24,"715 6th St Nw Unit 1102, Washington, DC 20001","1,415 sqft",2,3,$850k
+25,"1317 Fernway Rd Nw, Washington, DC 20012","1,962 sqft",2,3,$629k
+26,"413 12th St Ne, Washington, DC 20002",0.03 acres,2,4,$725k
+27,"1414 22nd St Nw Apt 3, Washington, DC 20037",825 sqft,1,1,$660k
+28,"1609 Isherwood St Ne Apt 2, Washington, DC 20002",614 sqft,1,1,$320k
+29,"1221 42nd St Se #32, Washington, DC 20020","1,716 sqft",4,3,$299k
+30,"1421 Columbia Rd Nw Apt B4, Washington, DC 20009",867 sqft,1,2,$350k
+31,"4325 47th St Nw, Washington, DC 20016","2,319 sqft",4,5,$1.35m
+32,"429 N St Sw #s504, Washington, DC 20024","1,211 sqft",2,2,$620k
+33,"4935 New Hampshire Ave Nw, Washington, DC 20011",0.03 acres,2,3,$550k
+34,"1169 Summit St Ne, Washington, DC 20002",0.03 acres,1,2,$280k
+35,"2456 20th St Nw Apt 403, Washington, DC 20009",600 sqft,1,1,$399k
+36,"2351 Hunter Pl Se, Washington, DC 20020","1,152 sqft",2,2,$250k
+37,"1700 Lang Pl Ne, Washington, DC 20002",0.05 acres,3,3,$639k
+38,"1339 Meridian Pl Nw, Washington, DC 20010","1,328 sqft",2,3,$598k
+39,"2561 36th St Se, Washington, DC 20020",0.2 acres,3,4,$330k
+40,"1080 Wisconsin Ave Nw Apt 1010, Washington, DC 20007","1,404 sqft",2,2,$875k
+41,"4042 Mansion Ct Nw, Washington, DC 20007","3,018 sqft",4,4,$1.71m
+42,"213 14th St Se, Washington, DC 20003",0.03 acres,2,2,$750k
+43,"635 49th St Ne, Washington, DC 20019",0.13 acres,1,3,$230k
+44,"4713 B St Se, Washington, DC 20019","1,200 sqft",1,2,$199k
+45,"1610 11th St Nw Apt 4b, Washington, DC 20001","1,410 sqft",2,2,$875k
+46,"3159 Westover Dr Se, Washington, DC 20020","1,814 sqft",2,4,$465k
+47,"3943 Blaine St Ne, Washington, DC 20019","1,683 sqft",1,3,$300k
+48,"84 P St Nw, Washington, DC 20001","4,750 sqft",N/A,N/A,$2.19m
+49,"4301 37th St Nw, Washington, DC 20008",0.08 acres,4,4,$939k
+50,"3210 15th Pl Se, Washington, DC 20020",0.05 acres,3,4,$345k
+51,"514 11th St Se, Washington, DC 20003","1,950 sqft",2,3,$825k
+52,"1720 Montello Ave Ne, Washington, DC 20002",0.03 acres,4,4,$800k
+53,"80 P St Nw, Washington, DC 20001","2,400 sqft",N/A,N/A,$1.95m
+54,"1367 Barnaby Ter Se, Washington, DC 20032","1,116 sqft",3,4,$350k
+55,"3337 Clay Pl Ne, Washington, DC 20019",0.03 acres,1,2,$299k
+56,"1930 Biltmore St Nw #300, Washington, DC 20009","1,100 sqft",2,2,$684k
+57,"1128 10th St Nw, Washington, DC 20001",0.06 acres,N/A,N/A,$3.00m
+58,"3326 Prospect St Nw, Washington, DC 20007","2,040 sqft",2,3,$995k
+59,"5152 Manning Pl Nw, Washington, DC 20016","5,378 sqft",7,6,$2.50m
+60,"701 Brandywine St Se Apt 104, Washington, DC 20032",708 sqft,1,2,$95k
+61,"1311 Fort Stevens Dr Nw, Washington, DC 20011",0.11 acres,N/A,N/A,$900k
+62,"736 Kenyon St Nw #2, Washington, DC 20010","1,400 sqft",3,3,$900k
+63,"736 Kenyon St Nw #1, Washington, DC 20010","1,650 sqft",3,3,$750k
+64,"436 24th St Ne, Washington, DC 20002",0.08 acres,1,3,$500k
+65,"82 P St Nw, Washington, DC 20001","1,715 sqft",2,2,$849k
+66,"4201 Cathedral Ave Nw Apt 907w, Washington, DC 20016",888 sqft,1,1,$294k
+67,"3961 Martin Luther King Jr Ave Sw, Washington, DC 20032","1,890 sqft",2,3,$279k
+68,"3052 R St Nw #307, Washington, DC 20007","2,210 sqft",4,3,$2.55m
+69,"4645 Hillside Rd Se, Washington, DC 20019",0.09 acres,N/A,N/A,$425k
+70,"3511 17th St Nw #7, Washington, DC 20010","2,395 sqft",4,2,$890k
+71,"1821 Kalorama Rd Nw, Washington, DC 20009","5,129 sqft",5,8,$2.00m
+72,"1102 Trinidad Ave Ne, Washington, DC 20002","1,944 sqft",3,2,$695k
+73,"136 Yuma St Se, Washington, DC 20032",0.1 acres,2,3,$230k
+74,"1155 23rd St Nw Apt 7l, Washington, DC 20037","1,324 sqft",2,2,$1.03m
+75,"5037 Meade St Ne, Washington, DC 20019","1,740 sqft",2,4,$400k
+76,"2551 Alabama Ave Se, Washington, DC 20020",0.03 acres,2,3,$300k
+77,"3815 25th Pl Ne, Washington, DC 20018",0.09 acres,2,3,$449k
+78,"922 I St Se, Washington, DC 20003","3,070 sqft",N/A,N/A,$1.50m
+79,"1308 Belmont St Nw Apt 1, Washington, DC 20009","1,050 sqft",2,2,$649k
+80,"3003 7th St Ne, Washington, DC 20017","1,700 sqft",4,4,$650k
+81,"2401 H St Nw Apt 804, Washington, DC 20037",898 sqft,1,2,$440k
+82,"926 N Carolina Ave Se, Washington, DC 20003","2,400 sqft",3,3,$1.24m
+83,"5032 A St Se, Washington, DC 20019",0.09 acres,4,4,$491k
+84,"4435 7th St Ne, Washington, DC 20017",0.07 acres,2,3,$490k
+85,"3832 Mckinley St Nw, Washington, DC 20015","2,853 sqft",N/A,5,$850k
+86,"1609 35th St Nw, Washington, DC 20007","4,757 sqft",5,5,$3.00m
+87,"91 Danbury St Sw, Washington, DC 20032","1,152 sqft",4,3,$350k
+88,"2222 Observatory Pl Nw, Washington, DC 20007","1,530 sqft",2,4,$775k
+89,"5442 Chevy Chase Pkwy Nw, Washington, DC 20015",0.1 acres,4,4,$1.15m
+90,"3415 P St Nw, Washington, DC 20007",0.03 acres,2,2,$1.60m
+91,"534 Irving St Nw, Washington, DC 20010","1,250 sqft",2,3,$699k
+92,"6315 13th St Nw, Washington, DC 20011","2,320 sqft",3,4,$750k
+93,"625 Darrington St Se, Washington, DC 20032",0.04 acres,3,3,$330k
+94,"1077 Paper Mill Ct Nw #1077, Washington, DC 20007","1,300 sqft",2,4,$880k
+95,"1543 Upshur St Nw, Washington, DC 20011","3,300 sqft",4,4,$998k
+96,"3600 Wright Ter Ne, Washington, DC 20018","2,600 sqft",4,4,$650k
+97,"1311 Rhode Island Ave Nw, Washington, DC 20005","4,226 sqft",N/A,N/A,$2.90m
+98,"1801 16th St Nw Apt 101, Washington, DC 20009",381 sqft,1,N/A,$285k
+99,"301&303 N. Frnt Street, Wheeling, WV 20003","4,266 sqft",N/A,N/A,$215k
+100,"262 56th Pl Ne, Washington, DC 20019",0.05 acres,2,2,$320k
+101,"921 11th St Ne, Washington, DC 20002","2,400 sqft",3,3,$949k
+102,"1524 19th St Se, Washington, DC 20020",0.04 acres,3,3,$580k
+103,"2115 2nd St Nw, Washington, DC 20001",0.11 acres,N/A,N/A,$950k
+104,"1910 Kalorama Rd Nw Apt 105, Washington, DC 20009",753 sqft,1,1,$464k
+105,"700 New Hampshire Ave Nw #318, Washington, DC 20037","2,336 sqft",3,3,$1.85m
+106,"519 Q St Nw, Washington, DC 20001",0.03 acres,N/A,N/A,$1.30m
+107,"1626 Montague St Nw, Washington, DC 20011","2,400 sqft",4,4,$1.40m
+108,"1442 Fairmont St Nw Apt B, Washington, DC 20009","1,800 sqft",3,3,$700k
+109,"560 N St Sw Apt N509, Washington, DC 20024",677 sqft,1,1,$320k
+110,"5917 Dix St Ne, Washington, DC 20019",0.04 acres,3,4,$287k
+111,"2007 Wyoming Ave Nw #15, Washington, DC 20009",N/A,2,1,$599k
+112,"75 Danbury St Sw, Washington, DC 20032",0.01 acres,4,3,$340k
+113,"3207 Sutton Pl Nw Apt B, Washington, DC 20016","1,332 sqft",3,2,$782k
+114,"715 6th St Nw Unit 205, Washington, DC 20001","1,133 sqft",2,1,$570k
+115,"4301 Military Rd Nw Apt 311, Washington, DC 20015",980 sqft,2,2,$710k
+116,"3600 28th St Ne, Washington, DC 20018",0.12 acres,3,3,$625k
+117,"3075 Hawthorne Dr Ne #3075, Washington, DC 20017",900 sqft,2,2,$325k
+118,"1813 Kalorama Rd Nw Apt 3, Washington, DC 20009",950 sqft,2,2,$650k
+119,"4724 Jay St Ne, Washington, DC 20019","1,238 sqft",3,3,$489k
+120,"47 S St Nw, Washington, DC 20001","2,391 sqft",3,4,$1.02m
+121,"2101 Connecticut Ave Nw Apt A, Washington, DC 20008","1,000 sqft",1,1,$650k
+122,"2301 Connecticut Ave Nw Apt 2c, Washington, DC 20008","1,450 sqft",3,2,$1.20m
+123,"1301 Longfellow St Nw Apt 309, Washington, DC 20011",676 sqft,1,1,$220k
+124,"4311 Massachusetts Ave Nw, Washington, DC 20016","1,184 sqft",3,2,$625k
+125,"315 W St Ne, Washington, DC 20002",0.07 acres,N/A,N/A,$500k
+126,"2002 Massachusetts Ave Nw #2a, Washington, DC 20036","5,400 sqft",5,4,$4.00m
+127,"3016 O St Nw, Washington, DC 20007","4,200 sqft",6,6,$3.35m
+128,"637 4th St Ne, Washington, DC 20002","2,528 sqft",3,3,$1.19m
+129,"4110 5th St Nw, Washington, DC 20011","1,702 sqft",3,3,$550k
+130,"2475 Virginia Ave Nw #107, Washington, DC 20037",938 sqft,1,1,$339k
+131,"2400 41st St Nw Apt 215, Washington, DC 20007",842 sqft,1,1,$280k
+132,"1557 33rd St Nw, Washington, DC 20007",0.05 acres,2,3,$2.25m
+133,"1816 New Hampshire Ave Nw Apt 502, Washington, DC 20009",374 sqft,1,N/A,$259k
+134,"427 6th St Ne, Washington, DC 20002","1,920 sqft",2,4,$1.06m
+135,"725 46th St Se, Washington, DC 20019",0.13 acres,2,4,$490k
+136,"2325 42nd St Nw Apt 210, Washington, DC 20007",710 sqft,1,1,$289k
+137,"211 55th St Ne, Washington, DC 20019",800 sqft,1,2,$325k
+138,"3121 Patterson St Nw, Washington, DC 20015","2,585 sqft",3,4,$995k
+139,"2725 39th St Nw Apt 112, Washington, DC 20007",974 sqft,1,2,$400k
+140,"2120 Vermont Ave Nw Apt 121, Washington, DC 20001",611 sqft,1,1,$425k
+141,"520 E St Ne Apt 404, Washington, DC 20002",667 sqft,1,1,$449k
+142,"9 Pomander Walk Nw, Washington, DC 20007",0.01 acres,1,1,$649k
+143,"1117 10th St Nw Apt 912, Washington, DC 20001",830 sqft,1,1,$459k
+144,"2125 14th St Nw Apt 521, Washington, DC 20009",555 sqft,1,N/A,$395k
+145,"3831 Garfield St Nw, Washington, DC 20007","2,684 sqft",4,3,$1.25m
+146,"7960 W Beach Dr Nw, Washington, DC 20012","5,024 sqft",4,4,$1.08m
+147,"3001 Veazey Ter Nw Apt 1320, Washington, DC 20008","1,385 sqft",2,2,$575k
+148,"4113 Meade St Ne, Washington, DC 20019","2,764 sqft",3,3,$495k
+149,"5712 8th St Nw, Washington, DC 20011","2,122 sqft",3,3,$770k
+150,"6013 New Hampshire Ave Ne, Washington, DC 20011","1,442 sqft",3,3,$600k
+151,"2201 Upshur St Ne, Washington, DC 20018",0.09 acres,2,2,$560k
+152,"144 Webster St Ne, Washington, DC 20011","1,152 sqft",3,3,$550k
+153,"4301 Military Rd Nw Apt 502, Washington, DC 20015","2,160 sqft",3,2,$1.49m
+154,"1230 23rd St Nw Apt 905, Washington, DC 20037",566 sqft,1,1,$420k
+155,"811 4th St Nw Unit 215, Washington, DC 20001",692 sqft,1,1,$460k
+156,"33 Bryant St Nw #2, Washington, DC 20001","1,850 sqft",3,3,$929k
+157,"4204 48th Pl Nw, Washington, DC 20016",0.08 acres,6,4,$1.20m
+158,"3033 New Mexico Ave Nw Apt 205, Washington, DC 20016",703 sqft,1,1,$265k
+159,"3817 Davis Pl Nw Apt 2, Washington, DC 20007",533 sqft,1,1,$295k
+160,"1330 New Hampshire Ave Nw Apt 211, Washington, DC 20036",504 sqft,1,1,$320k
+161,"1115 12th St Nw Apt 605, Washington, DC 20005",700 sqft,1,1,$409k
+162,"2126 Connecticut Ave Nw #58, Washington, DC 20008",980 sqft,1,2,$640k
+163,"1 Hawthorne Ct Ne #1, Washington, DC 20017","1,260 sqft",3,2,$370k
+164,"437 New York Ave Nw Apt 708, Washington, DC 20001",747 sqft,1,1,$490k
+165,"1000 Taussig Pl Ne, Washington, DC 20017","2,176 sqft",4,3,$949k
+166,"3238 13th St Nw Apt 3, Washington, DC 20010",753 sqft,1,1,$399k
+167,"217 Kennedy St Nw, Washington, DC 20011",0.03 acres,3,2,$580k
+168,"1006 3rd Pl Se, Washington, DC 20003","2,125 sqft",4,4,$1.25m
+169,"7080 31st St Nw, Washington, DC 20015","5,700 sqft",4,4,$1.40m
+170,"3816 E Capitol St Ne, Washington, DC 20019","1,368 sqft",1,3,$275k
+171,"7101 Chestnut St Nw, Washington, DC 20012","1,792 sqft",2,4,$799k
+172,"5015 V St Nw, Washington, DC 20007","1,600 sqft",3,2,$825k
+173,"939 Longfellow St Nw Apt 207, Washington, DC 20011",620 sqft,1,1,$210k
+174,"2187 Half Moon Pl Ne, Washington, DC 20018","1,569 sqft",3,3,$560k
+175,"2111 Wisconsin Ave Nw Apt 113, Washington, DC 20007",986 sqft,2,2,$535k
+176,"302 63rd St Ne, Washington, DC 20019","1,170 sqft",2,3,$395k
+177,"910 New Hampshire Ave Nw, Washington, DC 20037","2,093 sqft",3,4,$1.40m
+178,"3613 Ingomar Pl Nw, Washington, DC 20015","1,640 sqft",2,3,$850k
+179,"5439 Sherier Pl Nw, Washington, DC 20016","1,900 sqft",3,4,$960k
+180,"1211 50th Pl Ne, Washington, DC 20019","1,726 sqft",2,4,$400k
+181,"1118 Holbrook St Ne, Washington, DC 20002","1,848 sqft",4,4,$779k
+182,"1219 Pleasant St Se, Washington, DC 20020","1,258 sqft",2,3,$339k
+183,"718 Jackson St Ne Apt 2, Washington, DC 20017",N/A,2,2,$550k
+184,"717 Brandywine St Se Apt 101, Washington, DC 20032",703 sqft,1,2,$116k
+185,"210 Varnum St Nw, Washington, DC 20011","1,080 sqft",4,4,$730k
+186,"1214 Delafield Pl Nw, Washington, DC 20011","1,557 sqft",2,3,$850k
+187,"1220 Barnaby Ter Se, Washington, DC 20032",0.03 acres,3,4,$350k
+188,"315 Evarts St Ne Apt 206, Washington, DC 20002",900 sqft,1,2,$409k
+189,"3610 14th St Ne, Washington, DC 20017",0.1 acres,4,3,$570k
+190,"1529 14th St Nw Apt 604, Washington, DC 20005",940 sqft,2,2,$759k
+191,"5183 Linnean Ter Nw, Washington, DC 20008",0.1 acres,3,4,$999k
+192,"59 14th St Ne #59, Washington, DC 20002","1,410 sqft",3,2,$579k
+193,"3529 14th St Nw Apt 3, Washington, DC 20010","1,038 sqft",3,2,$600k
+194,"416 6th St Se, Washington, DC 20003",0.05 acres,2,4,$1.15m
+195,"216 Gallatin St Nw, Washington, DC 20011","1,152 sqft",1,3,$450k
+196,"1416 Q St Nw, Washington, DC 20009","3,596 sqft",6,6,$2.20m
+197,"1611 E St Se, Washington, DC 20003","2,200 sqft",4,4,$1.50m
+198,"1507 Buchanan St Nw, Washington, DC 20011","2,208 sqft",2,3,$650k
+199,"3614 Albemarle St Nw, Washington, DC 20008","3,911 sqft",5,5,$1.40m
+200,"2101 N St Nw Apt 205, Washington, DC 20037",649 sqft,1,1,$499k
+201,"1711 Massachusetts Ave Nw #730, Washington, DC 20036",458 sqft,1,1,$335k
+202,"1503 Hamilton St Nw, Washington, DC 20011","4,000 sqft",5,6,$1.20m
+203,"2500 Q St Nw Apt 214, Washington, DC 20007","1,150 sqft",2,2,$549k
+204,"624 Constitution Ave Ne, Washington, DC 20002","1,862 sqft",3,4,$1.07m
+205,"1886 Monroe St Nw, Washington, DC 20010","3,216 sqft",3,4,$1.45m
+206,"1324 Webster St Ne, Washington, DC 20017","2,250 sqft",4,3,$650k
+207,"1726 Kilbourne Pl Nw, Washington, DC 20010",0.05 acres,4,5,$1.20m
+208,"115 New York Ave Nw Unit 7, Washington, DC 20001","1,100 sqft",3,2,$575k
+209,"4613 Macarthur Blvd Nw Unit A, Washington, DC 20007",530 sqft,1,1,$369k
+210,"2125 14th St Nw Apt 815, Washington, DC 20009","1,325 sqft",2,2,$1.28m
+211,"1833 12th St Nw, Washington, DC 20009","1,575 sqft",1,2,$975k
+212,"136 Longfellow St Nw, Washington, DC 20011","1,930 sqft",4,4,$799k
+213,"44 Galveston Pl Sw Apt D, Washington, DC 20032","1,075 sqft",1,2,$35k
+214,"4347 Forest Ln Nw, Washington, DC 20007",0.19 acres,5,6,$2.70m
+215,"2816 2818 R St Se, Washington, DC 20020",0.04 acres,2,3,$399k
+216,"1816 T St Nw Apt 4, Washington, DC 20009",535 sqft,1,1,$375k
+217,"1514 17th St Nw Apt 506, Washington, DC 20036",735 sqft,1,1,$419k
+218,"1837 Wyoming Ave Nw #a, Washington, DC 20009","1,620 sqft",3,2,$950k
+219,"625 3rd St Ne Apt 5, Washington, DC 20002","1,320 sqft",3,2,$725k
+220,"2221 38th St Nw, Washington, DC 20007","2,550 sqft",3,4,$1.03m
+221,"83 54th St Se, Washington, DC 20019",0.06 acres,2,4,$420k
+222,"4926 47th St Nw, Washington, DC 20016",0.09 acres,2,3,$800k
+223,"1133 14th St Nw Apt 1206, Washington, DC 20005",727 sqft,1,1,$519k
+224,"1520 16th St Nw Apt 502, Washington, DC 20036",855 sqft,2,1,$590k
+225,"1655 Hobart St Nw, Washington, DC 20009",0.04 acres,3,4,$1.19m
+226,"1443 Chapin St Nw Apt 103, Washington, DC 20009",627 sqft,1,1,$360k
+227,"1436 Meridian Pl Nw Apt Ll04, Washington, DC 20010",407 sqft,1,1,$220k
+228,"2475 Virginia Ave Nw #508, Washington, DC 20037",824 sqft,1,1,$295k
+229,"1000 New Jersey Ave Se Apt 1115, Washington, DC 20003","1,027 sqft",2,2,$575k
+230,"6234 29th St Nw, Washington, DC 20015","4,700 sqft",5,6,$1.90m
+231,"3901 Connecticut Ave Nw Apt 309, Washington, DC 20008","1,133 sqft",1,1,$570k
+232,"1230 Fairmont St Nw #2, Washington, DC 20009","1,450 sqft",2,2,$750k
+233,"2233 Mount View Pl Se, Washington, DC 20020","1,440 sqft",2,3,$525k
+234,"1605 Underwood St Nw, Washington, DC 20012",0.12 acres,5,5,$1.40m
+235,"1401 17th St Nw Apt 712, Washington, DC 20036","1,012 sqft",2,2,$725k
+236,"1077 30th St Nw #206, Washington, DC 20007","1,500 sqft",2,3,$800k
+237,"616 E St Nw Apt 1110, Washington, DC 20004",740 sqft,1,1,$489k
+238,"1324 14th St Nw Apt 3, Washington, DC 20005",N/A,2,2,$929k
+239,"719 Hamlin St Ne Apt 4, Washington, DC 20017",700 sqft,1,1,$239k
+240,"3303 Water St Nw Unit 3c, Washington, DC 20007","1,450 sqft",2,2,$1.59m
+241,"1024 Buchanan St Ne, Washington, DC 20017","1,622 sqft",2,3,$549k
+242,"5019 13th St Ne, Washington, DC 20017","1,623 sqft",3,3,$575k
+243,"227 Douglas St Ne, Washington, DC 20002","1,734 sqft",4,4,$745k
+244,"909 Porter Ct Ne, Washington, DC 20019","1,330 sqft",4,4,$425k
+245,"4285 Embassy Park Dr Nw, Washington, DC 20016",0.03 acres,4,3,$810k
+246,"8120 W Beach Dr Nw, Washington, DC 20012","3,344 sqft",3,4,$950k
+247,"1391 Pennsylvania Ave Se Unit 246, Washington, DC 20003",680 sqft,1,1,$415k
+248,"4000 Cathedral Ave Nw Apt 833b, Washington, DC 20016","1,050 sqft",1,1,$329k
+249,"2122 California St Nw #654, Washington, DC 20008",667 sqft,1,1,$425k
+250,"1336 4th St Sw, Washington, DC 20024","2,000 sqft",2,4,$649k
+251,"7423 Blair Rd Nw #7423, Washington, DC 20012","2,100 sqft",4,4,$575k
+252,"1001 L St Nw Apt 402, Washington, DC 20001","1,211 sqft",2,2,$800k
+253,"1103 6th St Nw #1, Washington, DC 20001",992 sqft,3,2,$574k
+254,"246 57th Pl Ne, Washington, DC 20019",768 sqft,2,3,$399k
+255,"1103 6th St Nw #4, Washington, DC 20001",972 sqft,3,2,$749k
+256,"1316 Florida Ave Nw, Washington, DC 20009","3,291 sqft",4,4,$1.23m
+257,"3723 Appleton St Nw, Washington, DC 20016","1,705 sqft",2,3,$1.15m
+258,"16 17th St Ne Apt 312, Washington, DC 20002","1,100 sqft",2,2,$579k
+259,"509 58th St Ne, Washington, DC 20019",0.06 acres,1,3,$300k
+260,"3205 Georgia Ave Nw Unit 402, Washington, DC 20010",404 sqft,1,1,$370k
+261,"310 7th St Ne, Washington, DC 20002",0.04 acres,6,5,$1.75m
+262,"12 3rd St Se, Washington, DC 20003","6,620 sqft",7,11,$2.50m
+263,"803 Maryland Ave Ne, Washington, DC 20002","1,417 sqft",4,2,$799k
+264,"4119 4th St Nw, Washington, DC 20011",0.04 acres,3,3,$800k
+265,"4518 Texas Ave Se, Washington, DC 20019","1,326 sqft",2,3,$300k
+266,"5730 Macarthur Blvd Nw, Washington, DC 20016","2,309 sqft",3,3,$1.30m
+267,"2024 16th St Nw, Washington, DC 20009",N/A,N/A,N/A,$40k
+268,"3602 Albemarle St Nw, Washington, DC 20008","4,829 sqft",6,6,$1.85m
+269,"3411 29th St Nw Apt 3, Washington, DC 20008",610 sqft,1,1,$319k
+270,"2801 New Mexico Ave Nw Apt 1421, Washington, DC 20007","1,429 sqft",2,1,$879k
+271,"533 9th St Ne, Washington, DC 20002",0.01 acres,2,2,$630k
+272,"1510 N Capitol St Nw #203, Washington, DC 20002",N/A,1,1,$369k
+273,"432 Warner St Nw, Washington, DC 20001","1,860 sqft",3,3,$850k
+274,"848 Burns St Se, Washington, DC 20019",0.13 acres,2,3,$350k
+275,"5021 Hanna Pl Se, Washington, DC 20019",0.06 acres,2,3,$380k
+276,"1524 Independence Ave Se Apt 302, Washington, DC 20003","1,075 sqft",2,2,$450k
+277,"1619 H St Se, Washington, DC 20003","1,800 sqft",3,4,$865k
+278,"940 25th St Nw Apt 401s, Washington, DC 20037",445 sqft,1,N/A,$179k
+279,"118 10th St Ne, Washington, DC 20002",0.03 acres,4,4,$1.25m
+280,"1601 Hobart St Nw #3, Washington, DC 20009",705 sqft,1,2,$575k
+281,"4214 50th St Nw, Washington, DC 20016","3,939 sqft",5,4,$1.60m
+282,"6705 13th Pl Nw, Washington, DC 20012","2,043 sqft",3,3,$765k
+283,"1211 13th St Nw Apt 605, Washington, DC 20005",634 sqft,1,1,$435k
+284,"1337 Kennedy St Nw, Washington, DC 20011","1,900 sqft",2,3,$495k
+285,"1224 4th St Nw Apt 2, Washington, DC 20001","1,307 sqft",3,2,$799k
+286,"1106 46th St Ne, Washington, DC 20019","1,512 sqft",5,5,$399k
+287,"1416 35th St Nw, Washington, DC 20007","1,608 sqft",2,3,$1.47m
+288,"1111 23rd St Nw Apt Ph2b, Washington, DC 20037","3,200 sqft",4,3,$3.70m
+289,"4436 Q St Nw, Washington, DC 20007","2,759 sqft",4,4,$1.35m
+290,"2401 H St Nw Apt 212, Washington, DC 20037",628 sqft,1,1,$325k
+291,"309 34th Pl Ne, Washington, DC 20019",0.03 acres,2,3,$400k
+292,"555 Massachusetts Ave Nw Apt 403, Washington, DC 20001",929 sqft,2,2,$659k
+293,"1221 Ingraham St Nw, Washington, DC 20011","1,943 sqft",4,4,$709k
+294,"2510 Ontario Rd Nw Apt 1, Washington, DC 20009","1,095 sqft",2,2,$579k
+295,"1414 22nd St Nw Apt 8, Washington, DC 20037","1,231 sqft",2,2,$685k
+296,"3523 S St Nw, Washington, DC 20007","1,386 sqft",3,4,$1.05m
+297,"4457 B St Se, Washington, DC 20019",850 sqft,N/A,N/A,$730k
+298,"1001 L St Nw Apt 905, Washington, DC 20001",954 sqft,2,2,$650k
+299,"1008 Park Rd Nw, Washington, DC 20010","3,192 sqft",4,7,$1.28m
+300,"3467 Holmead Pl Nw #2, Washington, DC 20010","1,556 sqft",2,2,$725k
+301,"4930 Nannie Helen Burroughs Ave Ne, Washington, DC 20019",360 sqft,0.5,1,$135k
+302,"2200 17th St Nw #g-41, Washington, DC 20009",1 sqft,N/A,N/A,$50k
+303,"2732 Knox Ter Se, Washington, DC 20020","1,800 sqft",4,4,$325k
+304,"1425 11th St Nw Apt 304, Washington, DC 20001","1,133 sqft",2,2,$695k
+305,"4000 Cathedral Ave Nw Apt 311b, Washington, DC 20016","1,430 sqft",1,2,$575k
+306,"1706 A St Se, Washington, DC 20003",970 sqft,2,2,$599k
+307,"2011 Perry St Ne, Washington, DC 20018",968 sqft,2,2,$447k
+308,"1759 T St Nw Apt G, Washington, DC 20009",650 sqft,1,1,$359k
+309,"3900 Tunlaw Rd Nw Apt 404, Washington, DC 20007","1,250 sqft",1,2,$259k
+310,"2637 4th St Ne, Washington, DC 20002",0.13 acres,1,3,$1.60m
+311,"3211 Foxhall Rd Nw, Washington, DC 20016","5,625 sqft",6,5,$2.85m
+312,"1155 23rd St Nw Apt 8g, Washington, DC 20037","1,062 sqft",2,1,$859k
+313,"3612 Massachusetts Ave Nw, Washington, DC 20007","3,800 sqft",4,4,$1.65m
+314,"1730 16th St Nw Apt 11, Washington, DC 20009",N/A,2,2,$500k
+315,"4629 6th St Se, Washington, DC 20032","1,224 sqft",3,4,$365k
+316,"1010 Massachusetts Ave Nw Unit 504, Washington, DC 20001","1,505 sqft",2,2,$925k
+317,"1277 Penn St Ne, Washington, DC 20002",980 sqft,3,3,$615k
+318,"1508 Spring Pl Nw, Washington, DC 20010",0.03 acres,1,3,$596k
+319,"333 E St Ne, Washington, DC 20002","2,436 sqft",3,5,$1.15m
+320,"1954 Columbia Rd Nw Apt 109, Washington, DC 20009",310 sqft,1,N/A,$200k
+321,"4119 Military Rd Nw, Washington, DC 20015",0.1 acres,3,4,$1.05m
+322,"800 49th St Ne, Washington, DC 20019","1,048 sqft",2,3,$320k
+323,"1352 Randolph St Nw #3, Washington, DC 20011","1,718 sqft",3,3,$879k
+324,"3342 Baker St Ne, Washington, DC 20019","1,144 sqft",1,2,$275k
+325,"810 Rhode Island Ave Nw, Washington, DC 20001",0.02 acres,2,2,$850k
+326,"246 Malcolm X Ave Se, Washington, DC 20032",0.1 acres,N/A,N/A,$475k
+327,"1336 Van Buren St Nw, Washington, DC 20012",0.14 acres,3,4,$500k
+328,"1340 W St Nw, Washington, DC 20009",0.02 acres,1,3,$1.12m
+329,"1112 Savannah St Se Apt 23, Washington, DC 20032",857 sqft,1,2,$246k
+330,"734 Hamilton St Nw, Washington, DC 20011","1,754 sqft",4,4,$749k
+331,"1286 Morse St Ne #2, Washington, DC 20002","1,900 sqft",4,3,$979k
+332,"1286 Morse St Ne #1, Washington, DC 20002","1,650 sqft",3,3,$799k
+333,"515 Hilltop Ter Se, Washington, DC 20019","1,530 sqft",2,3,$375k
+334,"4903 New Hampshire Ave Nw, Washington, DC 20011","1,836 sqft",3,4,$699k
+335,"2737 Devonshire Pl Nw Apt 514, Washington, DC 20008","1,348 sqft",2,2,$739k
+336,"639 Hamilton St Nw, Washington, DC 20011","1,488 sqft",2,2,$630k
+337,"624 Kenyon St Nw, Washington, DC 20010",0.05 acres,4,4,$699k
+338,"306 Burbank St Se, Washington, DC 20019",0.05 acres,1,2,$295k
+339,"1400 Iris St Nw, Washington, DC 20012",0.21 acres,6,6,$1.80m
+340,"4200 Livingston Rd Se, Washington, DC 20032","1,584 sqft",2,3,$340k
+341,"3917 Burns Ct Se, Washington, DC 20019","1,280 sqft",3,3,$315k
+342,"417 U St Nw, Washington, DC 20001","3,272 sqft",1,3,$1.10m
+343,"1409 44th St Nw, Washington, DC 20007","2,481 sqft",3,4,$1.25m
+344,"419 K St Se, Washington, DC 20003","2,205 sqft",5,4,$1.25m
+345,"3622 T St Nw, Washington, DC 20007","1,550 sqft",3,2,$975k
+346,"1603 N Carolina Ave Ne Apt 1, Washington, DC 20002",620 sqft,2,1,$400k
+347,"1458 Columbia Rd Nw Apt 110, Washington, DC 20009","1,026 sqft",1,2,$475k
+348,"117 12th St Se, Washington, DC 20003",0.05 acres,N/A,N/A,$2.40m
+349,"4800 C St Se Apt 301, Washington, DC 20019",926 sqft,1,2,$99k
+350,"1163 46th Pl Se, Washington, DC 20019",0.09 acres,2,3,$300k
+351,"448 Irving St Nw, Washington, DC 20010",0.02 acres,1,2,$575k
+352,"3119 N St Nw, Washington, DC 20007","3,240 sqft",4,4,$1.98m
+353,"321 S Carolina Ave Se, Washington, DC 20003","2,000 sqft",3,4,$1.59m
+354,"916 45th Pl Ne, Washington, DC 20019",0.06 acres,2,2,$319k
+355,"5040 1st St Nw Apt 201, Washington, DC 20011",598 sqft,1,1,$285k
+356,"3121 Cleveland Ave Nw, Washington, DC 20008","5,496 sqft",5,6,$1.60m
+357,"3822 Livingston St Nw, Washington, DC 20015","3,647 sqft",4,4,$1.80m
+358,"3816 W St Se Unit A, Washington, DC 20020","1,230 sqft",1,2,$125k
+359,"400 Massachusetts Ave Nw Apt 510, Washington, DC 20001",735 sqft,1,1,$419k
+360,"950 25th St Nw Apt 314n, Washington, DC 20037",610 sqft,1,1,$290k
+361,"3 Washington Cir Nw Apt 301, Washington, DC 20037","1,757 sqft",3,4,$1.20m
+362,"3104 Worthington St Nw, Washington, DC 20015","1,396 sqft",2,3,$868k
+363,"6630 Blair Rd Nw, Washington, DC 20012",0.03 acres,1,3,$450k
+364,"6109 Clay St Ne, Washington, DC 20019","2,534 sqft",3,5,$500k
+365,"528 47th St Ne, Washington, DC 20019",0.18 acres,2,5,$520k
+366,"1512 P St Nw, Washington, DC 20005","3,600 sqft",4,4,$2.20m
+367,"550 N St Sw Apt S502, Washington, DC 20024","1,800 sqft",3,3,$1.80m
+368,"1431 R St Nw, Washington, DC 20009","3,610 sqft",4,5,$1.75m
+369,"3620 Connecticut Ave Nw Apt 5, Washington, DC 20008",825 sqft,1,1,$366k
+370,"3437 Carpenter St Se, Washington, DC 20020",0.11 acres,2,3,$375k
+371,"1440 Columbia Rd Nw Apt 204, Washington, DC 20009",466 sqft,1,1,$339k
+372,"2710 Poplar St Nw, Washington, DC 20007",900 sqft,2,1,$799k
+373,"1420 Clifton St Nw Apt 405, Washington, DC 20009",850 sqft,2,2,$599k
+374,"1440 N St Nw Apt 309, Washington, DC 20005",421 sqft,1,1,$300k
+375,"5111 Jay St Ne, Washington, DC 20019",0.05 acres,3,2,$380k
+376,"4323 3rd St Nw, Washington, DC 20011","2,058 sqft",4,4,$850k
+377,"203 P St Nw, Washington, DC 20001",0.04 acres,1,2,$750k
+378,"920 I St Nw Apt 505, Washington, DC 20001","1,947 sqft",4,2,$2.00m
+379,"1917 Rosedale St Ne Apt 2, Washington, DC 20002",681 sqft,1,2,$375k
+380,"1670 32nd St Nw, Washington, DC 20007",0.03 acres,3,2,$1.08m
+381,"3401 38th St Nw Apt 324, Washington, DC 20016",612 sqft,1,1,$380k
+382,"638 15th St Ne, Washington, DC 20002","2,100 sqft",1,3,$625k
+383,"58 Bryant St Nw, Washington, DC 20001","2,324 sqft",4,5,$900k
+384,"3770 W St Nw, Washington, DC 20007","1,512 sqft",3,3,$925k
+385,"211 8th St Ne, Washington, DC 20002","1,220 sqft",N/A,N/A,$1.35m
+386,"1613 Harvard St Nw Apt 316, Washington, DC 20009","1,009 sqft",1,2,$589k
+387,"1435 Good Hope Rd Se, Washington, DC 20020",0.12 acres,4,5,$600k
+388,"471 Madison St Ne, Washington, DC 20011",0.09 acres,2,3,$430k
+389,"3104 3106 Dakota Ave Ne, Washington, DC 20018",0.23 acres,N/A,N/A,$725k
+390,"1340 Monroe St Nw Apt 401, Washington, DC 20010",877 sqft,2,2,$600k
+391,"3128 Sherman Ave Nw Apt 9, Washington, DC 20010",854 sqft,1,2,$300k
+392,"1647 35th St Nw, Washington, DC 20007",0.07 acres,3,2,$949k
+393,"1917 Rosedale St Ne Apt 3, Washington, DC 20002",725 sqft,2,2,$350k
+394,"634 N Carolina Ave Se Apt 5, Washington, DC 20003","1,038 sqft",1,2,$564k
+395,"1215 Morris Rd Se, Washington, DC 20020","1,218 sqft",2,3,$349k
+396,"4101 Cathedral Ave Nw Apt 205, Washington, DC 20016","1,800 sqft",2,3,$725k
+397,"1440 Fairmont St Nw, Washington, DC 20009",700 sqft,N/A,N/A,$1.50m
+398,"2810 University Ter Nw, Washington, DC 20016","5,645 sqft",7,5,$2.75m
+399,"2007 Wyoming Ave Nw #8, Washington, DC 20009",N/A,1,1,$529k
+400,"1414 D St Se, Washington, DC 20003","2,450 sqft",4,5,$1.35m
+401,"3366 Denver St Se, Washington, DC 20020",0.15 acres,4,3,$520k
+402,"2812 Pomeroy Rd Se, Washington, DC 20020",0.08 acres,N/A,N/A,$450k
+403,"1816 Burke St Se, Washington, DC 20003","1,629 sqft",2,3,$765k
+404,"505 O St Nw Apt 2, Washington, DC 20001","1,030 sqft",2,2,$625k
+405,"2531 Benning Rd Ne, Washington, DC 20002","1,632 sqft",2,3,$599k
+406,"1526 17th St Nw Apt 215, Washington, DC 20036",850 sqft,2,2,$480k
+407,"20 Chesapeake St Se #c-37, Washington, DC 20032",950 sqft,1,1,$30k
+408,"1466 Harvard St Nw Apt A2, Washington, DC 20009","1,815 sqft",3,2,$850k
+409,"20 Chesapeake St Se #c-36, Washington, DC 20032",950 sqft,1,1,$30k
+410,"1000 New Jersey Ave Se Apt 827, Washington, DC 20003",698 sqft,1,1,$374k
+411,"1520 Independence Ave Se Apt 303, Washington, DC 20003",607 sqft,1,1,$324k
+412,"4600 Connecticut Ave Nw Apt 323, Washington, DC 20008","1,208 sqft",2,3,$525k
+413,"5443 B St Se, Washington, DC 20019","1,600 sqft",4,4,$425k
+414,"2334 39th St Nw, Washington, DC 20007",0.03 acres,4,4,$1.20m
+415,"1518 Mississippi Ave Se, Washington, DC 20032","6,499 sqft",4,4,$750k
+416,"1840 Michigan Ave Ne, Washington, DC 20018",0.09 acres,3,3,$629k
+417,"460 New York Ave Nw Unit 804, Washington, DC 20001",723 sqft,1,1,$550k
+418,"4581 Macarthur Blvd Nw Apt 301, Washington, DC 20007",650 sqft,1,1,$225k
+419,"100 Elmira St Sw, Washington, DC 20032","1,024 sqft",1,3,$240k
+420,"4740 Connecticut Ave Nw Apt 318, Washington, DC 20008",837 sqft,1,1,$345k
+421,"1462 Harvard St Nw #3, Washington, DC 20009",880 sqft,2,2,$599k
+422,"1462 Harvard St Nw #4, Washington, DC 20009","1,006 sqft",2,2,$699k
+423,"1701 Kalorama Rd Nw Apt 407, Washington, DC 20009","1,045 sqft",1,1,$565k
+424,"3162 17th St Nw #1, Washington, DC 20010","2,840 sqft",3,3,$1.15m
+425,"811 4th St Nw Unit 608, Washington, DC 20001",692 sqft,1,1,$455k
+426,"1136 Branch Ave Se, Washington, DC 20019",0.03 acres,2,2,$300k
+427,"7746 16th St Nw, Washington, DC 20012",0.17 acres,7,8,$899k
+428,"490 M St Sw Apt W105, Washington, DC 20024",840 sqft,1,1,$400k
+429,"5113 Yuma St Nw, Washington, DC 20016","5,078 sqft",5,5,$1.20m
+430,"730 24th St Nw Apt 221, Washington, DC 20037",730 sqft,1,1,$289k
+431,"2737 Devonshire Pl Nw Suite C, Washington, DC 20008","3,500 sqft",4,3,$1.80m
+432,"2620 Moreland Pl Nw, Washington, DC 20015","1,800 sqft",3,4,$1.10m
+433,"215 17th St Se #2, Washington, DC 20003","1,250 sqft",3,2,$719k
+434,"1628 11th St Nw Unit 108, Washington, DC 20001","1,687 sqft",3,2,$1.31m
+435,"4235 Colorado Ave Nw, Washington, DC 20011",0.2 acres,3,4,$999k
+436,"3611 Quesada St Nw, Washington, DC 20015","2,190 sqft",3,3,$995k
+437,"1323 Clifton St Nw Apt 31, Washington, DC 20009","1,150 sqft",2,2,$739k
+438,"1227 Chaplin St Se, Washington, DC 20019","1,448 sqft",2,4,$435k
+439,"5064 Sedgwick St Nw, Washington, DC 20016",0.31 acres,5,6,$1.65m
+440,"3303 Brown St Nw, Washington, DC 20010","1,995 sqft",4,3,$998k
+441,"2311 33rd St Se, Washington, DC 20020","2,052 sqft",2,3,$480k
+442,"901 D St Ne Apt 208, Washington, DC 20002","1,628 sqft",2,2,$950k
+443,"107 Kentucky Ave Se, Washington, DC 20003","2,224 sqft",4,4,$1.05m
+444,"1931 17th St Nw Apt 206, Washington, DC 20009",650 sqft,1,1,$450k
+445,"1375 Maryland Ave Ne Apt B, Washington, DC 20002","1,275 sqft",1,1,$549k
+446,"5406 Connecticut Ave Nw Apt 407, Washington, DC 20015",552 sqft,1,1,$275k
+447,"3628 Reservoir Rd Nw, Washington, DC 20007","3,200 sqft",6,5,$1.54m
+448,"1732 18th St Nw, Washington, DC 20009","2,820 sqft",3,4,$1.50m
+449,"2778 Unicorn Ln Nw, Washington, DC 20015","4,124 sqft",6,5,$1.24m
+450,"1909 N Capitol St Ne, Washington, DC 20002",0.08 acres,2,8,$850k
+451,"809 Otis Pl Nw Apt 2, Washington, DC 20010",600 sqft,1,1,$300k
+452,"230 Peabody St Ne, Washington, DC 20011","3,405 sqft",4,5,$849k
+453,"5000 34th St Nw, Washington, DC 20008","2,940 sqft",3,4,$995k
+454,"2815 38th St Nw, Washington, DC 20007","2,130 sqft",3,4,$975k
+455,"4609 Hillside Rd Se, Washington, DC 20019",0.07 acres,3,3,$368k
+456,"2939 Arizona Ave Nw, Washington, DC 20016","2,120 sqft",2,4,$1.05m
+457,"2328 Champlain St Nw Apt 423, Washington, DC 20009","2,300 sqft",3,4,$1.43m
+458,"47 Hamilton St Nw, Washington, DC 20011","2,100 sqft",4,4,$700k
+459,"2039 New Hampshire Ave Nw #305, Washington, DC 20009","1,750 sqft",1,3,$829k
+460,"1005 Congress St Se, Washington, DC 20032",0.1 acres,4,4,$470k
+461,"2205 46th St Nw, Washington, DC 20007","2,323 sqft",4,4,$1.48m
+462,"2039 New Hampshire Ave Nw #702, Washington, DC 20009","1,675 sqft",2,3,$849k
+463,"1858 California St Nw Apt 5, Washington, DC 20009",808 sqft,1,1,$480k
+464,"773 10th St Se, Washington, DC 20003","3,070 sqft",4,6,$1.50m
+465,"603 Kennedy St Nw #2, Washington, DC 20011","1,000 sqft",2,2,$425k
+466,"1435 Jackson St Ne, Washington, DC 20017",0.11 acres,1,2,$499k
+467,"2711 Ordway St Nw Apt 105, Washington, DC 20008",779 sqft,1,1,$389k
+468,"3709 Windom Pl Nw, Washington, DC 20016","2,954 sqft",4,4,$1.10m
+469,"3029 O St Nw, Washington, DC 20007","4,908 sqft",5,5,$2.95m
+470,"1503 K St Se #101, Washington, DC 20003",906 sqft,2,2,$549k
+471,"2501 Calvert St Nw Apt 405, Washington, DC 20008",726 sqft,1,1,$350k
+472,"2238 11th St Nw Apt 1, Washington, DC 20001","1,022 sqft",3,2,$650k
+473,"3508 Center St Nw, Washington, DC 20010","1,695 sqft",2,3,$675k
+474,"4000 Cathedral Ave Nw Apt 504b, Washington, DC 20016","2,200 sqft",3,4,$890k
+475,"127 U St Nw, Washington, DC 20001","2,700 sqft",4,3,$1.25m
+476,"1502 13th St Nw Apt 6, Washington, DC 20005",482 sqft,1,1,$399k
+477,"1243 E St Ne, Washington, DC 20002","2,160 sqft",4,3,$965k
+478,"1860 California St Nw Apt 202, Washington, DC 20009",700 sqft,1,1,$379k
+479,"4923 Albemarle St Nw, Washington, DC 20016",0.05 acres,4,5,$1.38m
+480,"42 Seaton Pl Nw, Washington, DC 20001","2,660 sqft",4,4,$1.30m
+481,"527 10th St Se, Washington, DC 20003","1,642 sqft",3,3,$1.15m
+482,"1520 Fort Davis Pl Se, Washington, DC 20020","1,648 sqft",2,3,$400k
+483,"819 Sheridan St Nw, Washington, DC 20011","1,184 sqft",1,3,$410k
+484,"2220 20th St Nw Apt 67, Washington, DC 20009",500 sqft,1,1,$305k
+485,"936 Madison St Nw Apt 104, Washington, DC 20011","1,071 sqft",2,2,$385k
+486,"643 8th St Ne, Washington, DC 20002","1,584 sqft",2,3,$850k
+487,"1507 Massachusetts Ave Se, Washington, DC 20003","2,379 sqft",3,3,$799k
+488,"1521 Corcoran St Nw, Washington, DC 20009","2,606 sqft",5,3,$1.25m
+489,"1624 27th St Se, Washington, DC 20020","1,632 sqft",3,4,$349k
+490,"2850 Hartford St Se Apt 203, Washington, DC 20020",795 sqft,1,2,$105k
+491,"5239 Ames St Ne, Washington, DC 20019","1,750 sqft",3,3,$455k
+492,"4020 Mansion Dr Nw, Washington, DC 20007",0.04 acres,4,4,$1.58m
+493,"3631 Alabama Ave Se, Washington, DC 20020","3,447 sqft",4,6,$799k
+494,"414 Constitution Ave Ne, Washington, DC 20002","3,000 sqft",4,5,$999k
+495,"304 Oklahoma Ave Ne Apt 1, Washington, DC 20002",691 sqft,1,1,$290k
+496,"331 K St Ne, Washington, DC 20002","1,264 sqft",2,3,$749k
+497,"3028 Wisconsin Ave Nw Apt 307, Washington, DC 20016",545 sqft,1,1,$279k
+498,"1245 4th St Sw Apt E302, Washington, DC 20024",959 sqft,1,1,$399k
+499,"2526 17th St Nw Apt 301, Washington, DC 20009","3,648 sqft",2,3,$1.45m
+500,"433 Ridge St Nw, Washington, DC 20001",992 sqft,1,2,$730k
+501,"1514 17th St Nw Apt 412, Washington, DC 20036",475 sqft,1,N/A,$265k
+502,"6229 30th St Nw, Washington, DC 20015","2,730 sqft",4,4,$1.15m
+503,"4411 1st Pl Ne Apt 38, Washington, DC 20011",728 sqft,1,2,$275k
+504,"440 12th St Ne Apt 209, Washington, DC 20002","1,170 sqft",1,2,$570k
+505,"1601 18th St Nw Apt 807, Washington, DC 20009",650 sqft,1,1,$360k
+506,"919 Florida Ave Nw Apt 503, Washington, DC 20001",863 sqft,2,2,$624k
+507,"2107 37th St Nw, Washington, DC 20007","1,178 sqft",2,2,$819k
+508,"518 Missouri Ave Nw, Washington, DC 20011","1,578 sqft",3,3,$616k
+509,"2134 30th St Ne, Washington, DC 20018","2,266 sqft",4,5,$729k
+510,"3576 Winfield Ln Nw, Washington, DC 20007","2,622 sqft",4,3,$1.50m
+511,"6315 9th St Nw, Washington, DC 20011",0.03 acres,4,3,$585k
+512,"3506 Livingston St Nw, Washington, DC 20015","2,653 sqft",4,4,$999k
+513,"56 Girard St Ne, Washington, DC 20002","1,944 sqft",4,3,$730k
+514,"3608 Carpenter St Se, Washington, DC 20020",0.14 acres,4,3,$590k
+515,"1802 24th Pl Se, Washington, DC 20020","2,172 sqft",3,4,$600k
+516,"1260 21st St Nw Apt 211, Washington, DC 20036",907 sqft,1,2,$490k
+517,"1111 Orren St Ne Unit 401, Washington, DC 20002",764 sqft,1,2,$519k
+518,"2100 11th St Nw Apt G01, Washington, DC 20001","1,340 sqft",2,2,$729k
+519,"2111 Wisconsin Ave Nw Penthouse 7, Washington, DC 20007","1,423 sqft",3,2,$1.05m
+520,"1444 Taylor St Nw Unit 01, Washington, DC 20011","1,050 sqft",3,2,$569k
+521,"1111 25th St Nw Apt 923, Washington, DC 20037",796 sqft,1,1,$620k
+522,"151 V St Nw Apt 2, Washington, DC 20001","1,823 sqft",3,2,$849k
+523,"57 N St Nw #523, Washington, DC 20001",721 sqft,1,1,$590k
+524,"560 N St Sw Apt N816, Washington, DC 20024",955 sqft,1,2,$465k
+525,"1155 23rd St Nw Apt 2e, Washington, DC 20037","1,779 sqft",2,1,$1.10m
+526,"510 N St Sw Apt N524, Washington, DC 20024",810 sqft,1,1,$360k
+527,"1155 23rd St Nw Apt 4a, Washington, DC 20037","1,674 sqft",2,2,$1.35m
+528,"3303 Water St Nw Unit 4d, Washington, DC 20007","1,400 sqft",2,2,$1.75m
+529,"4300 Kansas Ave Nw, Washington, DC 20011",0.06 acres,5,6,$950k
+530,"1225 13th St Nw Apt 101, Washington, DC 20005",437 sqft,1,1,$320k
+531,"0000 Laurelwood Cir, Murphy, NC",1.29 acres,N/A,N/A,$11k
+532,"3114 13th St Nw #a, Washington, DC 20010","1,205 sqft",2,2,$550k
+533,"406 M St Nw Apt 3, Washington, DC 20001","1,038 sqft",2,2,$520k
+534,"5422 Nevada Ave Nw, Washington, DC 20015","3,162 sqft",4,5,$1.40m
+535,"5029 7th St Nw, Washington, DC 20011",0.04 acres,4,4,$830k
+536,"2261 16th St Ne, Washington, DC 20018","1,088 sqft",2,3,$450k
+537,"1646 Foxhall Rd Nw, Washington, DC 20007","1,290 sqft",2,3,$1.10m
+538,"625 M St Ne, Washington, DC 20002",0.04 acres,2,3,$675k
+539,"5025 -5031 Sheriff Rd Ne, Washington, DC 20019",0.05 acres,1,2,$275k
+540,"925 H St Nw Apt 608, Washington, DC 20001",895 sqft,2,2,$890k
+541,"1626 Trinidad Ave Ne #1, Washington, DC 20002","2,200 sqft",3,4,$636k
+542,"1626 Trinidad Ave Ne #2, Washington, DC 20002","2,200 sqft",3,4,$695k
+543,"1427 Chapin St Nw Apt 202, Washington, DC 20009",800 sqft,1,2,$525k
+544,"2328 Champlain St Nw Apt 401, Washington, DC 20009","3,200 sqft",3,2,$2.00m
+545,"3883 Connecticut Ave Nw Apt 609, Washington, DC 20008","1,015 sqft",2,2,$649k
+546,"339 14th St Ne, Washington, DC 20002",0.03 acres,2,3,$700k
+547,"770 Lamont St Nw, Washington, DC 20010","1,014 sqft",2,2,$647k
+548,"1813 13th St Nw Apt 1, Washington, DC 20009","1,886 sqft",2,2,$949k
+549,"777 7th St Nw Apt 708, Washington, DC 20001",793 sqft,1,1,$439k
+550,"1448 Sheridan St Nw, Washington, DC 20011","1,296 sqft",4,3,$600k
+551,"2120 Vermont Ave Nw Apt 623, Washington, DC 20001","1,622 sqft",2,2,$1.05m
+552,"1346 Jackson St Ne, Washington, DC 20017","1,127 sqft",2,2,$735k
+553,"1011 M St Nw Unit 601, Washington, DC 20001",835 sqft,1,1,$600k
+554,"1321 Euclid St Nw Apt 401, Washington, DC 20009",675 sqft,1,1,$449k
+555,"Ainger Pl Se, Washington, DC 20020",1.33 acres,N/A,N/A,$1.50m
+556,"4608 4th St Nw, Washington, DC 20011","3,264 sqft",3.5,2,$549k
+557,"5300 Illinois Ave Nw, Washington, DC 20011","1,458 sqft",3,4,$525k
+558,"2555 Pennsylvania Ave Nw Apt 506, Washington, DC 20037","1,223 sqft",2,2,$945k
+559,"2819 11th St Nw #1, Washington, DC 20001","1,500 sqft",2,4,$799k
+560,"2931 Foxhall Rd Nw, Washington, DC 20016","5,728 sqft",6,6,$2.80m
+561,"1630 New Jersey Ave Nw, Washington, DC 20001",0.02 acres,2,3,$710k
+562,"3009 Otis St Ne, Washington, DC 20018","1,515 sqft",4,3,$500k
+563,"3823 Rodman St Nw Apt D22, Washington, DC 20016",833 sqft,1,2,$450k
+564,"421 Missouri Ave Nw, Washington, DC 20011",0.03 acres,4,4,$700k
+565,"802 Rittenhouse St Nw, Washington, DC 20011","1,212 sqft",2,2,$530k
+566,"5323 Chillum Pl Ne, Washington, DC 20011","1,734 sqft",4,3,$600k
+567,"1424 Perry Pl Nw, Washington, DC 20010","2,200 sqft",4,4,$960k
+568,"218 S Carolina Ave Se, Washington, DC 20003","1,864 sqft",3,4,$995k
+569,"3823 Rodman St Nw Apt A19, Washington, DC 20016","1,322 sqft",3,2,$549k
+570,"1417 D St Ne, Washington, DC 20002",157 sqft,2,3,$600k
+571,"5316 42nd St Nw, Washington, DC 20015","5,300 sqft",7,5,$1.98m
+572,"934 Westminster St Nw, Washington, DC 20001","2,026 sqft",3,4,$1.38m
+573,"1272 Oates St Ne, Washington, DC 20002","1,294 sqft",4,4,$800k
+574,"1117 10th St Nw Apt 206, Washington, DC 20001",850 sqft,1,1,$515k
+575,"77 V St Nw, Washington, DC 20001","2,800 sqft",4,5,$1.60m
+576,"2325 42nd St Nw Apt 213, Washington, DC 20007",678 sqft,1,1,$300k
+577,"1223 Pleasant St Se, Washington, DC 20020","1,626 sqft",3,3,$505k
+578,"2841 Mills Ave Ne, Washington, DC 20018","1,610 sqft",2,4,$550k
+579,"1336 Jackson St Ne, Washington, DC 20017","1,256 sqft",2,3,$600k
+580,"1441 Rhode Island Ave Nw Apt 907, Washington, DC 20005",693 sqft,1,1,$495k
+581,"5264 Loughboro Rd Nw, Washington, DC 20016","4,200 sqft",6,6,$1.75m
+582,"5106 Sheriff Rd Ne, Washington, DC 20019","1,156 sqft",2,3,$260k
+583,"5507 Blair Rd Ne, Washington, DC 20011","2,907 sqft",2,3,$575k
+584,"316 Nicholson St Ne, Washington, DC 20011","1,100 sqft",3,3,$249k
+585,"1412 Crittenden St Nw, Washington, DC 20011","2,960 sqft",4,6,$1.25m
+586,"7527 9th St Nw, Washington, DC 20012","1,088 sqft",1.5,3,$515k
+587,"1241 18th St Ne #6, Washington, DC 20002",870 sqft,2,2,$339k
+588,"317 L St Se, Washington, DC 20003","1,690 sqft",3,4,$925k
+589,"226 11th St Se, Washington, DC 20003","1,854 sqft",3,3,$950k
+590,"1511 A St Se, Washington, DC 20003","1,296 sqft",2,4,$1.00m
+591,"5426 B St Se, Washington, DC 20019",0.07 acres,2,2,$349k
+592,"1313 Irving St Nw #2, Washington, DC 20010","1,628 sqft",3,2,$1.00m
+593,"1313 Irving St Nw #1, Washington, DC 20010","1,915 sqft",3,3,$900k
+594,"310 Taylor St Nw, Washington, DC 20011","2,000 sqft",4,4,$600k
+595,"421 12th St Se, Washington, DC 20003","1,020 sqft",1,2,$590k
+596,"3001 11th St Nw, Washington, DC 20001","2,170 sqft",3,4,$840k
+597,"2326 California St Nw, Washington, DC 20008","4,140 sqft",5,4,$2.50m
+598,"926 Shepherd St Nw, Washington, DC 20011",0.04 acres,2,3,$700k
+599,"2500 Q St Nw Apt 603, Washington, DC 20007",799 sqft,1,1,$350k
+600,"1657 31st St Nw Apt 107, Washington, DC 20007",395 sqft,1,N/A,$285k
+601,"1814 Benning Rd Ne, Washington, DC 20002","1,776 sqft",N/A,N/A,$585k
+602,"400 Massachusetts Ave Nw Apt 505, Washington, DC 20001",780 sqft,1,1,$479k
+603,"5310 Kansas Ave Nw, Washington, DC 20011","1,377 sqft",3.5,5,$849k
+604,"3100 Connecticut Ave Nw Apt 118, Washington, DC 20008",831 sqft,1,1,$410k
+605,"1013 46th St Ne, Washington, DC 20019",0.06 acres,N/A,N/A,$350k
+606,"5102 11th St Ne, Washington, DC 20011",0.07 acres,2,3,$450k
+607,"5722 Chillum Pl Ne, Washington, DC 20011",864 sqft,1,2,$356k
+608,"1108 Columbia Rd Nw Apt 107, Washington, DC 20009",435 sqft,1,1,$320k
+609,"1415 G St Se, Washington, DC 20003","2,016 sqft",3,4,$740k
+610,"1406 S St Se, Washington, DC 20020","2,192 sqft",3,4,$435k
+611,"1239 Potomac Ave Se, Washington, DC 20003",0.03 acres,2,3,$850k
+612,"2023 Spruce Dr Nw, Washington, DC 20012","3,800 sqft",4.5,6,$1.33m
+613,"3937 S St Se Apt 206, Washington, DC 20020",623 sqft,1,1,$85k
+614,"3953 Ames St Ne, Washington, DC 20019","1,392 sqft",2,3,$300k
+615,"2149 California St Nw Apt G, Washington, DC 20008",989 sqft,1.5,2,$585k
+616,"1219 47th Pl Ne, Washington, DC 20019",0.05 acres,3,5,$345k
+617,"3806 Hansberry Ct Ne, Washington, DC 20018","2,200 sqft",3,3,$580k
+618,"3001 Veazey Ter Nw Apt 1517, Washington, DC 20008","1,385 sqft",2,2,$531k
+619,"4705 13th Pl Ne, Washington, DC 20017","2,040 sqft",3,3,$420k
+620,"130 Chesapeake St Sw, Washington, DC 20032","1,040 sqft",2,3,$360k
+621,"800 4th St Sw Apt N516, Washington, DC 20024",588 sqft,1,N/A,$369k
+622,"1417 Carrollsburg Pl Sw, Washington, DC 20024",0.03 acres,3,2,$720k
+623,"58 Darrington St Sw, Washington, DC 20032","1,016 sqft",2,3,$265k
+624,"642 Columbia Rd Nw, Washington, DC 20001","2,587 sqft",5,5,$950k
+625,"700 New Hampshire Ave Nw #1021, Washington, DC 20037","3,200 sqft",2.5,2,$3.30m
+626,"2214 11th St Nw #4, Washington, DC 20001","1,700 sqft",3,3,$1.18m
+627,"83 R St Nw, Washington, DC 20001","2,200 sqft",3.5,4,$975k
+628,"208 45th St Ne, Washington, DC 20019",0.11 acres,3,4,$495k
+629,"3511 13th St Nw Apt 404, Washington, DC 20010",668 sqft,1,2,$400k
+630,"3422 N St Nw, Washington, DC 20007","1,684 sqft",2.5,2,$1.45m
+631,"127 R St Ne, Washington, DC 20002","2,212 sqft",3,3,$750k
+632,"3430 34th Pl Nw, Washington, DC 20016","5,390 sqft",5,5,$2.25m
+633,"526 3rd St Ne, Washington, DC 20002","2,523 sqft",4,4,$1.39m
+634,"644 Ridge Rd Se, Washington, DC 20019","1,350 sqft",2,3,$499k
+635,"3901 New Hampshire Ave Nw, Washington, DC 20011","2,908 sqft",2,5,$800k
+636,"1527 23rd St Se, Washington, DC 20020",0.06 acres,1,3,$338k
+637,"1830 17th St Nw Apt 706, Washington, DC 20009",846 sqft,2,2,$620k
+638,"3320 Reservoir Rd Nw, Washington, DC 20007","2,010 sqft",4,4,$2.15m
+639,"762 Harvard St Nw, Washington, DC 20001","1,418 sqft",1,3,$630k
+640,"103 E St Se, Washington, DC 20003",0.03 acres,4,4,$1.24m
+641,"436 Newton Pl Nw, Washington, DC 20010","2,357 sqft",1.5,3,$725k
+642,"3306 R St Nw, Washington, DC 20007","2,663 sqft",3.5,3,$2.50m
+643,"3281 Sutton Pl Nw Apt D, Washington, DC 20016","1,332 sqft",2.5,2,$700k
+644,"555 Massachusetts Ave Nw Apt 514, Washington, DC 20001",500 sqft,1,N/A,$325k
+645,"2726 Ordway St Nw Apt 6, Washington, DC 20008",763 sqft,1,1,$359k
+646,"1133 13th St Nw #204/2e, Washington, DC 20005",435 sqft,1,1,$275k
+647,"1737 New Hampshire Ave Nw Apt 2, Washington, DC 20009","1,480 sqft",2.5,2,$1.15m
+648,"777 7th St Nw Apt 1022, Washington, DC 20001",841 sqft,1,1,$469k
+649,"5721 Blaine St Ne, Washington, DC 20019","1,188 sqft",1.5,3,$275k
+650,"12 Rhode Island Ave Ne #2, Washington, DC 20002","1,525 sqft",3,3,$790k
+651,"2900 K St Nw #605, Washington, DC 20007","1,813 sqft",2,2,$1.50m
+652,"2920 Sherman Ave Nw Apt 2, Washington, DC 20001","1,125 sqft",2,2,$626k
+653,"787 19th St Ne, Washington, DC 20002","1,188 sqft",1,3,$500k
+654,"1301 Longfellow St Nw Apt 205, Washington, DC 20011",582 sqft,1,1,$235k
+655,"1815 Benning Rd Ne Apt 3, Washington, DC 20002",652 sqft,1,1,$329k
+656,"5308 5th St Nw, Washington, DC 20011","2,036 sqft",3.5,3,$800k
+657,"615 Franklin St Ne, Washington, DC 20017","1,336 sqft",1.5,3,$479k
+658,"400 Massachusetts Ave Nw Apt 506, Washington, DC 20001",900 sqft,1,2,$585k
+659,"1524 18th St Nw Apt 3, Washington, DC 20036",410 sqft,1,1,$450k
+660,"1177 22nd St Nw Unit 9f, Washington, DC 20037","1,845 sqft",2,2,$1.98m
+661,"5108 9th St Nw, Washington, DC 20011","1,320 sqft",4,4,$725k
+662,"918 Hamilton St Nw, Washington, DC 20011",0.04 acres,4,4,$790k
+663,"1232 Quincy St Nw #1, Washington, DC 20011","2,000 sqft",4,3,$850k
+664,"727 13th St Ne, Washington, DC 20002","2,148 sqft",3,3,$750k
+665,"506 Oglethorpe St Ne, Washington, DC 20011","1,024 sqft",2,3,$500k
+666,"919 4th St Se, Washington, DC 20003","2,299 sqft",4,4,$1.05m
+667,"1334 Wallach Pl Nw, Washington, DC 20009","2,150 sqft",3.5,4,$1.55m
+668,"7110 9th St Nw, Washington, DC 20012","3,816 sqft",6,5,$950k
+669,"4000 Cathedral Ave Nw Apt 302b, Washington, DC 20016","1,150 sqft",1,1,$295k
+670,"1533 Pennsylvania Ave Se, Washington, DC 20003","1,760 sqft",3.5,4,$785k
+671,"1015 33rd St Nw Apt 409, Washington, DC 20007","1,018 sqft",1,1,$516k
+672,"531 12th St Ne, Washington, DC 20002","2,640 sqft",3.5,4,$1.40m
+673,"3025 Ontario Rd Nw Apt 406, Washington, DC 20009","1,115 sqft",2,2,$485k
+674,"1000 New Jersey Ave Se Apt 213, Washington, DC 20003","1,027 sqft",2,2,$575k
+675,"1309 Whittier Pl Nw, Washington, DC 20012","1,361 sqft",3,3,$650k
+676,"2021 N St Nw, Washington, DC 20036","2,745 sqft",4,3,$2.10m
+677,"2012 15th St Nw Apt 2, Washington, DC 20009","1,200 sqft",2,2,$799k
+678,"323 Todd Pl Ne, Washington, DC 20002","1,424 sqft",2,3,$650k
+679,"1072 Paper Mill Ct Nw #1072, Washington, DC 20007","1,050 sqft",2,2,$789k
+680,"3833 Cathedral Ave Nw, Washington, DC 20016","5,789 sqft",5.5,4,$2.48m
+681,"4916 Rockwood Pkwy Nw, Washington, DC 20016","4,450 sqft",4.5,5,$2.50m
+682,"822 Madison St Nw, Washington, DC 20011","1,260 sqft",3,3,$650k
+683,"4118 Ellicott St Nw, Washington, DC 20016","1,836 sqft",2,3,$789k
+684,"2500 Q St Nw Apt 127, Washington, DC 20007","1,014 sqft",1,1,$395k
+685,"2332 Nebraska Ave Nw, Washington, DC 20016","2,500 sqft",3.5,4,$1.29m
+686,"3725 12th St Ne Apt 103, Washington, DC 20017",372 sqft,1,N/A,$190k
+687,"1829 23rd St Nw, Washington, DC 20008","3,705 sqft",3,3,$2.40m
+688,"1727 S St Nw, Washington, DC 20009","3,990 sqft",3.5,6,$2.20m
+689,"2201 L St Nw Apt 315, Washington, DC 20037",518 sqft,1,N/A,$305k
+690,"4201 Cathedral Ave Nw Apt 1207w, Washington, DC 20016",888 sqft,1,1,$285k
+691,"4802 Foxhall Cres Nw, Washington, DC 20007","4,260 sqft",7,7,$1.95m
+692,"4407 Gault Pl Ne, Washington, DC 20019",0.08 acres,4,4,$399k
+693,"714 Farragut Pl Ne, Washington, DC 20017","1,328 sqft",2,2,$450k
+694,"1441 Spring Rd Nw Apt B1, Washington, DC 20010",603 sqft,1,1,$280k
+695,"2120 Vermont Ave Nw Apt 415, Washington, DC 20001","1,020 sqft",2,2,$630k
+696,"4100 W St Nw Apt 211, Washington, DC 20007",790 sqft,1,1,$309k
+697,"1613 Harvard St Nw Suite 115, Washington, DC 20009","1,080 sqft",1,2,$545k
+698,"1459 Harvard St Nw Apt 5, Washington, DC 20009","1,131 sqft",2,2,$849k
+699,"5526 Macarthur Blvd Nw, Washington, DC 20016","4,650 sqft",5.5,6,$1.75m
+700,"64 Channing St Nw, Washington, DC 20001","2,300 sqft",2.5,4,$969k
+701,"1437 G St Ne, Washington, DC 20002","1,414 sqft",3,3,$779k
+702,"1732 Massachusetts Ave Se, Washington, DC 20003","2,782 sqft",4.5,5,$1.25m
+703,"1145 4th St Ne, Washington, DC 20002","2,568 sqft",4,4,$1.10m
+704,"512 7th St Ne, Washington, DC 20002","1,484 sqft",2,3,$799k
+705,"3810 39th St Nw Apt F126, Washington, DC 20016","1,145 sqft",1,2,$489k
+706,"424 Ingraham St Nw, Washington, DC 20011","1,548 sqft",3.5,4,$825k
+707,"2425 L St Nw Apt 609, Washington, DC 20037",845 sqft,2,1,$699k
+708,"1649 34th St Nw, Washington, DC 20007","1,136 sqft",1,2,$995k
+709,"91 14th St Ne #91, Washington, DC 20002",706 sqft,1,1,$374k
+710,"1007 S Carolina Ave Se, Washington, DC 20003","1,012 sqft",2,2,$790k
+711,"1 Scott Cir Nw #20, Washington, DC 20036",482 sqft,1,1,$225k
+712,"1702 Constitution Ave Ne, Washington, DC 20002","1,456 sqft",3,3,$700k
+713,"1671 Gales St Ne #2, Washington, DC 20002","1,280 sqft",3,3,$540k
+714,"1111 25th St Nw Apt 401, Washington, DC 20037",593 sqft,1,N/A,$385k
+715,"5419 Illinois Ave Nw, Washington, DC 20011","1,368 sqft",2,4,$555k
+716,"920 3rd St Ne, Washington, DC 20002","1,078 sqft",2,3,$729k
+717,"5206 Clay St Ne, Washington, DC 20019","1,200 sqft",2,4,$300k
+718,"1658 W Virginia Ave Ne #102, Washington, DC 20002",639 sqft,1,2,$340k
+719,"440 L St Nw Unit 713, Washington, DC 20001",787 sqft,1,1,$509k
+720,"625 Ellen Wilson Pl Se, Washington, DC 20003","1,113 sqft",3,2,$775k
+721,"805 Jefferson St Nw, Washington, DC 20011",0.04 acres,2,3,$560k
+722,"400 O St Sw Apt 102, Washington, DC 20024",777 sqft,1,1,$385k
+723,"2660 Connecticut Ave Nw Unit 5b, Washington, DC 20008","2,551 sqft",3,2,$2.50m
+724,"919 G St Se, Washington, DC 20003","1,102 sqft",2,2,$800k
+725,"330 Channing St Ne, Washington, DC 20002","1,028 sqft",1.5,2,$600k
+726,"700 New Hampshire Ave Nw #810, Washington, DC 20037","1,217 sqft",2,1,$675k
+727,"2617 Brentwood Rd Ne, Washington, DC 20018","1,972 sqft",2.5,3,$625k
+728,"1451 Girard St Nw #2, Washington, DC 20009",997 sqft,2,3,$650k
+729,"2201 L St Nw Apt 812, Washington, DC 20037",475 sqft,1,N/A,$310k
+730,"4555 Grant Rd Nw, Washington, DC 20016",0.09 acres,3,3,$1.20m
+731,"1711 Massachusetts Ave Nw #210, Washington, DC 20036",402 sqft,1,N/A,$250k
+732,"6907 5th St Nw, Washington, DC 20012","2,937 sqft",3,4,$699k
+733,"3900 14th St Nw #p-67, Washington, DC 20011",171 sqft,99,99,$20k
+734,"301 47th St Ne, Washington, DC 20019",888 sqft,1,2,$250k
+735,"3420 R St Nw, Washington, DC 20007",0.06 acres,N/A,N/A,$1.60m
+736,"440 12th St Ne Apt 101, Washington, DC 20002","1,225 sqft",1,2,$580k
+737,"1521 33rd St Nw, Washington, DC 20007","1,365 sqft",2,2,$1.05m
+738,"1401 K Street Se Unit 1, Washington, DC 20003","1,350 sqft",2,2,$585k
+739,"40 U St Nw, Washington, DC 20001","2,610 sqft",3.5,5,$1.33m
+740,"3900 Connecticut Ave Nw Apt 203g, Washington, DC 20008","1,126 sqft",1,2,$479k
+741,"400 Massachusetts Ave Nw Apt 415, Washington, DC 20001","1,046 sqft",1,2,$550k
+742,"509 Sheridan St Nw, Washington, DC 20011","1,054 sqft",3,3,$639k
+743,"343 Cedar St Nw Apt 108, Washington, DC 20012","1,273 sqft",3,2,$485k
+744,"3303 Water St Nw Unit 5m, Washington, DC 20007","1,794 sqft",2,2,$2.25m
+745,"83 Danbury St Sw, Washington, DC 20032","1,152 sqft",3.5,2,$345k
+746,"4232 Embassy Park Dr Nw, Washington, DC 20016","1,998 sqft",3.5,2,$799k
+747,"3900 14th St Nw Apt 210, Washington, DC 20011",682 sqft,1,1,$290k
+748,"437 New York Ave Nw Apt 505, Washington, DC 20001",734 sqft,1,1,$479k
+749,"1306 Riggs St Nw, Washington, DC 20009","1,930 sqft",3,3,$1.18m
+750,"513 12th St Ne Apt 6, Washington, DC 20002",428 sqft,1,1,$255k
+751,"1 Scott Cir Nw #117, Washington, DC 20036",494 sqft,1,1,$269k
+752,"5037 Just St Ne, Washington, DC 20019",0.06 acres,3,3,$350k
+753,"2807 5th St Ne, Washington, DC 20017",0.03 acres,2,3,$625k
+754,"2550 University Pl Nw Apt 5, Washington, DC 20009","1,245 sqft",2,2,$825k
+755,"154 D St Se, Washington, DC 20003","1,896 sqft",4,5,$1.10m
+756,"1316 W St Ne, Washington, DC 20018","1,680 sqft",2,3,$350k
+757,"1425 4th St Sw #317, Washington, DC 20024",508 sqft,1,N/A,$240k
+758,"922 24th St Nw Apt 413, Washington, DC 20037",518 sqft,1,N/A,$349k
+759,"4116 12th St Ne, Washington, DC 20017","2,208 sqft",2,5,$765k
+760,"1701 16th St Nw Apt 125, Washington, DC 20009",544 sqft,1,1,$322k
+761,"725 L St Ne, Washington, DC 20002","1,096 sqft",1.5,2,$719k
+762,"2036 17th St Nw, Washington, DC 20009","2,193 sqft",3,4,$1.20m
+763,"3131 Cherry Rd Ne #32, Washington, DC 20018","1,881 sqft",2.5,3,$400k
+764,"1834 Jefferson Pl Nw #19, Washington, DC 20036",711 sqft,1,1,$599k
+765,"1616 Decatur St Nw, Washington, DC 20011","1,967 sqft",4,4,$775k
+766,"1816 Kalorama Rd Nw Apt 204, Washington, DC 20009",326 sqft,1,N/A,$235k
+767,"130 Q St Nw Apt 4, Washington, DC 20001",680 sqft,1,2,$400k
+768,"3111 Naylor Rd Se Apt 303, Washington, DC 20020",900 sqft,1,2,$55k
+769,"4205 19th Pl Ne, Washington, DC 20018","1,912 sqft",3,3,$520k
+770,"514 Rittenhouse St Nw, Washington, DC 20011","1,252 sqft",4,4,$650k
+771,"2422 17th St Nw Apt 208, Washington, DC 20009",556 sqft,2,2,$580k
+772,"139 Xenia St Se, Washington, DC 20032","2,160 sqft",2,4,$299k
+773,"1330 New Hampshire 58 Parking Nw Ave, Washington, DC 20036",N/A,N/A,N/A,$60k
+774,"1511 22nd St Nw Apt 15, Washington, DC 20037",425 sqft,1,N/A,$325k
+775,"232 14th Pl Ne, Washington, DC 20002",0.04 acres,4,5,$1.25m
+776,"3280 Chestnut St Nw, Washington, DC 20015","3,277 sqft",5,6,$1.25m
+777,"117 Division Ave Ne, Washington, DC 20019","1,600 sqft",2,5,$435k
+778,"423 Warner St Nw, Washington, DC 20001","1,184 sqft",2,3,$749k
+779,"4366 Varnum Pl Ne, Washington, DC 20017","1,408 sqft",2.5,4,$220k
+780,"220 14th St Ne, Washington, DC 20002","2,335 sqft",3,4,$695k
+781,"3437 25th St Se, Washington, DC 20020","1,024 sqft",1,3,$225k
+782,"4100 Cathedral Ave Nw #1, Washington, DC 20016","1,590 sqft",2,1,$575k
+783,"3420 16th St Nw Apt 102, Washington, DC 20010","1,220 sqft",2,2,$550k
+784,"5519 2nd St Nw, Washington, DC 20011","2,437 sqft",4,4,$800k
+785,"5519 Bass Pl Se, Washington, DC 20019",0.05 acres,1,2,$265k
+786,"1414 22nd St Nw Penthouse 63, Washington, DC 20037","1,960 sqft",3,2,$1.75m
+787,"3277 Sutton Pl Nw Apt D, Washington, DC 20016","1,628 sqft",2.5,3,$775k
+788,"1124 25th St Nw Apt T1, Washington, DC 20037",477 sqft,1,1,$339k
+789,"3510 Overlook Ln Nw, Washington, DC 20016","4,624 sqft",4,5,$2.00m
+790,"1353 Sheridan St Nw, Washington, DC 20011",0.04 acres,3,3,$669k
+791,"3078 Clinton St Ne, Washington, DC 20018",0.1 acres,2,2,$449k
+792,"2700 Virginia Ave Nw #502, Washington, DC 20037","3,400 sqft",4,4,$4.30m
+793,"5801 Nebraska Ave Nw, Washington, DC 20015","3,200 sqft",4,4,$1.40m
+794,"3512 34th St Nw, Washington, DC 20008","1,580 sqft",2,3,$850k
+795,"1821 18th St Se, Washington, DC 20020",0.07 acres,N/A,N/A,$898k
+796,"5710 1st St Nw, Washington, DC 20011",0.14 acres,3,3,$749k
+797,"4008 12th St Ne, Washington, DC 20017","1,536 sqft",1.5,3,$540k
+798,"1365 Kennedy St Nw Apt 303, Washington, DC 20011",625 sqft,1,1,$235k
+799,"4640 Easy Pl Se, Washington, DC 20019","1,664 sqft",3,4,$479k
+800,"4274 E Capitol St Ne Apt 202, Washington, DC 20019",800 sqft,1,2,$150k
+801,"1624 18th St Nw #c, Washington, DC 20009","1,400 sqft",3,2,$1.35m
+802,"2149 Florida Ave Nw, Washington, DC 20008","3,580 sqft",4,4,$1.75m
+803,"4406 Eads St Ne, Washington, DC 20019",816 sqft,N/A,N/A,$259k
+804,"1107 P St Nw, Washington, DC 20005","3,762 sqft",5,6,$1.50m
+805,"1706 Trinidad Ave Ne, Washington, DC 20002","3,136 sqft",N/A,N/A,$850k
+806,"3147 P St Nw, Washington, DC 20007","6,966 sqft",6,5,$7.50m
+807,"1218 Linden Pl Ne, Washington, DC 20002","1,100 sqft",1.5,2,$705k
+808,"616 E St Nw Apt 419, Washington, DC 20004",633 sqft,1,N/A,$350k
+809,"3030 O St Se, Washington, DC 20020","1,198 sqft",2.5,4,$400k
+810,"1025 1st St Se Apt 1415, Washington, DC 20003","1,065 sqft",2,2,$699k
+811,"30 Rhode Island Ave Nw, Washington, DC 20001","2,130 sqft",3,3,$1.30m
+812,"5232 1st St Nw, Washington, DC 20011",0.04 acres,3,3,$600k
+813,"735 Oglethorpe St Ne, Washington, DC 20011",0.07 acres,3,4,$570k
+814,"3624 Brothers Pl Se, Washington, DC 20032",0.14 acres,2,5,$450k
+815,"2826 Newton St Ne, Washington, DC 20018","2,072 sqft",3,3,$510k
+816,"1724 Varnum St Nw, Washington, DC 20011","3,296 sqft",3,4,$895k
+817,"1 Scott Cir Nw #517, Washington, DC 20036",494 sqft,1,1,$265k
+818,"3420 Half Brown St Nw #a, Washington, DC 20010","2,009 sqft",3,3,$795k
+819,"5328 Ames St Ne, Washington, DC 20019","1,782 sqft",2,3,$350k
+820,"1946 I St Ne, Washington, DC 20002","1,400 sqft",N/A,N/A,$650k
+821,"4007 Connecticut Ave Nw Apt 405, Washington, DC 20008",748 sqft,1,1,$380k
+822,"1815 18th St Nw Apt 101, Washington, DC 20009",620 sqft,1,1,$365k
+823,"821 Marietta Pl Nw, Washington, DC 20011",0.04 acres,2,3,$505k
+824,"607 Ava Cir Ne, Washington, DC 20017","1,644 sqft",4,3,$575k
+825,"2501 M St Nw Apt 615, Washington, DC 20037","1,109 sqft",1.5,1,$849k
+826,"403 17th St Ne #a, Washington, DC 20002","1,608 sqft",4,3,$729k
+827,"3900 Cathedral Ave Nw Apt 505a, Washington, DC 20016",950 sqft,1,1,$345k
+828,"4210 Benning Rd Ne Apt 4, Washington, DC 20019",768 sqft,1,2,$109k
+829,"3601 Connecticut Ave Nw Apt 507, Washington, DC 20008","1,200 sqft",1,1,$490k
+830,"1219 33rd St Nw, Washington, DC 20007","1,887 sqft",2,3,$1.13m
+831,"2232 Nicholson St Se, Washington, DC 20020","1,290 sqft",2,3,$650k
+832,"1420 N St Nw Apt 301, Washington, DC 20005",925 sqft,1,2,$470k
+833,"2450 Ontario Rd Nw #3, Washington, DC 20009","1,257 sqft",2,3,$815k
+834,"1401 17th St Nw Apt 908, Washington, DC 20036",122 sqft,1,1,$420k
+835,"3610 20th St Ne, Washington, DC 20018",0.06 acres,2,3,$490k
+836,"2802 Devonshire Pl Nw Apt 205, Washington, DC 20008",900 sqft,1,2,$449k
+837,"1121 24th St Nw Apt 309, Washington, DC 20037",307 sqft,1,N/A,$279k
+838,"4201 Cathedral Ave Nw Apt 222w, Washington, DC 20016","1,045 sqft",1,1,$375k
+839,"598 Brummel Ct Nw #598, Washington, DC 20012","1,100 sqft",2,2,$399k
+840,"3679 Alabama Ave Se Unit B, Washington, DC 20020","1,196 sqft",1,2,$175k
+841,"1010 25th St Nw Apt 802, Washington, DC 20037",671 sqft,1,1,$345k
+842,"4426 Westover Pl Nw, Washington, DC 20016","2,052 sqft",4.5,3,$1.07m
+843,"3622 Jocelyn St Nw, Washington, DC 20015","2,755 sqft",4,4,$1.02m
+844,"1620 C St Ne, Washington, DC 20002",0.03 acres,3,4,$574k
+845,"1301 Delaware Ave Sw Apt N123, Washington, DC 20024",600 sqft,1,1,$225k
+846,"5155 7th St Ne, Washington, DC 20011","1,088 sqft",2,3,$449k
+847,"1931 Jackson St Ne, Washington, DC 20018","3,000 sqft",4,6,$950k
+848,"25 D St Se Apt A, Washington, DC 20003","1,348 sqft",2.5,2,$1.60m
+849,"1461 Chapin St Nw #4, Washington, DC 20009","2,173 sqft",4,3,$2.10m
+850,"1461 Chapin St Nw #1, Washington, DC 20009",836 sqft,2,2,$799k
+851,"1150 K St Nw Apt 611, Washington, DC 20005","1,060 sqft",2,2,$580k
+852,"1217 10th St Nw Apt B, Washington, DC 20001","1,493 sqft",3,3,$1.40m
+853,"1217 10th St Nw Apt A, Washington, DC 20001","1,827 sqft",3,2,$1.60m
+854,"1240 Oates St Ne, Washington, DC 20002","1,294 sqft",1,3,$549k
+855,"1729 Wisconsin Ave Nw, Washington, DC 20007",0.07 acres,N/A,N/A,$2.90m
+856,"1719 U St Nw #3, Washington, DC 20009",786 sqft,2,2,$635k
+857,"3918 Southern Ave Se Unit B, Washington, DC 20020","1,225 sqft",1,2,$197k
+858,"1018 Florida Ave Ne Apt 102, Washington, DC 20002",682 sqft,1.5,1,$299k
+859,"1118 3rd St Ne, Washington, DC 20002",0.02 acres,1,2,$675k
+860,"310 20th St Ne, Washington, DC 20002","1,436 sqft",2,3,$640k
+861,"2811 N St Nw, Washington, DC 20007","1,686 sqft",3,3,$1.80m
+862,"2433 Girard Pl Ne, Washington, DC 20018",0.1 acres,N/A,N/A,$219k
+863,"1391 Pennsylvania Ave Se Unit M04, Washington, DC 20003",728 sqft,1,1,$415k
+864,"3860 Rodman St Nw Apt C225, Washington, DC 20016",913 sqft,1,2,$475k
+865,"3701 Connecticut Ave Nw Apt 518, Washington, DC 20008",897 sqft,1,1,$375k
+866,"444 M St Nw Apt 7, Washington, DC 20001",935 sqft,1,2,$579k
+867,"1941 Bennett Pl Ne, Washington, DC 20002","1,244 sqft",3,3,$525k
+868,"555 Massachusetts Ave Nw Apt 803, Washington, DC 20001",929 sqft,2,2,$650k
+869,"1156 4th St Ne, Washington, DC 20002","1,368 sqft",4,3,$950k
+870,"618 Chesapeake St Se, Washington, DC 20032","1,449 sqft",2.5,3,$360k
+871,"604 Columbia Rd Nw #2, Washington, DC 20001","1,440 sqft",2.5,2,$649k
+872,"7537 12th St Nw, Washington, DC 20012","4,300 sqft",3,5,$1.28m
+873,"3039 Macomb St Nw Apt 23, Washington, DC 20008",660 sqft,1,1,$328k
+874,"800 25th St Nw #302, Washington, DC 20037","2,067 sqft",3,2,$1.20m
+875,"4707 47th St Nw, Washington, DC 20016","1,368 sqft",2,3,$899k
+876,"709 7th St Ne, Washington, DC 20002","2,181 sqft",4,4,$995k
+877,"1225 13th St Nw Apt 707, Washington, DC 20005",643 sqft,1,1,$400k
+878,"207 R St Nw Apt 5, Washington, DC 20001",833 sqft,1,2,$450k
+879,"1668 Kalorama Rd Nw, Washington, DC 20009",0.02 acres,1,2,$649k
+880,"4440 Lowell St Nw, Washington, DC 20016","2,082 sqft",3.5,4,$1.33m
+881,"1844 Columbia Rd Nw Apt 305, Washington, DC 20009",470 sqft,1,1,$299k
+882,"6952 33rd St Nw, Washington, DC 20015","1,157 sqft",2,2,$699k
+883,"2500 Q St Nw Apt 745, Washington, DC 20007",886 sqft,1,1,$375k
+884,"2807 4th St Ne, Washington, DC 20002","1,144 sqft",N/A,N/A,$495k
+885,"4000 Cathedral Ave Nw Apt 152b, Washington, DC 20016","1,800 sqft",2,2,$749k
+886,"1217 T St Nw, Washington, DC 20009","2,012 sqft",3,3,$1.59m
+887,"2500 Virginia Ave Nw #717-s, Washington, DC 20037","1,612 sqft",2.5,2,$2.20m
+888,"3805 V St Se, Washington, DC 20020",848 sqft,1,2,$186k
+889,"1822 New Hampshire Ave Nw Apt 4, Washington, DC 20009",730 sqft,1,1,$475k
+890,"4827 Yuma St Nw, Washington, DC 20016","1,386 sqft",2.5,3,$799k
+891,"1015 33rd St Nw Apt 705, Washington, DC 20007","1,527 sqft",3,2,$849k
+892,"726 Girard St Nw #1, Washington, DC 20001","2,627 sqft",4,4,$899k
+893,"921 Butternut St Nw Apt 104, Washington, DC 20012",802 sqft,2,2,$380k
+894,"4209 50th St Nw, Washington, DC 20016","4,100 sqft",4,5,$1.78m
+895,"1613 35th St Nw, Washington, DC 20007","3,280 sqft",4,4,$2.73m
+896,"1463 A St Ne #1463, Washington, DC 20002",805 sqft,1,1,$415k
+897,"616 E St Nw Apt 1154, Washington, DC 20004","1,665 sqft",4,3,$1.03m
+898,"316 Gallatin St Nw, Washington, DC 20011","1,400 sqft",3,4,$770k
+899,"709 Emerson St Ne, Washington, DC 20017",816 sqft,1,2,$479k
+900,"5427 Kansas Ave Nw, Washington, DC 20011",0.04 acres,4,5,$820k
+901,"1500 D St Se, Washington, DC 20003","1,401 sqft",4,3,$1.50m
+902,"7014 31st St Nw, Washington, DC 20015","3,160 sqft",3,3,$885k
+903,"2117 11th St Nw Apt 3, Washington, DC 20001","1,070 sqft",2,2,$825k
+904,"4007 Connecticut Ave Nw Unit 408, Washington, DC 20008",784 sqft,1,1,$399k
+905,"1314 Riggs St Nw, Washington, DC 20009","2,360 sqft",3.5,5,$1.38m
+906,"1620 Corcoran St Nw Apt B, Washington, DC 20009","1,200 sqft",2,2,$639k
+907,"2425 L St Nw Apt 936, Washington, DC 20037","1,789 sqft",2,2,$1.59m
+908,"3020 Dent Pl Nw Apt 12w, Washington, DC 20007",792 sqft,1,1,$579k
+909,"703 Kentucky Ave Se, Washington, DC 20003","1,868 sqft",3,4,$865k
+910,"460 New York Ave Nw Unit 807, Washington, DC 20001","1,134 sqft",2,2,$780k
+911,"426 M St Nw Apt F, Washington, DC 20001",815 sqft,1,2,$579k
+912,"1245 13th St Nw Apt 611, Washington, DC 20005",644 sqft,1,1,$384k
+913,"315 18th St Ne, Washington, DC 20002","2,216 sqft",2,4,$615k
+914,"631 Constitution Ave Ne, Washington, DC 20002",N/A,N/A,N/A,$2.80m
+915,"1938 Biltmore St Nw Apt D, Washington, DC 20009","1,040 sqft",1.5,2,$500k
+916,"1301 Delaware Ave Sw Apt N402, Washington, DC 20024",500 sqft,1,N/A,$145k
+917,"1503 K St Se #301, Washington, DC 20003","1,020 sqft",2,2,$599k
+918,"701 Pennsylvania Ave Nw Apt 1209, Washington, DC 20004",550 sqft,1,1,$445k
+919,"610 3rd St Se Apt 10, Washington, DC 20003",494 sqft,1,1,$340k
+920,"1211 I St Ne, Washington, DC 20002","1,334 sqft",3,2,$749k
+921,"1635 A St Ne, Washington, DC 20002","1,152 sqft",4,3,$799k
+922,"1 Logan Cir Nw Apt 2, Washington, DC 20005","1,437 sqft",2,2,$799k
+923,"1444 Taylor St Nw Unit 03, Washington, DC 20011","1,000 sqft",2.5,2,$639k
+924,"1705 P St Nw Apt 1, Washington, DC 20036",447 sqft,1,1,$375k
+925,"1828 Riggs Pl Nw Apt 26, Washington, DC 20009",334 sqft,1,N/A,$259k
+926,"1101 3rd St Sw Apt 112, Washington, DC 20024",526 sqft,1,1,$339k
+927,"437 New York Ave Nw Apt 212, Washington, DC 20001",690 sqft,1,1,$449k
+928,"3113 Chestnut St Ne, Washington, DC 20018","1,312 sqft",1.5,2,$399k
+929,"3205 Central Ave Ne, Washington, DC 20018","1,105 sqft",2,4,$450k
+930,"3430 Brown St Nw Apt 3, Washington, DC 20010","1,571 sqft",3,3,$679k
+931,"1954 Columbia Rd Nw Apt 106, Washington, DC 20009",392 sqft,1,N/A,$235k
+932,"532 11th St Se, Washington, DC 20003","2,216 sqft",3,3,$1.05m
+933,"531 2nd St Se, Washington, DC 20003","1,458 sqft",1,3,$1.35m
+934,"915 E St Nw Apt 1008, Washington, DC 20004",781 sqft,1,2,$470k
+935,"1609 D St Ne, Washington, DC 20002","1,374 sqft",2,3,$769k
+936,"2939 Van Ness St Nw Apt 722, Washington, DC 20008",798 sqft,1,1,$320k
+937,"1902 C St Ne, Washington, DC 20002","1,260 sqft",4,4,$799k
+938,"1 Logan Cir Nw Apt 8, Washington, DC 20005","1,370 sqft",2,2,$1.18m
+939,"3425 14th St Ne, Washington, DC 20017","3,500 sqft",3,4,$1.25m
+940,"3001 Veazey Ter Nw Apt 508, Washington, DC 20008","1,330 sqft",2,2,$525k
+941,"1107 4th St Ne, Washington, DC 20002","1,534 sqft",3,3,$799k
+942,"1121 Fairmont St Nw Apt 2, Washington, DC 20009","1,576 sqft",2,2,$770k
+943,"1416 18th Pl Se, Washington, DC 20020",0.04 acres,2,3,$346k
+944,"1312 Rittenhouse St Nw, Washington, DC 20011","2,040 sqft",4,4,$845k
+945,"4343 Garfield St Nw, Washington, DC 20007","5,000 sqft",6,5,$2.90m
+946,"4740 Connecticut Ave Nw Apt 802, Washington, DC 20008","1,454 sqft",2,2,$440k
+947,"4320 46th St Nw, Washington, DC 20016","1,700 sqft",3.5,5,$1.10m
+948,"4301 Massachusetts Ave Nw Apt 6009, Washington, DC 20016","1,084 sqft",2,2,$410k
+949,"1390 V St Nw Apt 413, Washington, DC 20009",872 sqft,2,1,$540k
+950,"1727 Massachusetts Ave Nw #316, Washington, DC 20036",650 sqft,N/A,N/A,$349k
+951,"1668 Trinidad Ave Ne Apt 1, Washington, DC 20002",716 sqft,1,2,$289k
+952,"3239 N St Nw Apt 11, Washington, DC 20007",600 sqft,1,1,$529k
+953,"768 Lamont St Nw, Washington, DC 20010",844 sqft,1.5,2,$550k
+954,"1526 17th St Nw Apt 301, Washington, DC 20036","1,255 sqft",2,2,$675k
+955,"218 3rd St Ne #29, Washington, DC 20002",587 sqft,1,1,$460k
+956,"212 9th St Se, Washington, DC 20003","2,139 sqft",4,4,$1.15m
+957,"1632 Eckington Pl Ne, Washington, DC 20002","1,152 sqft",1,2,$739k
+958,"1514 44th St Nw, Washington, DC 20007","2,160 sqft",3,5,$1m
+959,"3628 Winfield Ln Nw, Washington, DC 20007","2,622 sqft",3.5,4,$1.50m
+960,"218a 3rd St Ne #29, Washington, DC 20002",587 sqft,1,1,$460k
+961,"1230 Duncan Pl Ne, Washington, DC 20002","1,300 sqft",1.5,3,$750k
+962,"5021 Ayers Pl Se, Washington, DC 20019",660 sqft,1,2,$200k
+963,"2439 Monroe St Ne, Washington, DC 20018","1,835 sqft",2,4,$575k
+964,"1742 L St Ne, Washington, DC 20002",870 sqft,1,2,$499k
+965,"5233 Connecticut Ave Nw Apt 301, Washington, DC 20015",920 sqft,2,1,$475k
+966,"4425 Upton St Nw, Washington, DC 20016","2,354 sqft",3,3,$999k
+967,"1458 Columbia Rd Nw Apt 103, Washington, DC 20009",604 sqft,1,1,$279k
+968,"2904 M Pl Se, Washington, DC 20019","1,200 sqft",2,3,$324k
+969,"92 Sheridan St Ne, Washington, DC 20011","2,137 sqft",2,3,$489k
+970,"1321 Staples St Ne, Washington, DC 20002","1,296 sqft",3.5,4,$830k
+971,"672 Brandywine St Se, Washington, DC 20032","1,536 sqft",2,3,$277k
+972,"500 Florida Ave Nw Apt 1, Washington, DC 20001",673 sqft,2,2,$415k
+973,"2328 Champlain St Nw Apt 101, Washington, DC 20009","1,595 sqft",2,2,$770k
+974,"3606 Grant Pl Ne, Washington, DC 20019","1,924 sqft",3.5,3,$415k
+975,"2108 48th St Nw, Washington, DC 20007","3,070 sqft",3,5,$1.30m
+976,"3261 Fort Lincoln Dr Ne, Washington, DC 20018","2,160 sqft",3.5,4,$590k
+977,"1528 S St Se, Washington, DC 20020","2,590 sqft",4,5,$749k
+978,"3101 New Mexico Ave Nw Apt 236, Washington, DC 20016","1,173 sqft",1,1,$550k
+979,"3612 Wright Terrace Ne, Washington, DC 20018","2,400 sqft",4,3,$630k
+980,"621 Columbia Rd Nw, Washington, DC 20001","1,922 sqft",3.5,4,$825k
+981,"801 Crittenden St Nw, Washington, DC 20011","2,600 sqft",4,3,$979k
+982,"1529 14th St Nw Apt 310, Washington, DC 20005",800 sqft,1.5,1,$580k
+983,"3100 28th St Se, Washington, DC 20020","1,800 sqft",4,3,$374k
+984,"1860 California St Nw Apt 301, Washington, DC 20009",650 sqft,1,1,$350k
+985,"227 A St Ne, Washington, DC 20002","2,754 sqft",3,3,$1.35m
+986,"4413 3rd St Nw, Washington, DC 20011","2,490 sqft",2,3,$599k
+987,"3812 1st St Se, Washington, DC 20032","2,020 sqft",N/A,3,$249k
+988,"2514 41st St Nw Apt 3, Washington, DC 20007",732 sqft,1,1,$390k
+989,"1445 Madison St Nw, Washington, DC 20011",0.12 acres,5,5,$1.03m
+990,"3328 Runnymede Pl Nw, Washington, DC 20015","2,936 sqft",2.75,4,$1.57m
+991,"4022 Ely Pl Se, Washington, DC 20019","1,152 sqft",2.5,4,$465k
+992,"809 E St Se, Washington, DC 20003","1,396 sqft",2,2,$850k
+993,"4934 Indian Ln Nw, Washington, DC 20016","8,000 sqft",6.5,7,$7.45m
+994,"42 Randolph Pl Nw, Washington, DC 20001","1,272 sqft",1.5,3,$725k
+995,"445 Tennessee Ave Ne, Washington, DC 20002","1,590 sqft",3,3,$750k
+996,"350 9th St Se Apt 17, Washington, DC 20003","1,161 sqft",2,2,$729k
+997,"1659 34th St Nw, Washington, DC 20007","2,030 sqft",4,3,$1.40m
+998,"1700 Kalorama Rd Nw Apt 501, Washington, DC 20009","1,595 sqft",2,2,$1.15m
+999,"1420 N Capitol St Nw, Washington, DC 20002",0.05 acres,1,1,$1.50m
+1000,"5008 Arkansas Ave Nw, Washington, DC 20011","3,300 sqft",5.5,8,$1m
+1001,"4523 Q Ln Nw, Washington, DC 20007","3,750 sqft",6,7,$1.70m
+1002,"1322 15th St Nw Apt 32, Washington, DC 20005",600 sqft,1,1,$420k
+1003,"1325 Jefferson St Nw, Washington, DC 20011","2,866 sqft",4,4,$975k
+1004,"1631 U St Se, Washington, DC 20020","2,716 sqft",3,3,$539k
+1005,"1332 29th St Nw, Washington, DC 20007",0.07 acres,4,2,$2.30m
+1006,"1607 28th St Nw, Washington, DC 20007","9,450 sqft",9.5,8,$18.00m
+1007,"15 Grant Cir Nw #3, Washington, DC 20011","2,216 sqft",3.5,3,$925k
+1008,"2500 Virginia Ave Nw #712-s, Washington, DC 20037","2,350 sqft",3,3,$3.25m
+1009,"1440 Church St Nw Apt 402, Washington, DC 20005","1,130 sqft",2,2,$825k
+1010,"2122 California St Nw #157, Washington, DC 20008","1,300 sqft",2,2,$699k
+1011,"403 Jefferson St Ne, Washington, DC 20011","1,504 sqft",2,3,$485k
+1012,"1619 R St Nw Apt Ll1, Washington, DC 20009",903 sqft,2,2,$539k
+1013,"76 Sheridan St Ne, Washington, DC 20011","1,887 sqft",2.5,4,$558k
+1014,"824 Varnum St Nw #1, Washington, DC 20011","1,040 sqft",2,2,$525k
+1015,"1718 P St Nw Apt 502, Washington, DC 20036",795 sqft,1,1,$420k
+1016,"6343 Utah Ave Nw, Washington, DC 20015","3,270 sqft",5,5,$1.25m
+1017,"1608 Webster St Nw, Washington, DC 20011","2,465 sqft",4,3,$895k
+1018,"5226 39th St Nw, Washington, DC 20015","9,101 sqft",6,7,$3.50m
+1019,"4717 Colorado Ave Nw, Washington, DC 20011","3,904 sqft",4.5,4,$1.50m
+1020,"1538 44th St Nw, Washington, DC 20007","2,450 sqft",4,4,$1.10m
+1021,"1879 Channing St Ne, Washington, DC 20018","1,632 sqft",3.5,3,$500k
+1022,"512 Quincy St Nw, Washington, DC 20011",0.04 acres,2,4,$650k
+1023,"5007 Lee St Ne, Washington, DC 20019",622 sqft,1,2,$275k
+1024,"1901 3rd St Nw #1, Washington, DC 20001","2,600 sqft",4,4,$1.60m
+1025,"2301 N St Nw Apt 102, Washington, DC 20037",682 sqft,1,1,$450k
+1026,"4632 Hanna Pl Se, Washington, DC 20019",896 sqft,2,2,$265k
+1027,"1457 Park Rd Nw Apt 403, Washington, DC 20010",890 sqft,1,2,$419k
+1028,"4000 Tunlaw Rd Nw Apt 930, Washington, DC 20007",950 sqft,1,2,$390k
+1029,"3114 Dumbarton St Nw, Washington, DC 20007","2,320 sqft",2.5,4,$2.30m
+1030,"1320 8th St Nw, Washington, DC 20001","1,319 sqft",3,2,$730k
+1031,"5208 4th St Nw, Washington, DC 20011","1,310 sqft",2,3,$529k
+1032,"1030 Park Rd Nw, Washington, DC 20010","1,100 sqft",N/A,N/A,$1.20m
+1033,"5118 Queens Stroll Pl Se, Washington, DC 20019",660 sqft,5,6,$239k
+1034,"Green St Se, Washington, DC 20020",0.05 acres,N/A,N/A,$180k
+1035,"1725 Trinidad Ave Ne Apt 3, Washington, DC 20002",800 sqft,2,2,$395k
+1036,"1344 Independence Ave Se, Washington, DC 20003","3,732 sqft",4,5,$1.15m
+1037,"45 Madison St Nw, Washington, DC 20011","1,662 sqft",2.5,3,$482k
+1038,"955 26th St Nw Apt 213, Washington, DC 20037",800 sqft,1,1,$465k
+1039,"616 E St Nw Apt 652, Washington, DC 20004","1,214 sqft",3,2,$665k
+1040,"1 Scott Cir Nw #212, Washington, DC 20036",495 sqft,1,1,$280k
+1041,"1705 Euclid St Nw Apt 1, Washington, DC 20009",858 sqft,2,2,$579k
+1042,"3354 Ely Pl Se, Washington, DC 20019","1,080 sqft",1,3,$300k
+1043,"1242 Potomac St Nw, Washington, DC 20007","2,520 sqft",5,3,$2.99m
+1044,"3925 Georgia Ave Nw, Washington, DC 20011",0.04 acres,1,2,$975k
+1045,"626 Jefferson St Nw, Washington, DC 20011","1,512 sqft",2,4,$575k
+1046,"1239 Vermont Ave Nw Apt 309, Washington, DC 20005",766 sqft,2,2,$450k
+1047,"3914 New Hampshire Ave Nw, Washington, DC 20011","2,106 sqft",4,4,$850k
+1048,"2810 Channing St Ne, Washington, DC 20018","2,826 sqft",2,3,$545k
+1049,"621 A St Ne, Washington, DC 20002","4,681 sqft",4,4,$2.34m
+1050,"1607 Fairlawn Ave Se, Washington, DC 20020","1,600 sqft",3,4,$495k
+1051,"605 K St Ne Apt 2, Washington, DC 20002","1,164 sqft",2,2,$749k
+1052,"614 Otis Pl Nw, Washington, DC 20010","1,400 sqft",3,3,$625k
+1053,"611 Jefferson St Nw, Washington, DC 20011","1,400 sqft",1.5,4,$565k
+1054,"330 16th St Se #2, Washington, DC 20003","1,547 sqft",3,2,$775k
+1055,"2901 S Dakota Ave Ne, Washington, DC 20018","2,532 sqft",4,4,$699k
+1056,"2555 Pennsylvania Ave Nw Apt 605, Washington, DC 20037",868 sqft,1,1,$599k
+1057,"5012 45th St Nw, Washington, DC 20016","2,209 sqft",2.5,3,$899k
+1058,"5035 Rockwood Pkwy Nw, Washington, DC 20016","3,899 sqft",5,4,$1.70m
+1059,"6513 3rd St Nw, Washington, DC 20012","1,656 sqft",2,3,$775k
+1060,"428 Peabody St Nw, Washington, DC 20011","1,808 sqft",2,3,$550k
+1061,"6 Logan Cir Nw Apt 1, Washington, DC 20005","1,023 sqft",1,1,$575k
+1062,"1225 13th St Nw Apt 406, Washington, DC 20005",636 sqft,1,1,$410k
+1063,"15 V St Ne, Washington, DC 20002","2,605 sqft",N/A,N/A,$687k
+1064,"145 12th St Se, Washington, DC 20003","2,040 sqft",4,3,$1.10m
+1065,"3249 Newark St Nw, Washington, DC 20008",0.19 acres,6,7,$4.25m
+1066,"6661 Barnaby St Nw, Washington, DC 20015","2,200 sqft",3,4,$900k
+1067,"777 7th St Nw Apt 821, Washington, DC 20001",754 sqft,1,1,$419k
+1068,"1217 Missouri Ave Nw, Washington, DC 20011","2,380 sqft",4,4,$725k
+1069,"2937 Garfield Ter Nw, Washington, DC 20008","4,250 sqft",4,5,$2.00m
+1070,"4000 Cathedral Ave Nw #334-335b, Washington, DC 20016","2,000 sqft",2,2,$735k
+1071,"1323 Clifton St Nw Apt 34, Washington, DC 20009","1,052 sqft",2,2,$660k
+1072,"1321 Fairmont St Nw Apt 303, Washington, DC 20009",425 sqft,1,1,$300k
+1073,"730 11th St Ne Apt 203, Washington, DC 20002",715 sqft,2,2,$447k
+1074,"811 Otis Pl Nw Apt 205, Washington, DC 20010",605 sqft,1,1,$369k
+1075,"1125 12th St Nw Apt 32, Washington, DC 20005",508 sqft,1,1,$265k
+1076,"1419 Trinidad Ave Ne, Washington, DC 20002","1,080 sqft",2,3,$555k
+1077,"3012 Warder St Nw, Washington, DC 20001","1,785 sqft",4,2,$699k
+1078,"1315 Queen St Ne, Washington, DC 20002",0.05 acres,2,3,$625k
+1079,"804 Taylor St Nw #406, Washington, DC 20011",625 sqft,1,1,$329k
+1080,"113 Bloomingdale Ct Nw, Washington, DC 20001","3,200 sqft",3,2,$1.50m
+1081,"5021 Ivory Walters Ln Se, Washington, DC 20019","1,632 sqft",2.5,3,$385k
+1082,"5301 13th St Nw, Washington, DC 20011","3,123 sqft",4.5,4,$980k
+1083,"4201 Cathedral Ave Nw Apt 404w, Washington, DC 20016",803 sqft,1,1,$275k
+1084,"816 Geranium St Nw, Washington, DC 20012","1,240 sqft",3.5,4,$600k
+1085,"4601 Chesapeake St Nw, Washington, DC 20016","1,862 sqft",3,5,$1.10m
+1086,"4425 19th Pl Ne, Washington, DC 20018","2,456 sqft",3,4,$625k
+1087,"4940 Butterworth Pl Nw, Washington, DC 20016","2,015 sqft",3.5,5,$1.20m
+1088,"1515 11th St Nw Apt 2-1, Washington, DC 20001","1,353 sqft",2.5,2,$975k
+1089,"4000 Cathedral Ave Nw Apt 224b, Washington, DC 20016",920 sqft,1,1,$285k
+1090,"5109 12th St Ne, Washington, DC 20011",0.08 acres,3,3,$600k
+1091,"1391 Pennsylvania Ave Se Unit M07, Washington, DC 20003","1,029 sqft",2,2,$500k
+1092,"4949 Sherier Pl Nw, Washington, DC 20016","5,800 sqft",5,6,$2.35m
+1093,"4408 1st Pl Ne Apt 31a, Washington, DC 20011",607 sqft,1,1,$254k
+1094,"2905 Arizona Ave Nw, Washington, DC 20016","2,300 sqft",4,5,$895k
+1095,"1754 U St Nw Apt 3, Washington, DC 20009","1,279 sqft",2,3,$999k
+1096,"1776 Verbena St Nw, Washington, DC 20012","2,646 sqft",3,4,$740k
+1097,"18th Street Ne, Washington, DC 20018",0.09 acres,N/A,N/A,$310k
+1098,"1200 23rd St Nw Apt 604, Washington, DC 20037","1,400 sqft",3,2,$595k
+1099,"2406 3rd St Ne, Washington, DC 20002","1,020 sqft",1,3,$389k
+1100,"4748 6th Pl Ne, Washington, DC 20017","2,056 sqft",3,3,$519k
+1101,"3341 Massachusetts Ave Se, Washington, DC 20019",0.24 acres,4,5,$769k
+1102,"1730 New Hampshire Ave Nw Apt 14, Washington, DC 20009",448 sqft,1,1,$400k
+1103,"1338 Morris Rd Se, Washington, DC 20020",0.06 acres,3,4,$476k
+1104,"4000 Cathedral Ave Nw Apt 245b, Washington, DC 20016",596 sqft,1,N/A,$193k
+1105,"2001 16th St Nw Apt 703, Washington, DC 20009",850 sqft,1,2,$595k
+1106,"440 L St Nw Unit 808, Washington, DC 20001",868 sqft,1,1,$525k
+1107,"1001 L St Nw Apt 509, Washington, DC 20001",858 sqft,1,2,$500k
+1108,"616 E St Nw Apt 309, Washington, DC 20004",737 sqft,1,1,$450k
+1109,"4000 Tunlaw Rd Nw Apt 310, Washington, DC 20007",751 sqft,1,1,$285k
+1110,"1307 35th St Nw, Washington, DC 20007","2,340 sqft",3,2,$1.95m
+1111,"1421 1st St Nw, Washington, DC 20001","1,134 sqft",3,2,$786k
+1112,"3049 Porter St Nw, Washington, DC 20008","4,455 sqft",4,5,$1.28m
+1113,"3701 Connecticut Ave Nw Apt 321, Washington, DC 20008",510 sqft,1,N/A,$229k
+1114,"3800 52nd St Nw, Washington, DC 20016","5,871 sqft",6,5,$2.30m
+1115,"4609 Macarthur Blvd Nw Unit B, Washington, DC 20007","1,174 sqft",2.5,2,$648k
+1116,"1300 Massachusetts Ave Nw Apt 501, Washington, DC 20005",645 sqft,1,1,$345k
+1117,"2103 Huidekoper Pl Nw, Washington, DC 20007","1,403 sqft",4,6,$1.08m
+1118,"213 9th St Se, Washington, DC 20003","1,950 sqft",3.5,3,$1.25m
+1119,"2899 Chancellors Way Ne, Washington, DC 20017","1,308 sqft",2.5,3,$729k
+1120,"800 4th St Sw Apt S808, Washington, DC 20024",608 sqft,1,1,$365k
+1121,"1220 Holbrook St Ne, Washington, DC 20002","3,196 sqft",N/A,4,$600k
+1122,"6006 Mclean Pl Ne, Washington, DC 20011","2,052 sqft",3.5,3,$615k
+1123,"1317 Rhode Island Ave Nw Apt 202, Washington, DC 20005",636 sqft,1,1,$450k
+1124,"2425 L St Nw Apt 629, Washington, DC 20037","1,065 sqft",2,2,$769k
+1125,"1526 17th St Nw Apt 118, Washington, DC 20036",850 sqft,2,1,$425k
+1126,"1311 Delaware Ave Sw Apt S741, Washington, DC 20024",686 sqft,1,1,$220k
+1127,"354 M St Sw #354, Washington, DC 20024","1,730 sqft",2,2,$625k
+1128,"1229 12th St Nw Apt 201, Washington, DC 20005","1,220 sqft",3,2,$768k
+1129,"1331 Kenyon St Nw Apt 3, Washington, DC 20010","1,918 sqft",3,3,$900k
+1130,"732 Lamont St Nw Apt 403, Washington, DC 20010","1,059 sqft",2,2,$539k
+1131,"616 E St Nw Apt 512, Washington, DC 20004",808 sqft,1,1,$500k
+1132,"1308 Clifton St Nw Apt 307, Washington, DC 20009",650 sqft,1,1,$400k
+1133,"6014 New Hampshire Ave Ne, Washington, DC 20011","2,560 sqft",4,5,$840k
+1134,"512 R St Nw, Washington, DC 20001","1,248 sqft",2.5,4,$639k
+1135,"1661 Park Rd Nw Apt B3, Washington, DC 20010",490 sqft,1,1,$300k
+1136,"1377 K St Se Apt 2, Washington, DC 20003","1,431 sqft",3,3,$649k
+1137,"425 M St Nw Apt A, Washington, DC 20001",927 sqft,2,2,$575k
+1138,"2020 12th St Nw Apt T13, Washington, DC 20009","1,109 sqft",2,2,$615k
+1139,"6445 Luzon Ave Nw Apt 215, Washington, DC 20012",900 sqft,1,1,$188k
+1140,"2811 Terrace Rd Se #429, Washington, DC 20020",700 sqft,1,2,$65k
+1141,"1321 Fairmont St Nw Apt 403, Washington, DC 20009",465 sqft,1,1,$310k
+1142,"1300 N St Nw Apt 303, Washington, DC 20005",648 sqft,1,1,$437k
+1143,"2527 Q St Nw #b1, Washington, DC 20007",559 sqft,1,1,$350k
+1144,"6119 14th St Nw, Washington, DC 20011","2,400 sqft",3,3,$775k
+1145,"46 Rhode Island Ave Ne #2, Washington, DC 20002","1,700 sqft",2.5,3,$800k
+1146,"1875 Mintwood Pl Nw Apt 36, Washington, DC 20009",600 sqft,1,N/A,$336k
+1147,"3801 Rodman St Nw Apt B2, Washington, DC 20016","1,501 sqft",2,2,$595k
+1148,"2665 M L K Jr Ave Se Apt 202, Washington, DC 20020",800 sqft,1,3,$150k
+1149,"613 Hamlin St Ne Apt 9, Washington, DC 20017",502 sqft,1,1,$275k
+1150,"1401 17th St Nw Apt 405, Washington, DC 20036",829 sqft,2,2,$675k
+1151,"3109 Naylor Rd Se Apt B, Washington, DC 20020",673 sqft,1,1,$65k
+1152,"2035 2nd St Nw Apt Gl02, Washington, DC 20001","1,123 sqft",2,2,$549k
+1153,"1715 15th St Nw Apt D, Washington, DC 20009","1,100 sqft",N/A,2,$699k
+1154,"1916 17th St Nw Apt 309, Washington, DC 20009",605 sqft,1,1,$442k
+1155,"4425 River Rd Nw, Washington, DC 20016","1,980 sqft",4,5,$925k
+1156,"5827 Dix St Ne, Washington, DC 20019",0.12 acres,N/A,N/A,$1.08m
+1157,"1124 4th St Ne, Washington, DC 20002","2,052 sqft",4,4,$880k
+1158,"4052 Fessenden St Nw, Washington, DC 20016","1,705 sqft",2,4,$900k
+1159,"4000 Cathedral Ave Nw Apt 546b, Washington, DC 20016","1,150 sqft",1,1,$319k
+1160,"1655 Harvard St Nw, Washington, DC 20009","2,900 sqft",3,4,$1.15m
+1161,"126 13th St Se, Washington, DC 20003","2,310 sqft",4,4,$1.55m
+1162,"1325 13th St Nw Apt 104, Washington, DC 20005",630 sqft,1,1,$453k
+1163,"1840 Vernon St Nw Apt 104, Washington, DC 20009",617 sqft,1,2,$459k
+1164,"716 718 Jackson St Ne #1, Washington, DC 20017",N/A,2,2,$512k
+1165,"5337 Hayes St Ne, Washington, DC 20019",0.06 acres,2,3,$180k
+1166,"5727 Chillum Pl Ne, Washington, DC 20011",0.05 acres,1,2,$380k
+1167,"5720 Oregon Ave Nw, Washington, DC 20015","1,516 sqft",3,4,$825k
+1168,"1422 Monroe St Nw, Washington, DC 20010","2,700 sqft",2.5,4,$960k
+1169,"820 7th St Ne, Washington, DC 20002","2,110 sqft",3.5,4,$1.40m
+1170,"4707 Connecticut Ave Nw Apt 111, Washington, DC 20008",737 sqft,1,1,$330k
+1171,"710 Mississippi Ave Se, Washington, DC 20032","3,762 sqft",3,3,$346k
+1172,"1223 5th St Nw, Washington, DC 20001",0.04 acres,5,5,$2.19m
+1173,"1312 Massachusetts Ave Nw Apt 604, Washington, DC 20005",780 sqft,1,2,$475k
+1174,"2852 Connecticut Ave Nw, Washington, DC 20008","2,700 sqft",N/A,N/A,$4.65m
+1175,"3600 Massachusetts Ave Nw, Washington, DC 20007","5,508 sqft",5,5,$3.45m
+1176,"22 Rhode Island Ave Nw #1, Washington, DC 20001","1,600 sqft",3.5,3,$675k
+1177,"1449 N St Nw Apt 2, Washington, DC 20005","1,100 sqft",2,1,$775k
+1178,"1830 17th St Nw Apt 707, Washington, DC 20009","1,362 sqft",3,3,$1m
+1179,"1310 Q St Nw #4, Washington, DC 20009","1,775 sqft",3,3,$1.30m
+1180,"3101 Chestnut St Ne, Washington, DC 20018","2,540 sqft",5,5,$729k
+1181,"1461 S St Nw, Washington, DC 20009","4,062 sqft",6,6,$2.98m
+1182,"429 Emerson St Nw, Washington, DC 20011","2,320 sqft",2.5,3,$690k
+1183,"2510 Cliffbourne Pl Nw Apt 11, Washington, DC 20009",682 sqft,1,2,$349k
+1184,"1560 41st St Se, Washington, DC 20020","1,024 sqft",2,3,$315k
+1185,"2555 Pennsylvania Ave Nw Apt 916, Washington, DC 20037",824 sqft,1,1,$520k
+1186,"923 Shepherd St Nw #a, Washington, DC 20011","1,870 sqft",3,3,$750k
+1187,"2008 Fort Davis St Se Apt 302, Washington, DC 20020",651 sqft,1,2,$160k
+1188,"721 Girard St Nw, Washington, DC 20001","1,384 sqft",2,3,$682k
+1189,"2207 Rand Pl Ne, Washington, DC 20002","1,534 sqft",2,7,$482k
+1190,"240 M St Sw #e612, Washington, DC 20024",463 sqft,1,N/A,$250k
+1191,"1026 16th St Nw Apt 805, Washington, DC 20036","1,700 sqft",3,3,$1.25m
+1192,"3303 Water St Nw Unit 7f, Washington, DC 20007","2,043 sqft",3,2,$2.85m
+1193,"1123 6th St Nw #1, Washington, DC 20001",880 sqft,2,2,$489k
+1194,"3901 Cathedral Ave Nw #116, Washington, DC 20016",716 sqft,1,1,$256k
+1195,"4507 Arkansas Ave Nw, Washington, DC 20011","1,368 sqft",4,4,$875k
+1196,"4507 Klingle St Nw, Washington, DC 20016","3,069 sqft",4.5,4,$2.00m
+1197,"5206 Kansas Ave Nw, Washington, DC 20011","1,875 sqft",3,4,$689k
+1198,"1001 26th St Nw Apt 304, Washington, DC 20037",808 sqft,1,2,$450k
+1199,"5229 Connecticut Ave Nw Unit 309, Washington, DC 20015",857 sqft,1,2,$400k
+1200,"1372 C St Ne, Washington, DC 20002",0.02 acres,1,2,$580k
+1201,"6609 1st St Nw, Washington, DC 20012","4,860 sqft",4,6,$950k
+1202,"734 Marietta Pl Nw, Washington, DC 20011","2,088 sqft",4,4,$642k
+1203,"4607 Clay St Ne, Washington, DC 20019","2,352 sqft",3,5,$475k
+1204,"700 31st St Se, Washington, DC 20019","2,436 sqft",N/A,N/A,$550k
+1205,"3000 Minnesota Ave Se, Washington, DC 20019",0.05 acres,2,2,$370k
+1206,"1447 22nd St Se, Washington, DC 20020","1,880 sqft",N/A,N/A,$575k
+1207,"4616 4th St Nw, Washington, DC 20011","1,800 sqft",4,3,$823k
+1208,"1620 40th St Se, Washington, DC 20020","1,024 sqft",1,3,$315k
+1209,"3005 10th St Ne, Washington, DC 20017","1,238 sqft",1.5,2,$525k
+1210,"4603 Illinois Ave Nw, Washington, DC 20011","3,036 sqft",5,5,$1.10m
+1211,"1519 Monroe St Nw, Washington, DC 20010","3,692 sqft",N/A,6,$995k
+1212,"314 12th St Ne, Washington, DC 20002","3,042 sqft",3.5,5,$1.70m
+1213,"4740 Connecticut Ave Nw Apt 713, Washington, DC 20008","1,100 sqft",1,2,$450k
+1214,"2630 Adams Mill Rd Nw Apt 204, Washington, DC 20009",358 sqft,1,N/A,$250k
+1215,"2501 Calvert St Nw Apt 110, Washington, DC 20008",566 sqft,1,1,$315k
+1216,"560 N St Sw Apt N609, Washington, DC 20024",1 sqft,1,1,$310k
+1217,"3980 Langley Ct Nw Apt A607, Washington, DC 20016","1,322 sqft",2.5,2,$590k
+1218,"3018 Arizona Ave Nw, Washington, DC 20016","3,130 sqft",3,4,$1.28m
+1219,"2032 Belmont Rd Nw Apt 306, Washington, DC 20009",823 sqft,1,1,$379k
+1220,"1824 S St Nw Apt 101, Washington, DC 20009",746 sqft,1,1,$449k
+1221,"730 24th St Nw Apt 817, Washington, DC 20037",525 sqft,1,N/A,$248k
+1222,"4114 Davis Pl Nw Apt 106, Washington, DC 20007",706 sqft,1,1,$340k
+1223,"1401 Church St Nw Apt 519, Washington, DC 20005","1,128 sqft",2,2,$1.03m
+1224,"4000 Cathedral Ave Nw Apt 601b, Washington, DC 20016","1,600 sqft",2,2,$649k
+1225,"925 H St Nw Apt 613, Washington, DC 20001",949 sqft,1,1,$825k
+1226,"2201 L St Nw Apt 511, Washington, DC 20037",475 sqft,1,N/A,$315k
+1227,"522 21st St Nw Apt 301, Washington, DC 20006",685 sqft,1,1,$320k
+1228,"2339 40th Pl S #001, Washington, DC 20007",600 sqft,1,1,$299k
+1229,"1221 Oates St Ne #a, Washington, DC 20002",858 sqft,2,2,$440k
+1230,"843 Hr Dr Se, Washington, DC 20032",0.03 acres,4,3,$360k
+1231,"2806 Sherman Ave Nw #a, Washington, DC 20001","1,304 sqft",2.5,2,$760k
+1232,"3251 Prospect St Nw Apt 310, Washington, DC 20007",866 sqft,1,1,$649k
+1233,"637 3rd St Ne Apt 305, Washington, DC 20002",381 sqft,1,N/A,$274k
+1234,"2738 Mckinley St Nw, Washington, DC 20015","4,520 sqft",5.5,4,$1.60m
+1235,"1221 Oates St Ne #b, Washington, DC 20002",854 sqft,2,2,$460k
+1236,"4532 Eads St Ne, Washington, DC 20019","1,216 sqft",2,2,$269k
+1237,"215 Warren St Ne #a, Washington, DC 20002","1,508 sqft",3,3,$755k
+1238,"4106 14th St Nw Apt 1a, Washington, DC 20011","1,450 sqft",3,3,$630k
+1239,"600 E Capitol St Ne, Washington, DC 20003","2,223 sqft",2,4,$1.55m
+1240,"2826 Arizona Ave Nw, Washington, DC 20016","4,555 sqft",5,5,$1.55m
+1241,"4041 7th St Ne Apt 4, Washington, DC 20017","1,050 sqft",2,3,$600k
+1242,"2525 P St Nw, Washington, DC 20007","2,790 sqft",3,3,$2.25m
+1243,"1409 29th St Nw, Washington, DC 20007",0.07 acres,4,4,$4.50m
+1244,"1260 21st St Nw Apt 104, Washington, DC 20036",630 sqft,1,1,$325k
+1245,"3020 R St Nw Apt 3, Washington, DC 20007",959 sqft,1,2,$769k
+1246,"317 14th St Ne, Washington, DC 20002","1,216 sqft",1.5,3,$1.40m
+1247,"5035 Glenbrook Rd Nw, Washington, DC 20016","3,015 sqft",5,4,$1.60m
+1248,"3310 Dent Pl Nw, Washington, DC 20007","2,300 sqft",4,3,$1.60m
+1249,"1308 29th St Nw, Washington, DC 20007","4,250 sqft",5.5,6,$3.40m
+1250,"6625 Piney Branch Rd Nw, Washington, DC 20012","1,109 sqft",2,3,$697k
+1251,"1242 I St Ne, Washington, DC 20002","2,280 sqft",4,3,$1.30m
+1252,"922 24th St Nw Apt 716, Washington, DC 20037",460 sqft,1,N/A,$259k
+1253,"1644 W St Se, Washington, DC 20020",0.11 acres,N/A,N/A,$4.20m
+1254,"1920 S St Nw Apt 101, Washington, DC 20009",588 sqft,1,1,$365k
+1255,"3101 New Mexico Ave Nw Apt 846, Washington, DC 20016","1,173 sqft",1,1,$479k
+1256,"4433 19th Pl Ne, Washington, DC 20018","1,702 sqft",2,4,$649k
+1257,"2022 Flagler Pl Nw Apt Fl02, Washington, DC 20001",720 sqft,1,1,$399k
+1258,"1300 Massachusetts Ave Nw Apt 401, Washington, DC 20005",645 sqft,1,1,$389k
+1259,"3883 Connecticut Ave Nw Apt 317, Washington, DC 20008","1,188 sqft",2,2,$720k
+1260,"3690 38th St Nw Apt B236, Washington, DC 20016",863 sqft,2,1,$389k
+1261,"2315 37th St Nw, Washington, DC 20007",0.06 acres,3,3,$949k
+1262,"2002 Massachusetts Ave Nw Ste 4, Washington, DC 20036","2,400 sqft",4,3,$2.40m
+1263,"2426 Observatory Pl Nw, Washington, DC 20007","2,247 sqft",3,4,$1.04m
+1264,"3794 Martin Luther King Jr Ave Se Apt 304, Washington, DC 20032",884 sqft,1,2,$325k
+1265,"309 Peabody St Ne, Washington, DC 20011","1,248 sqft",2,3,$525k
+1266,"314 V St Ne Apt 104, Washington, DC 20002",414 sqft,1,1,$225k
+1267,"3209 Adams Mill Rd Nw, Washington, DC 20010","2,508 sqft",2.5,4,$975k
+1268,"1612 Portal Dr Nw, Washington, DC 20012",0.2 acres,4,3,$929k
+1269,"1713 Verbena St Nw, Washington, DC 20012","1,640 sqft",3,4,$799k
+1270,"3883 Connecticut Ave Nw Apt 216, Washington, DC 20008",713 sqft,1,1,$399k
+1271,"915 E St Nw Apt 1007, Washington, DC 20004",668 sqft,1,1,$450k
+1272,"2328 Champlain St Nw Apt 325, Washington, DC 20009",746 sqft,2,1,$565k
+1273,"1004 13th St Se, Washington, DC 20003","1,600 sqft",2.5,3,$745k
+1274,"2705 Poplar St Nw, Washington, DC 20007","1,320 sqft",2,3,$1.20m
+1275,"1514 17th St Nw Apt 303, Washington, DC 20036",436 sqft,1,N/A,$250k
+1276,"2219 Hartford St Se, Washington, DC 20020",832 sqft,1,2,$181k
+1277,"2939 Van Ness St Nw Apt 619, Washington, DC 20008",786 sqft,1,1,$290k
+1278,"3532 13th St Nw Apt 2, Washington, DC 20010","1,726 sqft",3,3,$799k
+1279,"777 7th St Nw Apt 312, Washington, DC 20001",662 sqft,1,1,$400k
+1280,"1632 30th St Nw Apt 1, Washington, DC 20007","1,055 sqft",3,2,$749k
+1281,"707 Kentucky Ave Se, Washington, DC 20003","1,818 sqft",4,3,$849k
+1282,"220 Gallatin St Nw, Washington, DC 20011","1,860 sqft",2,3,$600k
+1283,"2750 14th St Nw Apt 405, Washington, DC 20009",973 sqft,2,2,$585k
+1284,"1354 Queen St Ne #202, Washington, DC 20002",724 sqft,2,2,$340k
+1285,"245 15th St Se Apt 403, Washington, DC 20003","1,480 sqft",3,2,$750k
+1286,"1301 20th St Nw Apt 201, Washington, DC 20036",437 sqft,1,N/A,$275k
+1287,"5337 5th St Nw, Washington, DC 20011","1,176 sqft",N/A,2,$780k
+1288,"1628 11th St Nw Unit 109, Washington, DC 20001","1,704 sqft",3,3,$1.30m
+1289,"3030 K St Nw Apt 217, Washington, DC 20007","3,700 sqft",4,2,$7.20m
+1290,"6 Browns Ct Se, Washington, DC 20003",624 sqft,1,2,$600k
+1291,"1440 N St Nw Apt 615, Washington, DC 20005",411 sqft,1,N/A,$259k
+1292,"3100 Wisconsin Ave Nw Apt 204, Washington, DC 20016",330 sqft,1,N/A,$215k
+1293,"2125 14th St Nw Apt 229, Washington, DC 20009",542 sqft,1,1,$393k
+1294,"1836 24th St Nw, Washington, DC 20008","5,168 sqft",5.5,7,$4.20m
+1295,"503 15th St Se, Washington, DC 20003","1,260 sqft",1.5,2,$749k
+1296,"1612 5th St Nw #2, Washington, DC 20001","1,746 sqft",2.5,2,$799k
+1297,"2725 Ordway St Nw Apt 6, Washington, DC 20008","1,141 sqft",1,1,$500k
+1298,"3001 Veazey Ter Nw Apt 322, Washington, DC 20008","1,385 sqft",2,2,$475k
+1299,"811 4th St Nw Unit 520, Washington, DC 20001",868 sqft,2,2,$584k
+1300,"307 E St Ne, Washington, DC 20002","1,594 sqft",4,3,$955k
+1301,"809 Otis Pl Nw Apt 203, Washington, DC 20010",600 sqft,1,1,$375k
+1302,"235 56th St Ne, Washington, DC 20019",800 sqft,1.5,2,$330k
+1303,"440 L St Nw Unit 405, Washington, DC 20001","1,298 sqft",2,2,$830k
+1304,"2727 34th Pl Nw, Washington, DC 20007","8,300 sqft",6,6,$4.50m
+1305,"922 24th St Nw Apt 415, Washington, DC 20037",499 sqft,1,N/A,$275k
+1306,"1609 W Virginia Ave Ne, Washington, DC 20002","1,926 sqft",4,3,$765k
+1307,"2412 17th St Nw Unit 104, Washington, DC 20009",867 sqft,1,2,$500k
+1308,"777 7th St Nw Apt 926, Washington, DC 20001",994 sqft,2,2,$599k
+1309,"1322 Wallach Pl Nw, Washington, DC 20009","1,509 sqft",2,3,$1.35m
+1310,"1230 23rd St Nw Apt 818, Washington, DC 20037",638 sqft,1,1,$430k
+1311,"3100 N St Nw Apt 2, Washington, DC 20007",700 sqft,1,1,$520k
+1312,"4000 Cathedral Ave Nw Apt 642b, Washington, DC 20016",900 sqft,1,1,$300k
+1313,"4767 Berkeley Ter Nw, Washington, DC 20007","3,400 sqft",4,5,$1.48m
+1314,"1526 17th St Nw Apt 401, Washington, DC 20036",655 sqft,1,1,$337k
+1315,"1328 22nd St Nw, Washington, DC 20037","1,894 sqft",4,3,$1.20m
+1316,"430 Kenyon St Nw #2, Washington, DC 20010","1,796 sqft",4,3,$799k
+1317,"430 Kenyon St Nw Unit 1, Washington, DC 20010","1,760 sqft",4,3,$739k
+1318,"9 7th St Se, Washington, DC 20003","2,620 sqft",4,4,$1.40m
+1319,"4327 3rd St Nw, Washington, DC 20011",0.04 acres,4,4,$889k
+1320,"1312 13th St Nw, Washington, DC 20005",0.05 acres,N/A,N/A,$2.79m
+1321,"2801 New Mexico Ave Nw Apt 504, Washington, DC 20007","1,560 sqft",2,1,$599k
+1322,"447 New Jersey Ave Se, Washington, DC 20003","1,474 sqft",3.5,4,$1.35m
+1323,"1212 M St Nw Apt 303, Washington, DC 20005",956 sqft,2,2,$625k
+1324,"4000 Cathedral Ave Nw Apt 222b, Washington, DC 20016","1,000 sqft",1,1,$260k
+1325,"2012 O St Nw Apt 13, Washington, DC 20036",818 sqft,1,1,$419k
+1326,"326 I St Se, Washington, DC 20003","2,210 sqft",4,4,$1.25m
+1327,"1852 3rd St Nw #a, Washington, DC 20001","1,549 sqft",2,2,$600k
+1328,"3900 Tunlaw Rd Nw Apt 319, Washington, DC 20007",800 sqft,1,1,$210k
+1329,"1937 Calvert St Nw Apt A, Washington, DC 20009","2,000 sqft",2,4,$974k
+1330,"158 N Carolina Ave Se, Washington, DC 20003","1,490 sqft",2.5,3,$999k
+1331,"2227 20th St Nw Apt 303, Washington, DC 20009",900 sqft,1,1,$450k
+1332,"507 Roxboro Pl Nw, Washington, DC 20011","1,152 sqft",1.5,3,$485k
+1333,"1320 Holbrook St Ne, Washington, DC 20002","1,260 sqft",3,4,$700k
+1334,"36 Farragut Pl Nw, Washington, DC 20011","1,971 sqft",4,3,$749k
+1335,"1520 O St Nw Apt 104, Washington, DC 20005",824 sqft,2,2,$775k
+1336,"1101 L St Nw #207/210, Washington, DC 20005","1,066 sqft",2,2,$610k
+1337,"737 6th St Se, Washington, DC 20003","4,512 sqft",4,4,$1.75m
+1338,"1403 A St Se, Washington, DC 20003","2,030 sqft",3,3,$818k
+1339,"3856 Porter St Nw Apt E371, Washington, DC 20016","1,293 sqft",1,3,$539k
+1340,"18 O St Nw #18-b, Washington, DC 20001",800 sqft,1.5,2,$500k
+1341,"1618 S St Nw Apt 3, Washington, DC 20009",585 sqft,1,1,$458k
+1342,"1330 New Hampshire Ave Nw Apt 622, Washington, DC 20036",504 sqft,1,N/A,$320k
+1343,"2515 K St Nw Apt 205, Washington, DC 20037",681 sqft,1,1,$330k
+1344,"1118 C St Se, Washington, DC 20003","2,124 sqft",3,3,$1.19m
+1345,"1350 Maryland Ave Ne Unit 410, Washington, DC 20002","1,013 sqft",2,2,$590k
+1346,"249 Hawaii Ave Ne, Washington, DC 20011",0.05 acres,2,4,$456k
+1347,"1124 10th St Nw Apt Ta, Washington, DC 20001","1,185 sqft",1.5,1,$720k
+1348,"1240 18th St Ne Apt 1, Washington, DC 20002",677 sqft,1,2,$200k
+1349,"133 7th St Se, Washington, DC 20003",0.07 acres,N/A,N/A,$5.00m
+1350,"915 E St Nw Apt 1211, Washington, DC 20004",795 sqft,1,1,$465k
+1351,"4907 Sheriff Rd Ne, Washington, DC 20019","1,370 sqft",2.5,3,$440k
+1352,"601 Pennsylvania Ave Nw Apt 304, Washington, DC 20004",761 sqft,1,1,$475k
+1353,"1353 Downing St Ne, Washington, DC 20018","1,081 sqft",3,3,$550k
+1354,"2200 Prout St Se, Washington, DC 20020","2,464 sqft",N/A,N/A,$549k
+1355,"4000 Cathedral Ave Nw Apt 412b, Washington, DC 20016","1,600 sqft",2,2,$635k
+1356,"6319 7th St Nw, Washington, DC 20011","1,054 sqft",1,3,$275k
+1357,"4522 Westhall Dr Nw, Washington, DC 20007","6,550 sqft",5,5,$3.00m
+1358,"1314 28th St Nw, Washington, DC 20007","5,127 sqft",7,5,$5.65m
+1359,"2605 31st St Nw, Washington, DC 20008","4,475 sqft",5.5,5,$3.75m
+1360,"2515 17th St Nw Apt 02, Washington, DC 20009",633 sqft,1,1,$365k
+1361,"422 Kenyon St Nw, Washington, DC 20010","1,296 sqft",1,3,$550k
+1362,"5818 Field Pl Ne, Washington, DC 20019","1,610 sqft",1.5,5,$799k
+1363,"2440 16th St Nw Apt 203, Washington, DC 20009",400 sqft,1,N/A,$224k
+1364,"1320 Missouri Ave Nw Apt 101, Washington, DC 20011","1,022 sqft",2,3,$360k
+1365,"509 S St Nw, Washington, DC 20001","1,400 sqft",3,2,$775k
+1366,"915 French St Nw, Washington, DC 20001","3,250 sqft",5,5,$1.95m
+1367,"811 4th St Nw Unit 615, Washington, DC 20001",720 sqft,1,1,$465k
+1368,"1513 Meridian Pl Nw Apt 5, Washington, DC 20010",620 sqft,1,1,$330k
+1369,"4204 18th St Nw, Washington, DC 20011","3,226 sqft",3.5,5,$1.19m
+1370,"2030 F St Nw Apt 201, Washington, DC 20006",852 sqft,1,1,$473k
+1371,"1221 Randolph St Nw #1, Washington, DC 20011","1,610 sqft",3,3,$789k
+1372,"1480 Bangor St Se, Washington, DC 20020","1,536 sqft",3,4,$405k
+1373,"3015 Adams St Ne, Washington, DC 20018","1,900 sqft",3,3,$515k
+1374,"3481 Holmead Pl Nw, Washington, DC 20010","2,748 sqft",4,4,$1.10m
+1375,"Park Pl Nw, Washington, DC 20010",0.06 acres,N/A,N/A,$275k
+1376,"1747 Willard St Nw Apt 2, Washington, DC 20009","1,020 sqft",2,2,$705k
+1377,"1166 Abbey Pl Ne #1, Washington, DC 20002","1,150 sqft",2.5,2,$700k
+1378,"1427 Clifton St Nw Apt 4, Washington, DC 20009","1,300 sqft",2,2,$739k
+1379,"1820 Clydesdale Pl Nw Apt 304, Washington, DC 20009",924 sqft,1,2,$434k
+1380,"3429 Clay St Ne, Washington, DC 20019",832 sqft,1,2,$299k
+1381,"1607 W Virginia Ave Ne, Washington, DC 20002","1,926 sqft",3,3,$685k
+1382,"510 N St Sw Apt N519, Washington, DC 20024",N/A,1,N/A,$279k
+1383,"1245 13th St Nw Apt 103, Washington, DC 20005",871 sqft,2,2,$470k
+1384,"1603 Isherwood St Ne, Washington, DC 20002",0.07 acres,N/A,N/A,$759k
+1385,"1529 Monroe St Nw, Washington, DC 20010",0.03 acres,3,4,$950k
+1386,"1000 New Jersey Ave Se Apt 214, Washington, DC 20003","1,027 sqft",2,2,$565k
+1387,"4615 Foxhall Cres Nw, Washington, DC 20007","3,542 sqft",5,5,$1.48m
+1388,"1852 Kalorama Rd Nw, Washington, DC 20009","5,317 sqft",6,7,$2.20m
+1389,"215 5th St Ne, Washington, DC 20002","3,243 sqft",5,6,$1.94m
+1390,"1321 Monroe St Nw #a, Washington, DC 20010","1,920 sqft",3,3,$849k
+1391,"2421 18th St Nw Apt 302, Washington, DC 20009","1,110 sqft",2,2,$699k
+1392,"402 N St Nw, Washington, DC 20001","1,836 sqft",2,3,$750k
+1393,"1117 10th St Nw Apt W7, Washington, DC 20001","1,519 sqft",2,2,$835k
+1394,"616 E St Nw Apt 256, Washington, DC 20004","1,382 sqft",3,3,$865k
+1395,"2853 Ontario Rd Nw Apt 220, Washington, DC 20009",600 sqft,1,1,$399k
+1396,"5112 Connecticut Ave Nw Apt 207, Washington, DC 20008",800 sqft,1,2,$360k
+1397,"3620 T St Nw, Washington, DC 20007","1,640 sqft",2,3,$995k
+1398,"123 36th St Ne, Washington, DC 20019",0.04 acres,2,3,$419k
+1399,"5620 2nd Pl Nw, Washington, DC 20011","1,140 sqft",2,3,$495k
+1400,"1391 Pennsylvania Ave Se Unit 301, Washington, DC 20003","1,518 sqft",2,3,$815k
+1401,"919 Florida Ave Nw Apt 801, Washington, DC 20001","1,340 sqft",3,2,$799k
+1402,"136 35th St Ne, Washington, DC 20019",916 sqft,1,2,$325k
+1403,"2310 Tracy Pl Nw, Washington, DC 20008","5,286 sqft",5.5,4,$5.30m
+1404,"2918 W St Se, Washington, DC 20020","2,424 sqft",2.5,3,$485k
+1405,"19 4th St R Ne St Ne, Washington, DC 20002","1,177 sqft",N/A,N/A,$595k
+1406,"4429 Iowa Ave Nw, Washington, DC 20011","1,094 sqft",1.5,3,$550k
+1407,"2125 14th St Nw Apt 311w, Washington, DC 20009","1,418 sqft",3,2,$1.15m
+1408,"2126 Connecticut Ave Nw #51, Washington, DC 20008","1,550 sqft",2,1,$1.30m
+1409,"1623 Montague St Nw, Washington, DC 20011","3,300 sqft",3,4,$950k
+1410,"2132 32nd Pl Se, Washington, DC 20020","3,151 sqft",4,5,$635k
+1411,"4519 New Hampshire Ave Nw, Washington, DC 20011","1,577 sqft",2,3,$575k
+1412,"1099 22nd St Nw Apt 604, Washington, DC 20037","1,358 sqft",3,2,$799k
+1413,"330 Rhode Island Ave Ne Apt 304, Washington, DC 20002",514 sqft,1,1,$280k
+1414,"54 Nicholson St Nw, Washington, DC 20011","1,629 sqft",3,3,$649k
+1415,"23 Bates St Nw #1, Washington, DC 20001",950 sqft,2,2,$484k
+1416,"4608 Rockwood Pkwy Nw, Washington, DC 20016",0.25 acres,8,6,$3.00m
+1417,"4523 7th St Ne, Washington, DC 20017","1,408 sqft",2.5,4,$500k
+1418,"4521 C St Se, Washington, DC 20019",768 sqft,1.5,3,$305k
+1419,"516 A St Ne Apt 203, Washington, DC 20002",700 sqft,1,1,$388k
+1420,"1117 10th St Nw Apt 1013, Washington, DC 20001",773 sqft,1,1,$515k
+1421,"1301 20th St Nw Apt 310, Washington, DC 20036",675 sqft,1,1,$340k
+1422,"1341 1st St Nw, Washington, DC 20001","1,312 sqft",2,3,$649k
+1423,"1455 Girard St Nw, Washington, DC 20009","2,634 sqft",3,6,$1.85m
+1424,"1767 Lang Pl Ne, Washington, DC 20002","1,536 sqft",2,3,$600k
+1425,"207 Underwood St Nw, Washington, DC 20012","1,169 sqft",1,3,$645k
+1426,"1015 33rd St Nw Apt 508, Washington, DC 20007","1,497 sqft",2,2,$859k
+1427,"4201 Cathedral Ave Nw Apt 614e, Washington, DC 20016","1,825 sqft",2,3,$669k
+1428,"2939 Van Ness St Nw Apt 608, Washington, DC 20008",751 sqft,1,1,$280k
+1429,"4522 Foxhall Cres Nw, Washington, DC 20007","4,793 sqft",5,4,$1.90m
+1430,"4632 Hillside Rd Se, Washington, DC 20019","1,500 sqft",N/A,N/A,$425k
+1431,"4520 Foxhall Cres Nw, Washington, DC 20007","4,433 sqft",5,4,$2.10m
+1432,"1226 Orren St Ne, Washington, DC 20002","1,732 sqft",2.5,4,$815k
+1433,"1600 23rd St Se, Washington, DC 20020","2,350 sqft",2,4,$599k
+1434,"1727 Massachusetts Ave Nw #201, Washington, DC 20036",415 sqft,1,N/A,$245k
+1435,"2920 Cortland Pl Nw, Washington, DC 20008","3,650 sqft",5,5,$1.75m
+1436,"1727 16th St Se, Washington, DC 20020",0.06 acres,2,4,$500k
+1437,"3602 Rock Creek Church Rd Nw Apt 5, Washington, DC 20010",515 sqft,1,1,$348k
+1438,"221 Gallatin St Nw, Washington, DC 20011",0.06 acres,4,4,$795k
+1439,"1735 Johnson Ave Nw Apt F, Washington, DC 20009",982 sqft,2,2,$790k
+1440,"7441 9th St Nw, Washington, DC 20012",0.07 acres,3,3,$500k
+1441,"2230 Massachusetts Ave Nw, Washington, DC 20008","7,964 sqft",6,10,$8.00m
+1442,"1335 Spring Rd Nw, Washington, DC 20010","1,536 sqft",2,3,$925k
+1443,"4430 Kane Pl Ne, Washington, DC 20019","1,496 sqft",1,4,$300k
+1444,"738 Longfellow St Nw Apt 211, Washington, DC 20011",825 sqft,1,2,$295k
+1445,"200 Tuckerman St Nw, Washington, DC 20011","2,368 sqft",3.5,4,$799k
+1446,"1324 Holbrook St Ne, Washington, DC 20002","1,890 sqft",3.5,4,$760k
+1447,"350 G St Sw Apt N426, Washington, DC 20024",486 sqft,1,N/A,$270k
+1448,"4000 Cathedral Ave Nw Apt 624b, Washington, DC 20016",920 sqft,1,1,$325k
+1449,"1099 22nd St Nw Apt 102, Washington, DC 20037","1,322 sqft",2,2,$699k
+1450,"1801 Clydesdale Pl Nw Apt 217, Washington, DC 20009",474 sqft,1,N/A,$175k
+1451,"2125 14th St Nw Apt 212w, Washington, DC 20009",819 sqft,1,1,$253k
+1452,"2441 Elvans Rd Se, Washington, DC 20020","3,335 sqft",3,5,$750k
+1453,"302 Burbank St Se, Washington, DC 20019",0.05 acres,2,3,$400k
+1454,"4286 Massachusetts Ave Nw, Washington, DC 20016","2,718 sqft",3,3,$1.09m
+1455,"1325 18th St Nw Suite 207, Washington, DC 20036",721 sqft,1,1,$470k
+1456,"1776 Lyman Pl Ne, Washington, DC 20002","1,500 sqft",2,4,$630k
+1457,"4101 Albemarle St Nw Apt 352, Washington, DC 20016",835 sqft,1,1,$580k
+1458,"4526 Westhall Drive Nw, Washington, DC 20007","4,271 sqft",5,4,$1.80m
+1459,"1815 18th St Nw Apt 103, Washington, DC 20009",935 sqft,2,2,$559k
+1460,"1301 20th St Nw Apt 413, Washington, DC 20036",674 sqft,1,1,$394k
+1461,"2624 Minnesota Ave Se, Washington, DC 20020","1,394 sqft",2.5,3,$525k
+1462,"3827 Halley Ter Se, Washington, DC 20032",761 sqft,N/A,2,$175k
+1463,"1026 16th St Nw Apt 501, Washington, DC 20036","1,650 sqft",2,2,$999k
+1464,"5315 Connecticut Ave Nw Apt 603, Washington, DC 20015",674 sqft,1,1,$270k
+1465,"5145 Tilden St Nw, Washington, DC 20016","5,615 sqft",5.5,5,$3.79m
+1466,"2500 Q St Nw Apt 412, Washington, DC 20007","1,014 sqft",1,1,$449k
+1467,"3701 Connecticut Ave Nw Apt 422, Washington, DC 20008",638 sqft,1,1,$270k
+1468,"2022 Yorktown Rd Nw, Washington, DC 20012","3,551 sqft",6,5,$1.25m
+1469,"2518 13th St Nw Apt 2, Washington, DC 20009",947 sqft,1,2,$500k
+1470,"33 Kennedy St Nw Apt 103, Washington, DC 20011",904 sqft,1,2,$339k
+1471,"920 N St Nw, Washington, DC 20001",0.05 acres,N/A,N/A,$1.35m
+1472,"4201 Cathedral Ave Nw Apt 910e, Washington, DC 20016",889 sqft,1,1,$317k
+1473,"730 Crittenden St Ne, Washington, DC 20017","1,088 sqft",3,3,$580k
+1474,"2005 Lawrence St Ne, Washington, DC 20018","1,880 sqft",3,4,$725k
+1475,"2851 Chesterfield Pl Nw, Washington, DC 20008","7,260 sqft",6,5,$2.50m
+1476,"2850 27th St Nw, Washington, DC 20008","5,500 sqft",12,12,$3.60m
+1477,"3610 39th St Nw Apt B542, Washington, DC 20016","1,273 sqft",2,2,$489k
+1478,"228 R St Ne, Washington, DC 20002","1,980 sqft",2,4,$690k
+1479,"4130 4th St Se #101, Washington, DC 20032",700 sqft,1,2,$135k
+1480,"4130 4th St Se #102, Washington, DC 20032",705 sqft,1,1,$125k
+1481,"1524 18th St Nw Apt 1, Washington, DC 20036",595 sqft,1,1,$500k
+1482,"1524 18th St Nw Apt 4, Washington, DC 20036",680 sqft,2,2,$650k
+1483,"1524 18th St Nw #6, Washington, DC 20036",999 sqft,2,2,$930k
+1484,"645 Brandywine St Se, Washington, DC 20032","1,474 sqft",2,4,$370k
+1485,"3042 Clinton St Ne, Washington, DC 20018","2,215 sqft",1,3,$519k
+1486,"1325 13th St Nw Apt 24, Washington, DC 20005","1,599 sqft",3,3,$949k
+1487,"4920 Jay St Ne, Washington, DC 20019","1,102 sqft",1,2,$165k
+1488,"2031 2nd St Ne, Washington, DC 20002","1,088 sqft",2,3,$599k
+1489,"918 N Carolina Ave Se, Washington, DC 20003","2,277 sqft",4,3,$1.15m
+1490,"716 718 Jackson St Ne #3, Washington, DC 20017",N/A,2,2,$569k
+1491,"400 Massachusetts Ave Nw Apt 316, Washington, DC 20001",966 sqft,1,2,$549k
+1492,"3009 Yost Pl Ne, Washington, DC 20018",854 sqft,3,4,$550k
+1493,"3024 Tilden St Nw Apt 304c, Washington, DC 20008",813 sqft,1,1,$380k
+1494,"4716 Blagden Ter Nw, Washington, DC 20011","5,411 sqft",6,5,$1.60m
+1495,"616 E St Nw Apt 653, Washington, DC 20004","1,205 sqft",3,2,$655k
+1496,"1301 Delaware Ave Sw Apt N615, Washington, DC 20024",550 sqft,1,N/A,$142k
+1497,"1753 Verbena St Nw, Washington, DC 20012","4,530 sqft",3,4,$900k
+1498,"3817 Davis Pl Nw Apt 5, Washington, DC 20007",533 sqft,1,1,$289k
+1499,"4343 Harrison St Nw #6, Washington, DC 20015",900 sqft,2,2,$599k
+1500,"1245 4th St Sw Apt E403, Washington, DC 20024",836 sqft,1,1,$425k
+1501,"1209 Staples St Ne, Washington, DC 20002","2,550 sqft",4,4,$850k
+1502,"5611 5th St Nw Apt 15, Washington, DC 20011",622 sqft,1,1,$275k
+1503,"317 Taylor St Nw, Washington, DC 20011","1,610 sqft",1.5,3,$729k
+1504,"1209 Florida Ave Ne, Washington, DC 20002",800 sqft,1,2,$575k
+1505,"2211 14th St Ne, Washington, DC 20018","1,884 sqft",N/A,N/A,$700k
+1506,"1317 35th St Nw, Washington, DC 20007","2,200 sqft",3,3,$1.87m
+1507,"2750 14th St Nw Apt 203, Washington, DC 20009","1,318 sqft",2,3,$650k
+1508,"4514 Connecticut Ave Nw Apt C, Washington, DC 20008",N/A,1,1,$425k
+1509,"2301 N St Nw Apt 115, Washington, DC 20037",955 sqft,2,2,$700k
+1510,"2013 N St Nw, Washington, DC 20036","2,285 sqft",3,4,$1.60m
+1511,"5520 C St Se, Washington, DC 20019","1,040 sqft",3,3,$390k
+1512,"1313 Orren St Ne, Washington, DC 20002","3,144 sqft",N/A,N/A,$800k
+1513,"4013 8th St Ne Apt 4, Washington, DC 20017",800 sqft,1,2,$340k
+1514,"1330 New Hampshire Ave Nw Apt 924, Washington, DC 20036",504 sqft,1,N/A,$335k
+1515,"4201 Cathedral Ave Nw Apt 1223e, Washington, DC 20016","1,229 sqft",2,2,$449k
+1516,"4013 8th St Ne Apt 1, Washington, DC 20017","1,017 sqft",1,2,$380k
+1517,"330 16th St Se #1, Washington, DC 20003","1,523 sqft",3,2,$725k
+1518,"1286 Morse St Ne, Washington, DC 20002","3,550 sqft",7,6,$1.78m
+1519,"437 New York Ave Nw Apt 1103, Washington, DC 20001",693 sqft,1,1,$479k
+1520,"682 Nicholson St Ne, Washington, DC 20011","1,118 sqft",2.5,4,$540k
+1521,"1675 31st St Nw, Washington, DC 20007","7,350 sqft",6,5,$5.40m
+1522,"5414 9th St Nw, Washington, DC 20011","1,330 sqft",3,3,$635k
+1523,"1708 9th St Nw Apt C, Washington, DC 20001","1,066 sqft",1,2,$575k
+1524,"1916 4th St Ne Apt 1, Washington, DC 20002",954 sqft,2,2,$450k
+1525,"114 46th Pl Ne, Washington, DC 20019","1,216 sqft",2,3,$300k
+1526,"2384 Champlain St Nw, Washington, DC 20009","7,348 sqft",N/A,N/A,$6.50m
+1527,"4427 5th St Nw, Washington, DC 20011","1,116 sqft",2,3,$485k
+1528,"6619 6th St Nw, Washington, DC 20012","3,878 sqft",6,6,$1.23m
+1529,"417 57th St Ne, Washington, DC 20019","1,235 sqft",3,4,$369k
+1530,"Ridge Rd Se, Washington, DC 20019",0.13 acres,N/A,N/A,$85k
+1531,"5149 8th St Ne, Washington, DC 20011","1,269 sqft",3.5,4,$620k
+1532,"2138 California St Nw Apt 411, Washington, DC 20008","3,065 sqft",4,4,$1.79m
+1533,"3051 Idaho Ave Nw Apt 400, Washington, DC 20016",785 sqft,1,1,$290k
+1534,"418 57th St Ne, Washington, DC 20019",0.04 acres,2,2,$334k
+1535,"2609 Douglass Rd Se Apt 201, Washington, DC 20020","1,281 sqft",2,3,$299k
+1536,"5403 9th St Nw Apt 205, Washington, DC 20011",634 sqft,1,1,$300k
+1537,"1603 Monroe St Ne, Washington, DC 20018",988 sqft,2,2,$650k
+1538,"4600 Connecticut Ave Nw Apt 210, Washington, DC 20008","1,101 sqft",2,3,$465k
+1539,"940 25th St Nw Apt 107s, Washington, DC 20037",450 sqft,1,N/A,$189k
+1540,"1720 Franklin St Ne, Washington, DC 20018","1,283 sqft",2,4,$459k
+1541,"1011 Evarts St Ne, Washington, DC 20018","1,608 sqft",2,6,$550k
+1542,"2904 Carlton Ave Ne, Washington, DC 20018","2,368 sqft",3.5,5,$799k
+1543,"4287 S Capitol St Sw, Washington, DC 20032","1,152 sqft",4,2,$280k
+1544,"22 52nd St Se, Washington, DC 20019","1,176 sqft",2,4,$418k
+1545,"109 18th St Se, Washington, DC 20003","1,705 sqft",4,3,$740k
+1546,"2725 30th St Ne, Washington, DC 20018","2,850 sqft",4,4,$859k
+1547,"5245 Chillum Pl Ne, Washington, DC 20011","1,156 sqft",2,3,$430k
+1548,"235 Emerson St Nw Apt 101, Washington, DC 20011",700 sqft,1,1,$225k
+1549,"1725 Trinidad Ave Ne Apt 2, Washington, DC 20002",800 sqft,2,2,$375k
+1550,"809 6th St Nw Apt 43, Washington, DC 20001",597 sqft,1,1,$449k
+1551,"2978 2nd St Se, Washington, DC 20032","1,520 sqft",2.5,4,$300k
+1552,"4301 Massachusetts Ave Nw Apt 1010, Washington, DC 20016",786 sqft,1,1,$315k
+1553,"23 Q St Ne, Washington, DC 20002","2,272 sqft",3.5,4,$995k
+1554,"3401 3420 38th St Nw #221, Washington, DC 20016",850 sqft,2,2,$470k
+1555,"1523 Park Rd Nw Apt 102, Washington, DC 20010","1,261 sqft",3,3,$600k
+1556,"1816 New Hampshire Ave Nw Apt 702, Washington, DC 20009",336 sqft,1,N/A,$249k
+1557,"2500 Q St Nw Apt 207, Washington, DC 20007",700 sqft,1,1,$375k
+1558,"1716 L St Ne, Washington, DC 20002",840 sqft,1,2,$405k
+1559,"1620 32nd St Nw, Washington, DC 20007",845 sqft,1,2,$900k
+1560,"520 N St Sw Apt S416, Washington, DC 20024",720 sqft,1,1,$320k
+1561,"821 W Virginia Ave Ne, Washington, DC 20002","1,008 sqft",1,2,$599k
+1562,"342 13th St Ne, Washington, DC 20002","2,200 sqft",1,1,$899k
+1563,"53 Nicholson St Nw, Washington, DC 20011","2,400 sqft",4,5,$765k
+1564,"4101 Albemarle St Nw Apt 439, Washington, DC 20016",733 sqft,1,1,$439k
+1565,"2328 Champlain St Nw Apt 312, Washington, DC 20009",880 sqft,2,2,$690k
+1566,"240 M St Sw #e111, Washington, DC 20024",548 sqft,1,1,$295k
+1567,"1375 Maryland Ave Ne Apt F, Washington, DC 20002","1,000 sqft",1,1,$599k
+1568,"1375 Maryland Ave Ne Apt A, Washington, DC 20002","1,100 sqft",1,1,$569k
+1569,"1140 23rd St Nw Apt 307, Washington, DC 20037",731 sqft,1,1,$400k
+1570,"1816 Varnum St Ne, Washington, DC 20018","2,600 sqft",4,4,$859k
+1571,"1750 Harvard St Nw Apt 3a, Washington, DC 20009",820 sqft,2,2,$505k
+1572,"1501 38th St Se, Washington, DC 20020","1,586 sqft",3,4,$560k
+1573,"515 10th St Se, Washington, DC 20003","1,746 sqft",2,3,$1.00m
+1574,"727 6th St Ne, Washington, DC 20002","2,836 sqft",5.5,5,$1.62m
+1575,"700 New Hampshire Ave Nw #101, Washington, DC 20037","2,295 sqft",4,3,$1.30m
+1576,"1534 A St Ne, Washington, DC 20002","2,150 sqft",4,4,$900k
+1577,"1301 20th St Nw Apt 111, Washington, DC 20036",830 sqft,2,2,$475k
+1578,"522 Buchanan St Nw, Washington, DC 20011","2,106 sqft",3,4,$648k
+1579,"2915 13th St Ne, Washington, DC 20017","1,140 sqft",3,3,$650k
+1580,"5232 N Capitol St Nw Apt 206, Washington, DC 20011",600 sqft,1,1,$195k
+1581,"809 49th St Ne, Washington, DC 20019","2,700 sqft",3.5,4,$619k
+1582,"1116 C St Ne Apt 101, Washington, DC 20002",742 sqft,1,2,$525k
+1583,"1414 E St Se, Washington, DC 20003","1,608 sqft",2,3,$975k
+1584,"1329 Q St Nw, Washington, DC 20009",0.05 acres,3,7,$1.50m
+1585,"2510 Virginia Ave Nw #2d-n, Washington, DC 20037",780 sqft,1,1,$369k
+1586,"4201 Cathedral Ave Nw Apt 603e, Washington, DC 20016",963 sqft,1,1,$320k
+1587,"1260 21st St Nw Apt 510, Washington, DC 20036",425 sqft,1,N/A,$260k
+1588,"1130 Morse St Ne, Washington, DC 20002","1,824 sqft",4,4,$800k
+1589,"302 Maryland Ave Ne, Washington, DC 20002","1,903 sqft",3,3,$985k
+1590,"2804 Battery Pl Nw, Washington, DC 20016","3,016 sqft",4,5,$996k
+1591,"4570 Macarthur Blvd Nw Apt T2, Washington, DC 20007",400 sqft,1,N/A,$185k
+1592,"3823 Fessenden St Nw, Washington, DC 20016","2,210 sqft",4,6,$1.25m
+1593,"244 60th St Ne Apt 303, Washington, DC 20019",690 sqft,1,1,$140k
+1594,"229 Atlantic St Se, Washington, DC 20032","1,392 sqft",1,2,$270k
+1595,"103 Brandywine Pl Sw, Washington, DC 20032","1,312 sqft",2,3,$370k
+1596,"5801 32nd St Nw, Washington, DC 20015","4,350 sqft",5,5,$2.09m
+1597,"833 Marjorie Ct Se, Washington, DC 20032",0.03 acres,4,3,$295k
+1598,"39003902 14th St Nw #703, Washington, DC 20011",976 sqft,1,2,$425k
+1599,"162 Concord Pl Ne, Washington, DC 20011","1,384 sqft",3.5,3,$675k
+1600,"6109 7th Pl Nw, Washington, DC 20011","1,338 sqft",2,3,$504k
+1601,"1008 18th St Ne, Washington, DC 20002","1,684 sqft",2,2,$399k
+1602,"1 Scott Cir Nw #102, Washington, DC 20036",589 sqft,1,1,$249k
+1603,"2214 15th St Ne, Washington, DC 20018","1,184 sqft",2,3,$470k
+1604,"1905 Otis St Ne, Washington, DC 20018","1,664 sqft",2,3,$475k
+1605,"2014 Newton St Ne, Washington, DC 20018","1,634 sqft",2,4,$599k
+1606,"700 New Hampshire Ave Nw #712, Washington, DC 20037",932 sqft,1,1,$549k
+1607,"6121 3rd St Ne, Washington, DC 20011","1,700 sqft",4,3,$440k
+1608,"1745 Buchanan St Ne, Washington, DC 20017","1,400 sqft",3,3,$617k
+1609,"1150 K St Nw Apt 808, Washington, DC 20005",902 sqft,2,2,$590k
+1610,"555 Massachusetts Ave Nw Apt 418, Washington, DC 20001",979 sqft,2,2,$625k
+1611,"3803 S St Nw, Washington, DC 20007","3,650 sqft",5,6,$2.00m
+1612,"120 33rd St Ne, Washington, DC 20019","1,248 sqft",2,2,$419k
+1613,"2425 L St Nw Apt 621, Washington, DC 20037",850 sqft,1,1,$699k
+1614,"1745 L St Ne, Washington, DC 20002",840 sqft,1,2,$399k
+1615,"4201 Cathedral Ave Nw Apt 1015e, Washington, DC 20016","1,860 sqft",2,3,$699k
+1616,"925 H St Nw Apt 712, Washington, DC 20001","1,592 sqft",2.5,2,$1.50m
+1617,"3801 39th St Nw Apt F84, Washington, DC 20016","1,286 sqft",1,2,$499k
+1618,"1308 L St Se Ph 4, Washington, DC 20003","1,350 sqft",2,2,$800k
+1619,"27 Rock Creek Church Rd Nw, Washington, DC 20011","1,505 sqft",2,3,$670k
+1620,"435 Rhode Island Ave Nw, Washington, DC 20001","1,580 sqft",3,3,$798k
+1621,"634 N Carolina Ave Se Apt A, Washington, DC 20003",629 sqft,1,1,$345k
+1622,"123 Peabody St Nw, Washington, DC 20011","2,900 sqft",6.5,8,$694k
+1623,"2706 Brentwood Rd Ne, Washington, DC 20018","2,432 sqft",4,4,$770k
+1624,"3905 Highwood Ct Nw, Washington, DC 20007","2,800 sqft",3.5,4,$1.45m
+1625,"4201 Cathedral Ave Nw Apt 1418e, Washington, DC 20016",555 sqft,1,N/A,$200k
+1626,"2217 Hall Pl Nw, Washington, DC 20007","2,145 sqft",2.5,3,$1.10m
+1627,"1420 N St Nw #t5, Washington, DC 20005","2,412 sqft",1,9,$999k
+1628,"750 13th St Se, Washington, DC 20003",0.03 acres,2,3,$900k
+1629,"2109 Fort Davis St Se Apt B, Washington, DC 20020",762 sqft,1,2,$115k
+1630,"2801 New Mexico Ave Nw Apt 712, Washington, DC 20007","1,276 sqft",2,1,$479k
+1631,"3900 Tunlaw Rd Nw Apt 512, Washington, DC 20007",800 sqft,1,1,$204k
+1632,"2639 15th St Nw Apt B3, Washington, DC 20009",363 sqft,1,N/A,$219k
+1633,"18 9th St Ne Apt 303, Washington, DC 20002",819 sqft,1,2,$505k
+1634,"1613 Harvard St Nw Apt 403, Washington, DC 20009",420 sqft,1,N/A,$229k
+1635,"1437 Rhode Island Ave Nw Apt 112, Washington, DC 20005","1,087 sqft",2,2,$649k
+1636,"3883 Connecticut Ave Nw Apt 304, Washington, DC 20008","1,044 sqft",2,2,$619k
+1637,"2425 L St Nw Apt 436, Washington, DC 20037","1,354 sqft",2,2,$1.15m
+1638,"724 Faraday Pl Ne, Washington, DC 20017","1,200 sqft",2.5,2,$470k
+1639,"4405 1st Pl Ne Apt 31, Washington, DC 20011",598 sqft,1,1,$190k
+1640,"829 Quackenbos St Nw, Washington, DC 20011","1,904 sqft",1.5,3,$505k
+1641,"28 50th St Ne, Washington, DC 20019","1,492 sqft",1,3,$299k
+1642,"2424 18th St Nw Apt R2, Washington, DC 20009","4,430 sqft",3,3,$1.95m
+1643,"251 8th St Ne, Washington, DC 20002","3,336 sqft",6,4,$1.60m
+1644,"1114 Monroe St Nw, Washington, DC 20010",N/A,N/A,N/A,$1.82m
+1645,"3906 1st St Se, Washington, DC 20032",600 sqft,4,4,$235k
+1646,"1155 23rd St Nw Apt 8f, Washington, DC 20037",978 sqft,2,1,$849k
+1647,"5304 Sherier Pl Nw, Washington, DC 20016","4,145 sqft",4.5,4,$1.80m
+1648,"616 Delafield Pl Nw, Washington, DC 20011","2,083 sqft",4,4,$815k
+1649,"414 53rd St Ne, Washington, DC 20019","1,701 sqft",4.5,6,$325k
+1650,"226 12th Pl Ne, Washington, DC 20002","1,568 sqft",2,3,$799k
+1651,"609 Newton Pl Nw #b, Washington, DC 20010","1,200 sqft",3,2,$484k
+1652,"2305 Woodridge St Ne, Washington, DC 20018","1,774 sqft",3.5,6,$765k
+1653,"1608 C St Ne, Washington, DC 20002","1,152 sqft",3,5,$480k
+1654,"1457 Park Rd Nw Apt 202, Washington, DC 20010",973 sqft,1,2,$440k
+1655,"5 Brandywine St Se Apt 32, Washington, DC 20032",750 sqft,1,1,$50k
+1656,"501 Regent Pl Ne, Washington, DC 20017","2,160 sqft",4,3,$840k
+1657,"1508 Mississippi Ave Se, Washington, DC 20032","2,900 sqft",4.5,6,$675k
+1658,"5315 8th St Nw, Washington, DC 20011","2,570 sqft",4,4,$825k
+1659,"3607 14th St Nw, Washington, DC 20010","2,598 sqft",3,6,$1.50m
+1660,"301 H St Ne #401, Washington, DC 20002",792 sqft,2,2,$649k
+1661,"1327 Spring Rd Nw #1, Washington, DC 20010","1,900 sqft",3,3,$850k
+1662,"1615 Q St Nw Apt 908, Washington, DC 20009",735 sqft,1,2,$519k
+1663,"246 Nicholson St Ne, Washington, DC 20011","1,240 sqft",2,2,$459k
+1664,"5419 4th St Nw, Washington, DC 20011","1,511 sqft",2.5,3,$650k
+1665,"1300 N St Nw Apt 103, Washington, DC 20005",700 sqft,1,1,$429k
+1666,"1177 22nd St Nw Unit 8e, Washington, DC 20037","2,232 sqft",3,3,$2.57m
+1667,"1442 T St Nw, Washington, DC 20009","1,194 sqft",1,1,$1.08m
+1668,"3 Rhode Island Ave Ne, Washington, DC 20002","2,459 sqft",3,3,$849k
+1669,"5049 N Capitol St Ne, Washington, DC 20011","1,728 sqft",2,3,$595k
+1670,"1221 Hamilton St Ne, Washington, DC 20011",0.08 acres,3,3,$415k
+1671,"1404 Foxhall Rd Nw, Washington, DC 20007","2,450 sqft",4,4,$970k
+1672,"2801 Adams Mill Rd Nw Apt 104, Washington, DC 20009",410 sqft,1,1,$220k
+1673,"915 E St Nw Apt 1011, Washington, DC 20004",748 sqft,1,1,$475k
+1674,"5516 4th St Nw, Washington, DC 20011","1,798 sqft",4,3,$739k
+1675,"615 14th Pl Ne, Washington, DC 20002","1,096 sqft",2,2,$675k
+1676,"2725 Connecticut Ave Nw Apt 604, Washington, DC 20008","1,120 sqft",2,2,$569k
+1677,"1818 Burke St Se, Washington, DC 20003","1,905 sqft",3.5,4,$1.05m
+1678,"4323 River Rd Nw, Washington, DC 20016","1,964 sqft",2.5,4,$795k
+1679,"3618 Connecticut Ave Nw Apt 103, Washington, DC 20008",N/A,1,1,$270k
+1680,"603 Jefferson St Ne, Washington, DC 20011","1,796 sqft",3.5,3,$580k
+1681,"5317 5th St Nw, Washington, DC 20011","1,136 sqft",3.5,3,$715k
+1682,"5415 E Capitol St Se, Washington, DC 20019","1,422 sqft",2,4,$190k
+1683,"616 E St Nw Apt 452, Washington, DC 20004","1,214 sqft",3,2,$670k
+1684,"1232 Montello Ave Ne, Washington, DC 20002",900 sqft,1,2,$425k
+1685,"Elvans Rd Se, Washington, DC 20020","10,309 sqft",N/A,N/A,$299k
+1686,"2711 14th St Ne, Washington, DC 20018","1,223 sqft",2.5,3,$665k
+1687,"730 24th St Nw Apt 816, Washington, DC 20037",525 sqft,1,N/A,$250k
+1688,"1629 L St Ne #302, Washington, DC 20002",568 sqft,1,1,$286k
+1689,"1330 New Hampshire Ave Nw #58, Washington, DC 20036",N/A,N/A,N/A,$60k
+1690,"1461 Chapin St Nw #2, Washington, DC 20009",N/A,2,2,$849k
+1691,"1461 Chapin St Nw #3, Washington, DC 20009",N/A,2,2,$899k
+1692,"4439 7th St Ne, Washington, DC 20017","1,408 sqft",2,4,$345k
+1693,"18 9th St Ne Apt 206, Washington, DC 20002",352 sqft,1,N/A,$264k
+1694,"1440 N St Nw Apt 704, Washington, DC 20005",411 sqft,1,N/A,$230k
+1695,"4325 Halley Ter Se Apt 102, Washington, DC 20032",753 sqft,2,2,$215k
+1696,"2328 Champlain St Nw Apt 412, Washington, DC 20009","2,005 sqft",3,2,$1.20m
+1697,"1227 42nd St Se #29, Washington, DC 20020","1,678 sqft",3,3,$270k
+1698,"322 Adolf Cluss Ct Se #n, Washington, DC 20003","2,700 sqft",3.5,3,$1.75m
+1699,"7437 8th St Nw, Washington, DC 20012","1,748 sqft",2.5,3,$565k
+1700,"3241 Woodland Dr Nw, Washington, DC 20008","5,650 sqft",6,7,$3.10m
+1701,"1341 Clifton St Nw Apt 305, Washington, DC 20009",752 sqft,1,2,$400k
+1702,"1177 22nd St Nw Unit 6l, Washington, DC 20037","1,401 sqft",2,2,$1.42m
+1703,"1801 Clydesdale Pl Nw Apt 623, Washington, DC 20009",N/A,N/A,N/A,$245k
+1704,"4436 Reservoir Rd Nw, Washington, DC 20007","1,752 sqft",2,4,$859k
+1705,"2206 Foxboro Pl Nw, Washington, DC 20007","4,364 sqft",6,5,$1.60m
+1706,"2725 39th St Nw Apt 510, Washington, DC 20007",977 sqft,1,2,$429k
+1707,"4444 Connecticut Ave Nw Apt 102, Washington, DC 20008",869 sqft,1,2,$409k
+1708,"3900 Watson Pl Nw #b-1c, Washington, DC 20016","1,250 sqft",2,2,$440k
+1709,"4914 3rd St Nw, Washington, DC 20011","2,505 sqft",3.5,4,$725k
+1710,"1015 33rd St Nw Apt 402, Washington, DC 20007","1,605 sqft",2,2,$825k
+1711,"4603 Macarthur Blvd Nw Unit B, Washington, DC 20007","1,190 sqft",2.5,2,$635k
+1712,"1512 31st St Nw, Washington, DC 20007",969 sqft,3.5,4,$1.90m
+1713,"1725 New Hampshire Ave Nw Apt 503, Washington, DC 20009",352 sqft,1,N/A,$270k
+1714,"1015 33rd St Nw Apt 509, Washington, DC 20007","1,700 sqft",2,2,$1.10m
+1715,"701 56th Pl Ne, Washington, DC 20019","1,092 sqft",1,3,$80k
+1716,"2440 16th St Nw Apt 404, Washington, DC 20009",420 sqft,1,N/A,$240k
+1717,"4300 Reno Rd Nw, Washington, DC 20008","2,070 sqft",3,3,$999k
+1718,"5219 5th St Nw, Washington, DC 20011","1,425 sqft",4,3,$700k
+1719,"4711 9th St Nw, Washington, DC 20011","1,856 sqft",4,3,$750k
+1720,"460 New York Ave Nw Unit 607, Washington, DC 20001","1,142 sqft",2,3,$740k
+1721,"340 Elm St Nw, Washington, DC 20001","1,585 sqft",3,3,$750k
+1722,"4000 Cathedral Ave Nw #136/137b, Washington, DC 20016","1,500 sqft",2,2,$569k
+1723,"1405 Ridgeview Way Nw, Washington, DC 20007","4,014 sqft",5,4,$1.90m
+1724,"3700 30th Pl Ne, Washington, DC 20018","2,784 sqft",1.5,3,$446k
+1725,"3028 Wisconsin Ave Nw Apt 402, Washington, DC 20016",900 sqft,2,2,$475k
+1726,"35 U St Ne, Washington, DC 20002","2,600 sqft",4,5,$1.23m
+1727,"4301 Massachusetts Ave Nw Apt A314, Washington, DC 20016","1,243 sqft",2,2,$375k
+1728,"4041 7th St Ne Apt 3, Washington, DC 20017","1,100 sqft",2,3,$635k
+1729,"20232025 Benning Rd Ne, Washington, DC 20002",0.09 acres,1,3,$5.00m
+1730,"2023 2025 Benning Rd Ne, Washington, DC 20002",0.09 acres,1,3,$5.00m
+1731,"1315 Farragut St Nw, Washington, DC 20011","2,000 sqft",3,4,$955k
+1732,"616 E St Nw Apt 1150, Washington, DC 20004","1,740 sqft",4,3,$1.03m
+1733,"1006 Monroe St Nw, Washington, DC 20010","1,388 sqft",2,5,$683k
+1734,"2212 Bryan Pl Se, Washington, DC 20020","1,434 sqft",1,3,$410k
+1735,"3250 N St Nw #2-c, Washington, DC 20007","1,130 sqft",2.5,2,$799k
+1736,"1247 Meigs Pl Ne, Washington, DC 20002","2,931 sqft",N/A,N/A,$850k
+1737,"1150 K St Nw Apt 405, Washington, DC 20005","1,054 sqft",2,2,$652k
+1738,"1101 3rd St Sw Apt 103, Washington, DC 20024",528 sqft,1,1,$315k
+1739,"1240 Evarts St Ne, Washington, DC 20018","1,516 sqft",2.5,3,$699k
+1740,"4120 14th St Nw Apt 34, Washington, DC 20011",559 sqft,1,1,$170k
+1741,"3431 23rd St Se, Washington, DC 20020","1,684 sqft",3.5,4,$495k
+1742,"3420 16th St Nw Apt 106, Washington, DC 20010","1,139 sqft",2,2,$529k
+1743,"3754 Mckinley St Nw, Washington, DC 20015","3,156 sqft",7,10,$1.10m
+1744,"5021 8th St Nw, Washington, DC 20011",0.03 acres,2,3,$569k
+1745,"7524 Eastern Ave Nw, Washington, DC 20012","1,388 sqft",1.5,3,$547k
+1746,"2109 10th St Nw Apt 202, Washington, DC 20001","1,034 sqft",1,2,$624k
+1747,"5410 Connecticut Ave Nw Apt 707, Washington, DC 20015",829 sqft,1,1,$339k
+1748,"3033 New Mexico Ave Nw Apt 207, Washington, DC 20016",722 sqft,1,1,$270k
+1749,"3114 Wisconsin Ave Nw Apt 103, Washington, DC 20016",740 sqft,1,1,$252k
+1750,"5315 Connecticut Ave Nw Apt 410, Washington, DC 20015",379 sqft,1,N/A,$210k
+1751,"1870 Wyoming Ave Nw #402, Washington, DC 20009","2,200 sqft",2,3,$965k
+1752,"3307 Loud Pl Se, Washington, DC 20019","1,337 sqft",3,3,$375k
+1753,"1727 Massachusetts Ave Nw #203, Washington, DC 20036",358 sqft,1,N/A,$265k
+1754,"910 G St Se, Washington, DC 20003","1,268 sqft",2,2,$875k
+1755,"1223 16th St Ne, Washington, DC 20002","1,500 sqft",4,4,$615k
+1756,"3109 Naylor Rd Se Apt 302, Washington, DC 20020",848 sqft,1,2,$91k
+1757,"26 New York Ave Nw, Washington, DC 20001","1,941 sqft",1,4,$550k
+1758,"2500 Q St Nw Apt 512, Washington, DC 20007","1,014 sqft",1,1,$400k
+1759,"1 Scott Cir Nw #604, Washington, DC 20036",518 sqft,1,N/A,$275k
+1760,"800 4th St Sw Apt N425, Washington, DC 20024",517 sqft,1,N/A,$245k
+1761,"1410 C St Ne, Washington, DC 20002","1,824 sqft",2,3,$675k
+1762,"1922 Calvert St Nw, Washington, DC 20009",0.05 acres,4,6,$1.65m
+1763,"1235 16th St Ne, Washington, DC 20002","1,184 sqft",1.5,2,$435k
+1764,"2425 L St Nw Apt 217, Washington, DC 20037",729 sqft,1,1,$529k
+1765,"1615 Q St Nw Apt 313, Washington, DC 20009",485 sqft,1,1,$350k
+1766,"1438 Columbia Rd Nw Apt 206, Washington, DC 20009",524 sqft,1,1,$350k
+1767,"1601 Brentwood Rd Ne, Washington, DC 20018","2,221 sqft",2.5,3,$699k
+1768,"3244 Grace St Nw #3244, Washington, DC 20007",950 sqft,1,2,$615k
+1769,"1450 Church St Nw Apt 104, Washington, DC 20005","1,427 sqft",2,2,$935k
+1770,"3224 Cleveland Ave Nw, Washington, DC 20008","5,476 sqft",7,8,$1.95m
+1771,"1450 Church St Nw #104, Washington, DC 20005","1,427 sqft",2,2,$935k
+1772,"2900 K St Nw #607, Washington, DC 20007","5,135 sqft",5,4,$5.70m
+1773,"1433 R St Nw Apt 4, Washington, DC 20009","1,700 sqft",2,3,$1.30m
+1774,"746 Irving St Nw, Washington, DC 20010",744 sqft,N/A,N/A,$560k
+1775,"1725 17th St Nw Apt 507, Washington, DC 20009",450 sqft,1,N/A,$219k
+1776,"925 Decatur St Nw, Washington, DC 20011","1,370 sqft",3.5,4,$725k
+1777,"5405 5407 9th St Nw #108, Washington, DC 20011",630 sqft,1,1,$285k
+1778,"3901 Connecticut Ave Nw Apt 200, Washington, DC 20008","1,154 sqft",1,1,$499k
+1779,"2217 Minnesota Ave Se, Washington, DC 20020",0.09 acres,N/A,N/A,$700k
+1780,"3 Washington Cir Nw Apt 102, Washington, DC 20037",900 sqft,1,1,$445k
+1781,"3020 Gentain Ct Ne #3020, Washington, DC 20017","1,100 sqft",1.5,2,$329k
+1782,"1301 20th St Nw Apt 306, Washington, DC 20036",562 sqft,1,1,$349k
+1783,"300 M St Sw #n203, Washington, DC 20024",463 sqft,1,N/A,$245k
+1784,"6645 Georgia Ave Nw Apt 206, Washington, DC 20012",351 sqft,1,N/A,$180k
+1785,"742 50th St Ne, Washington, DC 20019",0.08 acres,N/A,N/A,$250k
+1786,"3509 17th St Nw #6, Washington, DC 20010","1,063 sqft",2,2,$580k
+1787,"2838 Hartford St Se Apt 303, Washington, DC 20020",795 sqft,1,2,$106k
+1788,"1439 Morris Rd Se, Washington, DC 20020","2,304 sqft",4,7,$411k
+1789,"3528 Highwood Dr Se, Washington, DC 20020","1,680 sqft",3.5,7,$625k
+1790,"15 15th St Se, Washington, DC 20003","1,654 sqft",N/A,4,$245k
+1791,"5144 S Dakota Ave Ne, Washington, DC 20017","1,647 sqft",2.5,3,$565k
+1792,"4740 Connecticut Ave Nw Apt 806, Washington, DC 20008","1,250 sqft",2,2,$499k
+1793,"700 New Hampshire Ave Nw #120, Washington, DC 20037","2,294 sqft",3,3,$1.10m
+1794,"1430 3rd St Nw, Washington, DC 20001","1,020 sqft",2,3,$695k
+1795,"3010 Wisconsin Ave Nw Apt 107, Washington, DC 20016",587 sqft,1,1,$295k
+1796,"136 Sheridan St Ne, Washington, DC 20011","1,756 sqft",3.5,3,$800k
+1797,"2475 Virginia Ave Nw #602-603, Washington, DC 20037","1,850 sqft",3,3,$799k
+1798,"3925 Davis Pl Nw Apt B1, Washington, DC 20007",611 sqft,1,1,$259k
+1799,"5403 Macarthur Blvd Nw, Washington, DC 20016","3,330 sqft",4,5,$1.28m
+1800,"3001 Veazey Ter Nw Apt 908, Washington, DC 20008","1,330 sqft",2,2,$495k
+1801,"1128 47th Pl Ne, Washington, DC 20019",0.06 acres,N/A,N/A,$220k
+1802,"2801 New Mexico Ave Nw Apt 910, Washington, DC 20007","1,419 sqft",1.5,1,$599k
+1803,"1649 Fort Dupont St Se, Washington, DC 20020","1,536 sqft",2,3,$260k
+1804,"2425 L St Nw Apt 320, Washington, DC 20037",850 sqft,1,1,$649k
+1805,"605 A St Se, Washington, DC 20003",0.03 acres,3,3,$950k
+1806,"629 Columbia Rd Nw, Washington, DC 20001","1,122 sqft",3.5,4,$475k
+1807,"3119 S Dakota Ave Ne, Washington, DC 20018","1,676 sqft",2,4,$499k
+1808,"216 4th St Se, Washington, DC 20003","1,632 sqft",4,4,$1.50m
+1809,"460 New York Ave Nw Unit 606, Washington, DC 20001",782 sqft,1,1,$515k
+1810,"1413 P St Nw Apt 204, Washington, DC 20005","1,443 sqft",3,2,$1.25m
+1811,"33 Kennedy St Nw Apt B2, Washington, DC 20011",473 sqft,1,N/A,$150k
+1812,"1237 Franklin St Ne, Washington, DC 20017","2,586 sqft",2.5,4,$950k
+1813,"Linnean Ave Nw, Washington, DC 20008",0.75 acres,N/A,N/A,$1.70m
+1814,"1529 A St Se, Washington, DC 20003",0.01 acres,N/A,N/A,$250k
+1815,"1935 12th St Nw Apt 1, Washington, DC 20009","1,626 sqft",2,2,$1.15m
+1816,"631 D St Nw Apt 840, Washington, DC 20004","1,160 sqft",3,2,$655k
+1817,"4041 7th St Ne Apt 1, Washington, DC 20017","1,500 sqft",4,4,$525k
+1818,"2125 S St Nw Apt 1, Washington, DC 20008","1,213 sqft",2,2,$999k
+1819,"4301 Massachusetts Ave Nw Apt 3007, Washington, DC 20016",945 sqft,1,1,$300k
+1820,"912 F St Nw Apt 706, Washington, DC 20004","1,676 sqft",3,2,$1.19m
+1821,"1025 1st St Se Apt 1007, Washington, DC 20003",678 sqft,1,N/A,$369k
+1822,"1801 16th St Nw Apt 112, Washington, DC 20009","1,932 sqft",3,3,$1.50m
+1823,"1321 Childress St Ne, Washington, DC 20002","2,148 sqft",3.5,4,$799k
+1824,"602 H St Sw, Washington, DC 20024","2,460 sqft",3.5,3,$1.05m
+1825,"4750 41st St Nw Apt 502, Washington, DC 20016","4,000 sqft",4,3,$2.70m
+1826,"1526 17th St Nw Apt 117, Washington, DC 20036",432 sqft,1,N/A,$170k
+1827,"1229 18th St Ne #201, Washington, DC 20002",778 sqft,1.5,2,$300k
+1828,"1625 Rosedale St Ne, Washington, DC 20002","1,000 sqft",1,2,$505k
+1829,"1914 8th St Nw, Washington, DC 20001","1,902 sqft",N/A,N/A,$1.58m
+1830,"1819 1/2 Channing St Ne, Washington, DC 20018",436 sqft,1,1,$140k
+1831,"2509 Foxhall Rd Nw, Washington, DC 20007","7,239 sqft",9,7,$16.00m
+1832,"2318 Nicholson St Se, Washington, DC 20020",0.21 acres,N/A,N/A,$2.65m
+1833,"4063 Grant St Ne Apt 1, Washington, DC 20019",600 sqft,2,4,$360k
+1834,"2900 Rhode Island Ave Ne, Washington, DC 20018","6,135 sqft",8,20,$1.06m
+1835,"1830 Jefferson Pl Nw Apt 1, Washington, DC 20036","1,220 sqft",2,2,$719k
+1836,"3806 18th St Ne, Washington, DC 20018","1,320 sqft",2,3,$600k
+1837,"3207 Adams Mill Rd Nw, Washington, DC 20010","2,718 sqft",4,5,$1.30m
+1838,"113 5th St Ne, Washington, DC 20002","2,206 sqft",N/A,N/A,$1.46m
+1839,"48344836 Sheriff Rd Ne, Washington, DC 20019","2,127 sqft",3,5,$399k
+1840,"1320 13th St Nw Apt 33, Washington, DC 20005",720 sqft,2,1,$529k
+1841,"2311 M St Nw Apt 802, Washington, DC 20037",794 sqft,1,1,$425k
+1842,"2143 Suitland Ter Se Apt 201, Washington, DC 20020","5,672 sqft",1,2,$109k
+1843,"1979 Biltmore St Nw, Washington, DC 20009","4,234 sqft",5,6,$1.28m
+1844,"1538 Monroe St Nw Apt 3, Washington, DC 20010","1,100 sqft",1,2,$345k
+1845,"1837 16th St Nw, Washington, DC 20009","3,250 sqft",3.5,5,$1.50m
+1846,"2815 Woodland Dr Nw, Washington, DC 20008","10,897 sqft",7,4,$9.50m
+1847,"2725 39th St Nw Apt 114, Washington, DC 20007",976 sqft,1,2,$385k
+1848,"3010 Wisconsin Ave Nw Apt B10, Washington, DC 20016","1,049 sqft",2,2,$459k
+1849,"4750 41st St Nw #th-4, Washington, DC 20016","2,334 sqft",2.5,3,$1.40m
+1850,"2660 Connecticut Ave Nw #6f, Washington, DC 20008","3,292 sqft",3.5,3,$3.70m
+1851,"4201 Cathedral Ave Nw Apt 512e, Washington, DC 20016",643 sqft,1,1,$223k
+1852,"2710 Macomb St Nw Apt 207, Washington, DC 20008",400 sqft,1,N/A,$215k
+1853,"2425 L St Nw Apt 504, Washington, DC 20037","1,478 sqft",2,2,$1.40m
+1854,"3900 Watson Pl Nw #g1c-b, Washington, DC 20016","1,250 sqft",2,2,$400k
+1855,"517 Q St Nw #2, Washington, DC 20001","1,880 sqft",3,3,$1.15m
+1856,"517 Q St Nw #1, Washington, DC 20001","1,600 sqft",3,2,$900k
+1857,"2328 Champlain St Nw Apt 202, Washington, DC 20009",584 sqft,1,1,$399k
+1858,"1436 W St Nw Apt 204, Washington, DC 20009",600 sqft,1,1,$150k
+1859,"2754 Unicorn Ln Nw, Washington, DC 20015","2,834 sqft",3,3,$899k
+1860,"1330 New Hampshire Ave Nw Apt 201, Washington, DC 20036",735 sqft,1,1,$459k
+1861,"800 4th St Sw Apt N423, Washington, DC 20024",447 sqft,1,N/A,$240k
+1862,"713 Brandywine St Se Apt 301, Washington, DC 20032",700 sqft,1,2,$95k
+1863,"2600 Branch Ave Se, Washington, DC 20020","1,967 sqft",4,5,$579k
+1864,"2905 P St Nw, Washington, DC 20007","2,001 sqft",2.5,5,$1.60m
+1865,"1245 4th St Sw Apt E803, Washington, DC 20024",836 sqft,1,1,$390k
+1866,"4201 Cathedral Ave Nw Apt 301w, Washington, DC 20016","1,717 sqft",2,2,$530k
+1867,"517 6th St Ne, Washington, DC 20002",0.04 acres,2,3,$899k
+1868,"50th And Jay St Ne, Washington, DC 20019",0.11 acres,N/A,N/A,$125k
+1869,"3008 16th St Ne, Washington, DC 20018",0.15 acres,3,5,$740k
+1870,"1701 16th St Nw Apt 340, Washington, DC 20009",518 sqft,1,1,$339k
+1871,"1363 Childress St Ne Apt 2, Washington, DC 20002",800 sqft,2,2,$339k
+1872,"18 Girard St Ne, Washington, DC 20002",0.03 acres,3,3,$529k
+1873,"1213 Emerson St Nw, Washington, DC 20011","2,258 sqft",4,4,$702k
+1874,"2801 New Mexico Ave Nw Apt 1118, Washington, DC 20007","1,348 sqft",2,2,$750k
+1875,"2105 Suitland Ter Se Unit B, Washington, DC 20020","1,225 sqft",1,2,$115k
+1876,"1526 17th St Nw Apt 108, Washington, DC 20036",250 sqft,1,N/A,$120k
+1877,"1414 29th St Nw, Washington, DC 20007","3,000 sqft",5,5,$2.00m
+1878,"3618 Connecticut Ave Nw Apt 303, Washington, DC 20008",N/A,N/A,N/A,$279k
+1879,"1212 Jefferson St Nw, Washington, DC 20011","2,160 sqft",4,3,$700k
+1880,"1403 Ridgeview Way Nw, Washington, DC 20007","3,700 sqft",5,3,$1.93m
+1881,"3915 7th St Ne, Washington, DC 20017","2,800 sqft",N/A,N/A,$750k
+1882,"4301 Massachusetts Ave Nw Apt 8006, Washington, DC 20016",913 sqft,1,1,$320k
+1883,"150 12th St Se, Washington, DC 20003","1,712 sqft",3,3,$1.14m
+1884,"7070 Oregon Ave Nw, Washington, DC 20015","6,400 sqft",5.5,6,$1.98m
+1885,"1721 Trinidad Ave Ne Apt 2, Washington, DC 20002",800 sqft,2,2,$349k
+1886,"4800 8th St Nw, Washington, DC 20011","1,736 sqft",2.5,4,$610k
+1887,"4444 Connecticut Ave Nw Apt 205, Washington, DC 20008",969 sqft,2,2,$450k
+1888,"1464 Harvard St Nw Apt 5, Washington, DC 20009",602 sqft,1,1,$505k
+1889,"169 V St Ne, Washington, DC 20002","1,080 sqft",1,3,$650k
+1890,"2605 Adams Mill Rd Nw Apt 31, Washington, DC 20009","1,450 sqft",1,2,$650k
+1891,"1811 Wyoming Ave Nw Apt 23, Washington, DC 20009","1,312 sqft",2,2,$745k
+1892,"2116 Kearny St Ne, Washington, DC 20018","1,460 sqft",2,3,$750k
+1893,"400 Massachusetts Ave Nw Apt 1222, Washington, DC 20001",988 sqft,1,1,$560k
+1894,"1245 13th St Nw Apt 215, Washington, DC 20005",700 sqft,1,1,$375k
+1895,"2660 Connecticut Ave Nw Unit 6d, Washington, DC 20008","3,123 sqft",3.5,3,$3.60m
+1896,"1343 I St Ne, Washington, DC 20002","1,547 sqft",3,4,$575k
+1897,"2125 Suitland Ter Se Apt 302, Washington, DC 20020",636 sqft,1,2,$127k
+1898,"1357 Montague St Nw, Washington, DC 20011","1,901 sqft",1.5,3,$710k
+1899,"1817 8th St Nw, Washington, DC 20001","1,462 sqft",1,3,$750k
+1900,"3263 N St Nw, Washington, DC 20007","5,937 sqft",5.5,6,$5.85m
+1901,"1306 Rhode Island Ave Nw Apt 1, Washington, DC 20005","1,334 sqft",2,2,$669k
+1902,"3060 16th St Nw Apt 511, Washington, DC 20009",700 sqft,1,1,$375k
+1903,"1300 Massachusetts Ave Nw Apt 203, Washington, DC 20005",650 sqft,1,1,$375k
+1904,"1414 22nd St Nw Apt 34, Washington, DC 20037","1,416 sqft",2.5,2,$1.40m
+1905,"1114 Monroe St Nw #2, Washington, DC 20010","1,620 sqft",3,2,$949k
+1906,"1114 Monroe St Nw #1, Washington, DC 20010","1,620 sqft",3,3,$869k
+1907,"4620 4th St Nw, Washington, DC 20011","1,887 sqft",3.5,3,$689k
+1908,"2651 Birney Pl Se Apt 202, Washington, DC 20020",N/A,2,3,$245k
+1909,"1330 New Hampshire Ave Nw Apt 318, Washington, DC 20036",760 sqft,1,1,$414k
+1910,"2835 Wisconsin Ave Nw, Washington, DC 20007","4,795 sqft",7,5,$2.20m
+1911,"2301 Champlain St Nw Apt 304, Washington, DC 20009",897 sqft,2,2,$699k
+1912,"2020 12th St Nw Penthouse 818, Washington, DC 20009","1,718 sqft",2,2,$1.04m
+1913,"3301 N St Nw, Washington, DC 20007","8,000 sqft",6,7,$7.99m
+1914,"2127 California St Nw Apt 605, Washington, DC 20008","1,400 sqft",2,2,$1.13m
+1915,"460 New York Ave Nw Unit 605, Washington, DC 20001",622 sqft,1,1,$449k
+1916,"1000 New Jersey Ave Se Ph 10, Washington, DC 20003",975 sqft,2,2,$570k
+1917,"506 49th Pl Ne, Washington, DC 20019","3,080 sqft",4,2,$500k
+1918,"1347 Franklin St Ne, Washington, DC 20017","2,450 sqft",3.5,4,$1m
+1919,"3109 Monroe St Ne, Washington, DC 20018","1,650 sqft",3,4,$800k
+1920,"2440 16th St Nw Apt 301, Washington, DC 20009",911 sqft,2,2,$500k
+1921,"3900 Watson Pl Nw Bldg A, Washington, DC 20016","2,200 sqft",3,3,$1.10m
+1922,"2828 Wisconsin Ave Nw Apt 500, Washington, DC 20007","1,500 sqft",2.5,3,$929k
+1923,"628 50th St Ne, Washington, DC 20019","1,509 sqft",2.5,3,$370k
+1924,"3401 22nd St Ne, Washington, DC 20018","1,935 sqft",4.5,3,$600k
+1925,"1300 13th St Nw Apt 105, Washington, DC 20005","1,047 sqft",2,1,$699k
+1926,"4123 22nd St Ne, Washington, DC 20018","1,971 sqft",3.5,4,$725k
+1927,"300 Oklahoma Ave Ne Apt 101, Washington, DC 20002",512 sqft,1,1,$239k
+1928,"1343 Constitution Ave Ne, Washington, DC 20002","1,266 sqft",2,3,$760k
+1929,"1808 Kalorama Sq Nw #19, Washington, DC 20008","3,566 sqft",5.5,4,$2.80m
+1930,"3900 Cathedral Ave Nw Apt 804a, Washington, DC 20016","1,625 sqft",2,2,$849k
+1931,"1922 1st St Nw Apt A, Washington, DC 20001","2,093 sqft",3,3,$549k
+1932,"53 53rd Pl Se, Washington, DC 20019",996 sqft,N/A,2,$113k
+1933,"4139 Alabama Ave Se, Washington, DC 20019","2,324 sqft",3,4,$400k
+1934,"310 3rd St Se, Washington, DC 20003","1,200 sqft",2,4,$1.35m
+1935,"2425 L St Nw Apt 730, Washington, DC 20037","1,405 sqft",2,2,$1.29m
+1936,"1527 Farragut St Nw, Washington, DC 20011","5,200 sqft",3.5,5,$1.40m
+1937,"3900 Cathedral Ave Nw Apt 604a, Washington, DC 20016","1,600 sqft",2,2,$674k
+1938,"1606 Fort Pl Ne, Washington, DC 20018",0.08 acres,N/A,N/A,$210k
+1939,"2210 Bryan Pl Se, Washington, DC 20020","2,048 sqft",2,2,$379k
+1940,"1324 Vermont Ave Nw, Washington, DC 20005","4,439 sqft",7,8,$3.20m
+1941,"5221 5th St Nw, Washington, DC 20011","2,050 sqft",3.5,2,$650k
+1942,"809 6th St Nw Apt 55, Washington, DC 20001",906 sqft,2,2,$550k
+1943,"1025 1st St Se Apt 613, Washington, DC 20003","1,492 sqft",2,2,$900k
+1944,"322 E Capitol St Ne, Washington, DC 20003","4,352 sqft",4,5,$2.15m
+1945,"5270 Loughboro Rd Nw, Washington, DC 20016","3,860 sqft",4,5,$1.80m
+1946,"1225 13th St Nw Apt 407, Washington, DC 20005",643 sqft,1,1,$400k
+1947,"1330 New Hampshire Ave Nw Apt 425, Washington, DC 20036",765 sqft,1,1,$439k
+1948,"1121 Penn St Ne, Washington, DC 20002",0.03 acres,N/A,N/A,$800k
+1949,"1427 W Virginia Ave Ne, Washington, DC 20002","1,400 sqft",2.5,3,$549k
+1950,"106 56th Pl Se, Washington, DC 20019","1,360 sqft",2.5,3,$359k
+1951,"2022 N St Nw, Washington, DC 20036","2,824 sqft",4,4,$1.95m
+1952,"825 Fern Pl Nw, Washington, DC 20012","1,025 sqft",3,4,$630k
+1953,"1232 Hamlin St Ne, Washington, DC 20017","1,330 sqft",2.5,3,$1.15m
+1954,"1620 15th St Nw, Washington, DC 20009","4,140 sqft",7,5,$4.00m
+1955,"3330 Dent Pl Nw, Washington, DC 20007","2,440 sqft",3.5,2,$1.80m
+1956,"5406 Connecticut Ave Nw Apt 206, Washington, DC 20015",850 sqft,1,1,$259k
+1957,"1720 Newton St Ne, Washington, DC 20018","1,520 sqft",3.5,3,$649k
+1958,"2425 L St Nw Apt 520, Washington, DC 20037",810 sqft,1,2,$625k
+1959,"1312 Massachusetts Ave Nw Apt 106, Washington, DC 20005",688 sqft,1,1,$410k
+1960,"2435 Tracy Pl Nw, Washington, DC 20008","6,330 sqft",8,6,$5.00m
+1961,"1363 Childress St Ne Apt 3, Washington, DC 20002",800 sqft,2,2,$365k
+1962,"4200 Massachusetts Ave Nw Apt 414, Washington, DC 20016","2,734 sqft",3,2,$1.60m
+1963,"2322 N Capitol St Nw, Washington, DC 20002","4,064 sqft",2,4,$800k
+1964,"1424 L St Se Apt 301, Washington, DC 20003","1,600 sqft",2.5,2,$650k
+1965,"1720 Hobart St Nw, Washington, DC 20009","2,606 sqft",4,4,$1.40m
+1966,"418 Seward Sq Se, Washington, DC 20003","3,576 sqft",8,8,$2.65m
+1967,"2725 Ontario Rd Nw, Washington, DC 20009","2,942 sqft",4,3,$1.60m
+1968,"5009 Hawthorne Pl Nw, Washington, DC 20016","2,654 sqft",3.5,4,$1.47m
+1969,"1382 Morris Rd Se, Washington, DC 20020","1,156 sqft",N/A,2,$190k
+1970,"3101 New Mexico Ave Nw Apt 857, Washington, DC 20016",915 sqft,1,1,$379k
+1971,"1077 30th St Nw #310, Washington, DC 20007","1,309 sqft",2,2,$745k
+1972,"1711 Massachusetts Ave Nw #218, Washington, DC 20036",500 sqft,1,N/A,$285k
+1973,"1304 Adams St Ne Apt 2, Washington, DC 20018",765 sqft,1,2,$290k
+1974,"218 Maryland Ave Ne, Washington, DC 20002","4,161 sqft",5,5,$2.50m
+1975,"83 New York Ave Nw #b, Washington, DC 20001","1,010 sqft",2,2,$470k
+1976,"4501 Dix St Ne, Washington, DC 20019",N/A,N/A,N/A,$7k
+1977,"1310 Q St Nw #6, Washington, DC 20009","2,599 sqft",4,3,$3.00m
+1978,"1725 1727 Capitol Ave Ne, Washington, DC 20002",0.12 acres,N/A,N/A,$1.39m
+1979,"465 Luray Pl Nw, Washington, DC 20010","1,920 sqft",4,4,$879k
+1980,"530 N St Sw Apt S410, Washington, DC 20024",564 sqft,1,1,$275k
+1981,"1026 16th St Nw #502/503, Washington, DC 20036","1,700 sqft",2,2,$1.10m
+1982,"4727 Sheriff Rd Ne, Washington, DC 20019",572 sqft,2,3,$268k
+1983,"2921 26th St Ne, Washington, DC 20018","5,295 sqft",7,6,$949k
+1984,"2020 12th St Nw Apt 116, Washington, DC 20009","1,076 sqft",2,2,$749k
+1985,"4201 Cathedral Ave Nw Apt 215e, Washington, DC 20016","1,860 sqft",2,3,$639k
+1986,"244 10th St Ne, Washington, DC 20002",650 sqft,2,2,$595k
+1987,"3006 13th St Nw Apt A, Washington, DC 20009","1,683 sqft",3,3,$699k
+1988,"209 Peabody St Nw, Washington, DC 20011","2,280 sqft",3,4,$800k
+1989,"1628 11th St Nw Unit 101, Washington, DC 20001","1,712 sqft",2.5,2,$1.10m
+1990,"111 Quincy Pl Ne #3, Washington, DC 20002","3,700 sqft",3,2,$1.05m
+1991,"4000 Cathedral Ave Nw Apt 115b, Washington, DC 20016",920 sqft,1,1,$260k
+1992,"4320 Westover Pl Nw, Washington, DC 20016","2,028 sqft",4,3,$1.10m
+1993,"1860 California St Nw Apt 101, Washington, DC 20009",650 sqft,1,1,$299k
+1994,"4348 Westover Pl Nw, Washington, DC 20016","2,066 sqft",3.5,3,$1.04m
+1995,"3051 Albemarle St Nw, Washington, DC 20008","3,914 sqft",5,5,$2.00m
+1996,"1440 N St Nw Apt 815, Washington, DC 20005",490 sqft,1,1,$265k
+1997,"4124 Jenifer St Nw, Washington, DC 20015","3,603 sqft",4.5,5,$1.80m
+1998,"1124 25th St Nw Apt T5, Washington, DC 20037",736 sqft,1,2,$520k
+1999,"4512 Edson Pl Ne, Washington, DC 20019","1,111 sqft",1,2,$310k
+2000,"1619 Gainesville St Se Apt 301, Washington, DC 20020","1,673 sqft",2.5,3,$310k
+2001,"5410 Connecticut Ave Nw Apt 904, Washington, DC 20015",792 sqft,1,1,$299k
+2002,"1177 22nd St Nw #3f, Washington, DC 20037","1,206 sqft",2,2,$1.30m
+2003,"1601 18th St Nw Apt 506, Washington, DC 20009",651 sqft,1,1,$355k
+2004,"3258 O St Nw, Washington, DC 20007","3,845 sqft",3.5,4,$2.70m
+2005,"V Street Se, Washington, DC 20020",0.14 acres,N/A,N/A,$575k
+2006,"3237 N St Nw Apt 14, Washington, DC 20007",425 sqft,1,1,$365k
+2007,"2939 Van Ness St Nw Apt 322, Washington, DC 20008",790 sqft,1,1,$315k
+2008,"3701 Connecticut Ave Nw Apt 218, Washington, DC 20008",922 sqft,1,1,$268k
+2009,"3701 Connecticut Ave Nw Apt 618, Washington, DC 20008",940 sqft,1,1,$399k
+2010,"55th Street Ne, Washington, DC 20019",0.05 acres,N/A,N/A,$85k
+2011,"1390 Kenyon St Nw Apt 725, Washington, DC 20010","1,111 sqft",2,2,$539k
+2012,"1325 21st St Nw, Washington, DC 20036","2,736 sqft",3.5,6,$3.00m
+2013,"3641 Fulton St Nw, Washington, DC 20007","2,466 sqft",3.5,6,$1.30m
+2014,"4200 Massachusetts Ave Nw Apt 912, Washington, DC 20016","1,666 sqft",2,2,$730k
+2015,"1816 New Hampshire Ave Nw Apt 302, Washington, DC 20009",336 sqft,1,N/A,$275k
+2016,"1117 Morse St Ne, Washington, DC 20002","1,520 sqft",2,4,$700k
+2017,"Pine St Ne, Washington, DC 20019",0.05 acres,N/A,N/A,$70k
+2018,"34 Elmira St Sw, Washington, DC 20032","1,536 sqft",1,3,$265k
+2019,"5133 7th St Nw, Washington, DC 20011",832 sqft,2,3,$530k
+2020,"5135 7th St Nw, Washington, DC 20011","1,176 sqft",2,3,$570k
+2021,"4880 Glenbrook Rd Nw, Washington, DC 20016","6,083 sqft",7.5,6,$6.95m
+2022,"1234 Rhode Island Ave Ne, Washington, DC 20018","1,088 sqft",2.5,3,$590k
+2023,"2519 Massachusetts Ave Nw, Washington, DC 20008","2,547 sqft",3.5,3,$2.00m
+2024,"2723 Unicorn Ln Nw, Washington, DC 20015","4,124 sqft",5,5,$1.02m
+2025,"3232 O St Nw, Washington, DC 20007","2,859 sqft",4,4,$2.44m
+2026,"1257 35th St Nw, Washington, DC 20007",848 sqft,1,1,$799k
+2027,"2400 41st St Nw Apt 115, Washington, DC 20007",707 sqft,1,1,$235k
+2028,"906 Crittenden St Nw, Washington, DC 20011","1,680 sqft",4,4,$869k
+2029,"3005 O St Nw, Washington, DC 20007",0.06 acres,4,4,$3.00m
+2030,"690 Oglethorpe St Ne, Washington, DC 20011","1,272 sqft",3,4,$530k
+2031,"1725 Lanier Pl Nw Apt 3a, Washington, DC 20009",703 sqft,1,2,$435k
+2032,"1657 31st St Nw #206/208, Washington, DC 20007","1,400 sqft",2,2,$799k
+2033,"1080 Wisconsin Ave Nw Apt 1004, Washington, DC 20007",900 sqft,2,1,$450k
+2034,"920 I St Nw Apt 1006, Washington, DC 20001",772 sqft,1,1,$700k
+2035,"909 Quincy St Nw Apt 2, Washington, DC 20011","1,230 sqft",2.5,2,$669k
+2036,"909 Quincy St Nw Apt 1, Washington, DC 20011","1,230 sqft",2.5,2,$669k
+2037,"4301 Military Rd Nw Penthouse 8, Washington, DC 20015","2,833 sqft",4,4,$2.00m
+2038,"2634 Woodley Pl Nw, Washington, DC 20008","3,150 sqft",N/A,N/A,$2.00m
+2039,"2835 Gainesville St Se Apt 301, Washington, DC 20020",794 sqft,1,2,$150k
+2040,"2501 Pennsylvania Ave Nw Apt Ph2b, Washington, DC 20037","4,500 sqft",3.5,3,$5.75m
+2041,"675 E St Nw Apt 440, Washington, DC 20004",650 sqft,1,1,$409k
+2042,"3513 20th St Ne, Washington, DC 20018","1,120 sqft",4,4,$840k
+2043,"555 Massachusetts Ave Nw Apt 913, Washington, DC 20001",904 sqft,2,2,$599k
+2044,"1920 12th St Nw Apt 2, Washington, DC 20009","2,112 sqft",3,2,$1.40m
+2045,"2604 31st St Nw, Washington, DC 20008","3,759 sqft",5,4,$3.85m
+2046,"1408 35th St Nw, Washington, DC 20007","3,687 sqft",6.5,5,$3.20m
+2047,"3241 N St Nw Apt 3, Washington, DC 20007","1,053 sqft",2.5,2,$829k
+2048,"1228 46th St Se, Washington, DC 20019",0.08 acres,2,3,$350k
+2049,"2804 Sherman Ave Nw #a, Washington, DC 20001","1,304 sqft",2.5,2,$750k
+2050,"2804 Sherman Ave Nw #b, Washington, DC 20001","1,580 sqft",2.5,2,$875k
+2051,"1099 22nd St Nw Apt 410, Washington, DC 20037","2,169 sqft",3,3,$1.28m
+2052,"1505 Howard Rd Se, Washington, DC 20020","1,216 sqft",3.5,2,$275k
+2053,"4817 Iowa Ave Nw, Washington, DC 20011","3,268 sqft",7,6,$1.30m
+2054,"1225 Fairmont St Nw Apt 202, Washington, DC 20009",605 sqft,1,2,$301k
+2055,"1401 6th St Nw, Washington, DC 20001",0.02 acres,2.5,3,$1.50m
+2056,"1240 Simms Pl Ne, Washington, DC 20002","1,120 sqft",N/A,N/A,$399k
+2057,"708 Burns St Se, Washington, DC 20019",832 sqft,2,2,$268k
+2058,"3110 Chain Bridge Rd Nw, Washington, DC 20016","7,600 sqft",6,5,$4.00m
+2059,"925 H St Nw Apt 908, Washington, DC 20001","1,423 sqft",2.5,2,$1.50m
+2060,"130 E St Se, Washington, DC 20003","1,850 sqft",3,3,$1.10m
+2061,"4712 Windom Pl Nw, Washington, DC 20016","1,896 sqft",3,4,$1.20m
+2062,"2900 K St Nw Apt 601, Washington, DC 20007","6,000 sqft",6,4,$8.95m
+2063,"5150 Klingle St Nw, Washington, DC 20016",0.19 acres,6,7,$3.00m
+2064,"910 Savannah St Se, Washington, DC 20032","1,554 sqft",1.5,3,$650k
+2065,"5836 Macarthur Blvd Nw, Washington, DC 20016","5,780 sqft",6,5,$2.00m
+2066,"5524 Macarthur Blvd Nw, Washington, DC 20016","4,928 sqft",4.5,5,$1.65m
+2067,"2500 Q St Nw Apt 539, Washington, DC 20007",679 sqft,1,1,$329k
+2068,"3901 Cathedral Ave Nw #501, Washington, DC 20016",638 sqft,1,1,$250k
+2069,"415 Randolph St Nw #1, Washington, DC 20011","1,546 sqft",3,3,$645k
+2070,"3569 Warder St Nw, Washington, DC 20010",0.1 acres,3,4,$1.10m
+2071,"4228 Reno Rd Nw, Washington, DC 20008","1,874 sqft",3,4,$870k
+2072,"Nash Pl Se, Washington, DC 20020","2,655 sqft",N/A,3,$70k
+2073,"1837 16th St Nw #1-4, Washington, DC 20009","3,045 sqft",4,4,$1.50m
+2074,"2516 Q St Nw Apt Q302, Washington, DC 20007","1,650 sqft",2,2,$1.50m
+2075,"2660 Connecticut Ave Nw Unit 6c, Washington, DC 20008","3,123 sqft",4,3,$4.00m
+2076,"2612 22nd St Ne, Washington, DC 20018","1,128 sqft",2,3,$499k
+2077,"317 W St Ne #2, Washington, DC 20002","1,463 sqft",2,2,$650k
+2078,"2660 Connecticut Ave Nw #7c, Washington, DC 20008","4,648 sqft",4,3,$6.50m
+2079,"2500 Q St Nw Apt 504, Washington, DC 20007",837 sqft,1,1,$425k
+2080,"1316 R St Nw, Washington, DC 20009",0.01 acres,N/A,N/A,$3.50m
+2081,"2402 Wyoming Ave Nw, Washington, DC 20008","5,130 sqft",4,3,$3.40m
+2082,"1309 P St Nw Apt 1, Washington, DC 20005","1,400 sqft",2,1,$699k
+2083,"1628 11th St Nw Unit 107, Washington, DC 20001","1,704 sqft",2.5,2,$1.29m
+2084,"5615 1st Pl Nw, Washington, DC 20011","3,200 sqft",N/A,N/A,$1.48m
+2085,"61st Street Ne, Washington, DC 20019",0.07 acres,N/A,N/A,$199k
+2086,"2715 31st Pl Nw, Washington, DC 20008","4,040 sqft",6,5,$2.70m
+2087,"705 Randolph St Nw, Washington, DC 20011","3,047 sqft",4,7,$1.45m
+2088,"83 New York Ave Nw #a, Washington, DC 20001","2,840 sqft",2,2,$515k
+2089,"1657 Montello Ave Ne, Washington, DC 20002",0.04 acres,N/A,N/A,$475k
+2090,"1115 M St Nw, Washington, DC 20005","1,100 sqft",2,1,$2.45m
+2091,"29th St Nw, Washington, DC 20015",0.18 acres,N/A,1,$499k
+2092,"3303 Water St Nw Unit 8c, Washington, DC 20007","2,226 sqft",2,2,$3.49m
+2093,"1821 23rd St Nw, Washington, DC 20008","4,950 sqft",6,5,$2.85m
+2094,"2501 M St Nw Apt 713, Washington, DC 20037","1,446 sqft",3,2,$1.38m
+2095,"2660 Connecticut Ave Nw Unit 7c, Washington, DC 20008","4,648 sqft",3.5,3,$6.50m
+2096,"1015 33rd St Nw Apt 608, Washington, DC 20007","1,726 sqft",2.5,2,$949k
+2097,"4130 4th St Se Apt 3, Washington, DC 20032",722 sqft,1,2,$120k
+2098,"5155 Rockwood Pkwy Nw, Washington, DC 20016","4,700 sqft",6,5,$2.20m
+2099,"5213 Dix St Ne, Washington, DC 20019",0.07 acres,N/A,N/A,$130k
+2100,"2115 Suitland Ter Se Apt 202, Washington, DC 20020",637 sqft,1,2,$90k
+2101,"5300 Macarthur Blvd Nw, Washington, DC 20016","3,555 sqft",4,3,$1.20m
+2102,"1117 10th St Nw Apt 1103, Washington, DC 20001","1,570 sqft",2.5,2,$1.15m
+2103,"3883 Connecticut Ave Nw Apt 107, Washington, DC 20008",659 sqft,1,1,$415k
+2104,"1429 Girard St Nw Apt 305, Washington, DC 20009","1,200 sqft",2,3,$375k
+2105,"3104 S Dakota Ave Ne, Washington, DC 20018","5,249 sqft",N/A,N/A,$725k
+2106,"86 Kalorama Cir Nw, Washington, DC 20008","6,185 sqft",9,7,$5.90m
+2107,"210 Bates St Nw, Washington, DC 20001","2,118 sqft",2,3,$700k
+2108,"1300 W St Nw, Washington, DC 20009",0.02 acres,N/A,N/A,$1.40m
+2109,"258 57th Pl Ne, Washington, DC 20019",0.03 acres,N/A,N/A,$250k
+2110,"2604 Stanton Rd Se, Washington, DC 20020",0.3 acres,N/A,N/A,$900k
+2111,"3613 10th St Nw, Washington, DC 20010","1,156 sqft",1,3,$900k
+2112,"1239 30th St Nw, Washington, DC 20007","1,680 sqft",2,2,$1.17m
+2113,"1015 33rd St Nw Apt 703, Washington, DC 20007","1,527 sqft",3,2,$835k
+2114,"4400 Garfield St Nw, Washington, DC 20007","12,000 sqft",10,8,$10.00m
+2115,"2227 20th St Nw Apt 204, Washington, DC 20009",455 sqft,1,N/A,$270k
+2116,"2701 32nd St Nw, Washington, DC 20008","4,743 sqft",6,5,$11.20m
+2117,"2720 Dumbarton St Nw, Washington, DC 20007","5,155 sqft",6.5,6,$5.50m
+2118,"4200 Cathedral Ave Nw Apt 910, Washington, DC 20016",938 sqft,1,2,$400k
+2119,"4526 Foxhall Cres Nw, Washington, DC 20007","3,180 sqft",3.5,4,$1.60m
+2120,"2801 New Mexico Ave Nw Apt 808, Washington, DC 20007","1,554 sqft",3,2,$899k
+2121,"2323 Tracy Pl Nw, Washington, DC 20008","4,492 sqft",4,6,$3.00m
+2122,"1421 Columbia Rd Nw Apt 303, Washington, DC 20009",800 sqft,1,2,$429k
+2123,"1512 Marion St Nw Apt 102, Washington, DC 20001",378 sqft,1,1,$290k
+2124,"434 20th St Ne, Washington, DC 20002",800 sqft,1.5,2,$480k
+2125,"430 Upshur St Nw, Washington, DC 20011","1,200 sqft",2,3,$710k
+2126,"529 Lamont St Nw Apt 303, Washington, DC 20010",800 sqft,1,2,$430k
+2127,"1920 17th St Se, Washington, DC 20020",522 sqft,N/A,N/A,$800k
+2128,"901 D St Ne Apt 4, Washington, DC 20002",705 sqft,1,1,$490k
+2129,"3301 17th St Ne, Washington, DC 20018","1,810 sqft",3,3,$660k
+2130,"4656 Broad Branch Rd Nw, Washington, DC 20008",0.28 acres,N/A,N/A,$799k
+2131,"4654 Broad Branch Rd Nw, Washington, DC 20008",0.22 acres,N/A,N/A,$799k
+2132,"4652 Broad Branch Rd Nw, Washington, DC 20008",0.24 acres,N/A,N/A,$799k
+2133,"2801 Connecticut Ave Nw Apt 17, Washington, DC 20008",988 sqft,1,2,$575k
+2134,"919 45th Pl Ne, Washington, DC 20019",0.09 acres,3,3,$350k
+2135,"Bruce Pl Se, Washington, DC 20020",0.83 acres,N/A,N/A,$1.00m
+2136,"4607 16th St Nw, Washington, DC 20011","2,132 sqft",3.5,5,$1.03m
+2137,"2411 3rd St Ne, Washington, DC 20002",905 sqft,2.5,2,$575k
+2138,"3251 Prospect St Nw Apt 301, Washington, DC 20007","1,500 sqft",2,2,$1.50m
+2139,"4714 9th St Nw, Washington, DC 20011","1,364 sqft",1,3,$580k
+2140,"1099 22nd St Nw Apt 811, Washington, DC 20037","1,584 sqft",2.5,2,$795k
+2141,"64 Adams St Nw, Washington, DC 20001","1,560 sqft",1.5,3,$490k
+2142,"700 New Hampshire Ave Nw #515, Washington, DC 20037",932 sqft,1,1,$475k
+2143,"1841 5th St Nw, Washington, DC 20001","1,978 sqft",2,4,$435k
+2144,"3141 24th St Ne, Washington, DC 20018","1,942 sqft",4,4,$499k
+2145,"3634 Camden St Se, Washington, DC 20020","1,564 sqft",1.5,3,$550k
+2146,"3 Washington Cir Nw Apt 1004, Washington, DC 20037","1,050 sqft",2,1,$445k
+2147,"2730 Chain Bridge Rd Nw, Washington, DC 20016","6,112 sqft",6,5,$3.40m
+2148,"1615 Fairlawn Ave Se, Washington, DC 20020","1,024 sqft",2,4,$470k
+2149,"529 23rd Pl Ne, Washington, DC 20002",960 sqft,1,2,$775k
+2150,"2024 16th St Nw, Washington, DC 20009","1,091 sqft",N/A,1,$40k
+2151,"113 U St Ne, Washington, DC 20002","1,080 sqft",N/A,N/A,$900k
+2152,"2501 M St Nw Apt 608, Washington, DC 20037","1,075 sqft",1.5,1,$865k
+2153,"1673 Wisconsin Ave Nw, Washington, DC 20007","2,424 sqft",3,3,$1.55m
+2154,"560 N St Sw Apt N411, Washington, DC 20024",835 sqft,1,1,$350k
+2155,"2720 Wisconsin Ave Nw Apt 107, Washington, DC 20007",450 sqft,1,N/A,$180k
+2156,"4020 6th St Se, Washington, DC 20032",0.13 acres,N/A,N/A,$775k
+2157,"1657 31st St Nw Apt 310, Washington, DC 20007",600 sqft,1,1,$350k
+2158,"1375 Maryland Ave Ne Apt H, Washington, DC 20002","9,500 sqft",4.5,5,$2.50m
+2159,"2800 Sherman Ave Nw #b, Washington, DC 20001","1,717 sqft",2.5,2,$925k
+2160,"2800 Sherman Ave Nw #a, Washington, DC 20001","1,445 sqft",3,2,$770k
+2161,"1011 Girard St Nw #b, Washington, DC 20001","1,494 sqft",2.5,2,$835k
+2162,"1011 Girard St Nw #a, Washington, DC 20001","1,225 sqft",3,2,$735k
+2163,"3883 Connecticut Ave Nw #p-100, Washington, DC 20008",N/A,N/A,N/A,$25k
+2164,"3883 Connecticut Ave Nw #p-30, Washington, DC 20008",N/A,N/A,N/A,$24k
+2165,"1543 Fort Davis St Se, Washington, DC 20020",986 sqft,2,2,$373k
+2166,"2141 Wisconsin Ave Nw Ste G4, Washington, DC 20007",992 sqft,1,2,$499k
+2167,"3011 20th St Ne, Washington, DC 20018",0.1 acres,N/A,N/A,$1.30m
+2168,"3601 Connecticut Ave Nw Apt 312, Washington, DC 20008",733 sqft,1,1,$370k
+2169,"3932 Ames St Ne, Washington, DC 20019","1,267 sqft",2,3,$300k
+2170,"3535 R St Nw, Washington, DC 20007","1,700 sqft",3,3,$1.15m
+2171,"3101 Chain Bridge Rd Nw, Washington, DC 20016","15,000 sqft",11,7,$8.15m
+2172,"506 A St Se, Washington, DC 20003","7,125 sqft",7,8,$3.75m
+2173,"Lowell St Nw, Washington, DC 20016",0.15 acres,N/A,N/A,$1.90m
+2174,"2718 32nd St Nw, Washington, DC 20008","7,500 sqft",9,5,$5.38m
+2175,"3060 16th St Nw Apt 210, Washington, DC 20009",N/A,1,1,$281k
+2176,"1310 N Capitol St Nw, Washington, DC 20002",0.05 acres,N/A,N/A,$1.50m
+2177,"1375 Maryland Ave Ne Apt C, Washington, DC 20002","1,275 sqft",1,1,$619k
+2178,"200 51st St Ne, Washington, DC 20019","1,898 sqft",4,4,$446k
+2179,"4995 Glenbrook Rd Nw, Washington, DC 20016","5,250 sqft",5,3,$2.09m
+2180,"1527 Park Rd Nw Apt 101, Washington, DC 20010","1,288 sqft",1,3,$495k
+2181,"4000 Cathedral Ave Nw Apt 331b, Washington, DC 20016",980 sqft,1,1,$249k
+2182,"1155 23rd St Nw Apt Ph3e, Washington, DC 20037","5,100 sqft",5.5,3,$7.20m
+2183,"51st St Ne, Washington, DC 20019",0.04 acres,N/A,N/A,$40k
+2184,"51st Street Ne, Washington, DC 20019",0.04 acres,N/A,N/A,$40k
+2185,"1155 23rd St Nw Apt 2c, Washington, DC 20037","1,750 sqft",2.5,2,$1.50m
+2186,"1515 31st St Nw, Washington, DC 20007","6,372 sqft",6,8,$5.20m
+2187,"2124 31st Pl Se, Washington, DC 20020","1,508 sqft",2,3,$250k
+2188,"1010 22nd St Nw, Washington, DC 20037","2,906 sqft",3,3,$1.68m
+2189,"2829 Tilden St Nw, Washington, DC 20008","6,185 sqft",7,7,$4.50m
+2190,"925 H St Nw Apt 810, Washington, DC 20001","1,389 sqft",3,2,$2.70m
+2191,"1414 22nd St Nw Apt 51, Washington, DC 20037","1,756 sqft",3,2,$1.60m
+2192,"5016 Rock Creek Church Rd Ne, Washington, DC 20011",0.54 acres,N/A,N/A,$3.50m
+2193,"5614 7th St Nw #1, Washington, DC 20011","1,000 sqft",2,2,$389k
+2194,"3900 Watson Pl Nw #a-5e, Washington, DC 20016","1,250 sqft",2,2,$449k
+2195,"635 14th St Ne, Washington, DC 20002","1,594 sqft",N/A,N/A,$650k
+2196,"4328 Alabama Ave Se, Washington, DC 20019","2,556 sqft",4,6,$495k
+2197,"1718 P St Nw #p12, Washington, DC 20036",180 sqft,N/A,N/A,$35k
+2198,"210 D St Se, Washington, DC 20003","3,051 sqft",5,5,$2.12m
+2199,"1107 Massachusetts Ave Nw, Washington, DC 20005","4,365 sqft",4,8,$2.99m
+2200,"234 Upshur St Nw, Washington, DC 20011","2,500 sqft",3,3,$1m
+2201,"1139 Morse St Ne, Washington, DC 20002","1,536 sqft",3,3,$750k
+2202,"6411 6th St Nw, Washington, DC 20012","1,088 sqft",1.5,3,$370k
+2203,"4000 Cathedral Ave Nw Apt 405b, Washington, DC 20016",950 sqft,1,1,$229k
+2204,"1046 48th Pl Ne, Washington, DC 20019","1,652 sqft",2,5,$265k
+2205,"1123 48th Pl Ne, Washington, DC 20019","1,003 sqft",1,2,$500k
+2206,"70 Darrington St Sw, Washington, DC 20032","1,336 sqft",2,3,$195k
+2207,"228 Malcolm X Ave Se, Washington, DC 20032","1,440 sqft",2,3,$329k
+2208,"4204 3rd St Nw, Washington, DC 20011","1,368 sqft",1,3,$599k
+2209,"2423 3rd St Ne, Washington, DC 20002","2,100 sqft",3.5,4,$779k
+2210,"1232 Florida Ave Ne, Washington, DC 20002","1,320 sqft",1,3,$609k
+2211,"720 Chesapeake St Se, Washington, DC 20032","1,122 sqft",1,3,$315k
+2212,"1451 Park Rd Nw Apt 308, Washington, DC 20010",578 sqft,1,1,$319k
+2213,"4322 Gorman Ter Se, Washington, DC 20019",832 sqft,1.5,3,$298k
+2214,"439 Elm St Nw, Washington, DC 20001",780 sqft,1,2,$549k
+2215,"4301 Massachusetts Ave Nw Apt 5009, Washington, DC 20016","1,045 sqft",2,2,$349k
+2216,"3419 Wisconsin Ave Nw, Washington, DC 20016","2,480 sqft",4,5,$950k
+2217,"5149 Yuma St Nw, Washington, DC 20016","3,848 sqft",5.5,5,$1.45m
+2218,"1260 21st St Nw Apt 600, Washington, DC 20036",420 sqft,1,N/A,$260k
+2219,"1824 Bruce Pl Se, Washington, DC 20020","1,360 sqft",3,4,$290k
+2220,"2802 Sherman Ave Nw #b, Washington, DC 20001","1,580 sqft",3,2,$875k
+2221,"2802 Sherman Ave Nw #a, Washington, DC 20001","1,305 sqft",3,2,$750k
+2222,"1805 Hoban Rd Nw, Washington, DC 20007","7,800 sqft",8,6,$4.75m
+2223,"1450 T St Nw, Washington, DC 20009","1,800 sqft",4,2,$1.75m
+2224,"1319 21st St Nw, Washington, DC 20036","3,434 sqft",5,7,$2.19m
+2225,"925 H St Nw Apt 410, Washington, DC 20001","1,452 sqft",2,2,$1.50m
+2226,"1315 Trinidad Ave Ne, Washington, DC 20002","1,460 sqft",2,4,$830k
+2227,"2845 Mcgill Ter Nw, Washington, DC 20008","8,890 sqft",5.5,5,$5.00m
+2228,"243 12th St Ne, Washington, DC 20002","3,075 sqft",3.5,3,$1.10m
+2229,"1731 Riggs Pl Nw, Washington, DC 20009","3,596 sqft",4,4,$2.40m
+2230,"1155 23rd St Nw Apt 5k, Washington, DC 20037","1,422 sqft",2,2,$1.85m
+2231,"2022 1st St Nw, Washington, DC 20001","3,004 sqft",4.5,6,$1.40m
+2232,"1517 Montana Ave Ne, Washington, DC 20018","1,128 sqft",1.5,3,$460k
+2233,"3101 Naylor Rd Se Apt C, Washington, DC 20020",848 sqft,1,2,$139k
+2234,"2555 Pennsylvania Ave Nw #1c, Washington, DC 20037","5,991 sqft",2,N/A,$2.95m
+2235,"2900 Pomeroy Rd Se Apt 103, Washington, DC 20020",N/A,1,1,$130k
+2236,"139 C St Se, Washington, DC 20003","4,140 sqft",5,6,$1.90m
+2237,"4200 Massachusetts Ave Nw Apt 306, Washington, DC 20016","2,129 sqft",2.5,2,$895k
+2238,"2127 Leroy Pl Nw, Washington, DC 20008","4,368 sqft",6,4,$3.10m
+2239,"444 Ridge Rd Se, Washington, DC 20019","2,401 sqft",3.5,4,$999k
+2240,"1609 22nd St Nw, Washington, DC 20008","5,500 sqft",4,8,$4.44m
+2241,"3251 Prospect St Nw Apt 402, Washington, DC 20007","3,550 sqft",4.5,5,$2.75m
+2242,"116 Quincy Pl Ne, Washington, DC 20002","1,546 sqft",1,3,$700k
+2243,"50 53rd St Se, Washington, DC 20019","1,168 sqft",2,5,$315k
+2244,"311 56th St Ne, Washington, DC 20019",535 sqft,1,2,$135k
+2245,"1525 Channing St Ne, Washington, DC 20018","1,600 sqft",1.5,3,$250k
+2246,"748 Burns St Se, Washington, DC 20019",832 sqft,2,2,$140k
+2247,"350 G St Sw Apt N104, Washington, DC 20024",892 sqft,1,1,$479k
+2248,"Eastern Ave Ne, Washington, DC 20019",0.09 acres,N/A,N/A,$150k
+2249,"Foote St Ne, Washington, DC 20019",0.02 acres,N/A,N/A,$25k
